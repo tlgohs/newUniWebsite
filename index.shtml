@@ -12,7 +12,7 @@
         <div id="content">
             <!--#include file="navbar.html" -->
         </div>
-		
+        
         <!--#include file="footer.html" -->
     </body>
 </html>
