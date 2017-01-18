@@ -90,11 +90,11 @@ body {
 .mobile-menu-right-icon {
 	height: 5vh;
 	display: inline;
+	float: right;
 	width: 15% !important;
 	text-align: center;
 	line-height: 100%;
 	font-size: 5vh;
-	display: table-cell;
 	padding-top: 0px;
 	color: white;
 }
@@ -104,11 +104,9 @@ body {
 }
 
 .mobile-menu-icon-container {
-	display: table;
 	width: 100%;
 	padding: 0px;
 	margin: 0px;
-	table-layout: fixed;
 }
 
 .mobile-submenu > li:not(:nth-child(2)):not(:first-child) > a:after {
@@ -129,13 +127,4 @@ body {
 .mobile-quicklinks > ul {
 	padding-left: 0px;
 	list-style-type: none;
-}
-
-.cena {
-	position: fixed;
-	left: 30%;
-	bottom: -50px;
-	color: #ff0000;
-	padding: 0px;
-	margin: 0px;
 }

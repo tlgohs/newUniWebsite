@@ -6,7 +6,6 @@ var moving;
 var menuTick=function() {
 	menuX+=menuDX;
 	moving.style.right=(menuX)+"%";
-	document.getElementsByClassName("cena")[0].style.bottom=(50+menuX)+"px";
 	if (menuX==0||menuX==-length) {
 		menuDX=0;
 	} else {
