@@ -114,6 +114,11 @@ body {
 	float: right;
 }
 
+.mobile-submenu > li:first-child > a:before {
+	content: "\25c4";
+	padding-right: 10px;
+}
+
 .mobile-quicklinks > ul > li {
 	font-size: 2vh;
 	padding-bottom: 3px;
