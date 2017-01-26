@@ -9,8 +9,22 @@
         <link rel="stylesheet" href="footer.css">
     </head>
     <body>
-            <!--#include file="navbar.html" -->
-			
-			<iframe src="https://player.vimeo.com/video/193765287?background=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<!--#include file="navbar.html" -->
+		
+		<iframe src="https://player.vimeo.com/video/193765287?background=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+		<div id="video-button">
+			<ul>
+				<li>
+					<a href="#">Link 1</a>
+				</li>
+				<li>
+					<a href="#">Link 2</a>
+				</li>
+				<li>
+					<a href="#">Link 3</a>
+				</li>
+			</ul>
+		</div>
     </body>
 </html>

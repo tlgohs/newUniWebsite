@@ -1,7 +1,31 @@
 iframe{
 	width: 100%;
 	height: 100vh;
-	position: absolute;
+	position: fixed;
 	z-index: -1;
 	top: 0;
+}
+
+#video-button{
+	margin: 32em auto 0 auto;
+	width: 45em;
+	height: 3.5em;
+}
+
+#video-button ul{
+	padding: 0;
+}
+
+#video-button ul li{
+	list-style-type: none;
+	float: left;
+	width: 15em;
+	text-align: center;
+    background-color: rgba(232, 119, 34, 0.9);
+}
+
+#video-button ul li a {
+	display: block;
+    padding: 1em 0;
+    font-size: 16px;
 }
