@@ -16,13 +16,13 @@
 		<div id="video-button">
 			<ul>
 				<li>
-					<a href="#">Link 1</a>
+					<a href="#">Parent-Teacher Conferences</a>
 				</li>
 				<li>
-					<a href="#">Link 2</a>
+					<a href="#">Donate to Uni</a>
 				</li>
 				<li>
-					<a href="#">Link 3</a>
+					<a href="#">Uni Gala</a>
 				</li>
 			</ul>
 		</div>

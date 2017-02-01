@@ -8,7 +8,7 @@ iframe{
 
 #video-button{
 	margin: 32em auto 0 auto;
-	width: 45em;
+	width: 48em;
 	height: 3.5em;
 }
 
@@ -19,7 +19,7 @@ iframe{
 #video-button ul li{
 	list-style-type: none;
 	float: left;
-	width: 15em;
+	width: 16em;
 	text-align: center;
     background-color: rgba(232, 119, 34, 0.9);
 }
@@ -28,4 +28,13 @@ iframe{
 	display: block;
     padding: 1em 0;
     font-size: 16px;
+	color: white;
+	text-decoration: none;
+	transition: background-color 0.3s ease;
+	-webkit-transition: background-color 0.3s ease;
+    -moz-transition: background-color 0.3s ease;
+}
+
+#video-button ul li a:hover{
+	background-color: #E87722;
 }
