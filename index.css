@@ -6,9 +6,12 @@ iframe{
 	top: 0;
 }
 
+.container{
+	display: flex;
+}
+
 #video-button{
 	margin: 32em auto 0 auto;
-	width: 48em;
 	height: 3.5em;
 }
 
@@ -39,3 +42,4 @@ iframe{
 #video-button ul li a:hover{
 	background-color: #E87722;
 }
+

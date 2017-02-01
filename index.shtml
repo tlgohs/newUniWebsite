@@ -12,19 +12,21 @@
 		<!--#include file="navbar.html" -->
 		
 		<iframe src="https://player.vimeo.com/video/193765287?background=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-		<div id="video-button">
-			<ul>
-				<li>
-					<a href="#">Parent-Teacher Conferences</a>
-				</li>
-				<li>
-					<a href="#">Donate to Uni</a>
-				</li>
-				<li>
-					<a href="#">Uni Gala</a>
-				</li>
-			</ul>
+		
+		<div class="container">
+			<div id="video-button">
+				<ul>
+					<li>
+						<a href="#">Parent-Teacher Conferences</a>
+					</li>
+					<li>
+						<a href="#">Donate to Uni</a>
+					</li>
+					<li>
+						<a href="#">Uni Gala</a>
+					</li>
+				</ul>
+			</div>
 		</div>
     </body>
 </html>
