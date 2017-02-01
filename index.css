@@ -28,6 +28,10 @@ iframe{
     background-color: rgba(232, 119, 34, 0.9);
 }
 
+#video-button ul li:nth-child(2){
+	margin: 0 1px;
+}
+
 #video-button ul li a {
 	display: block;
     padding: 1em 0;
