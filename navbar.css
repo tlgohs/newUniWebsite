@@ -70,6 +70,7 @@ div.uni-mark {
 }
 
 img.uni-mark {
+    display: block;
     height: 7em;
     outline: solid 1px white;
     
