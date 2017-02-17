@@ -10,10 +10,8 @@
     </head>
     <body>
 		<!--#include file="navbar.html" -->
-		<div class="wrapper1">
-			<div class="wrapper2">
+		<div class="wrapper">
 				<iframe src="https://player.vimeo.com/video/203843369?background=1&autoplay=1&loop=1" width="1600" height="900" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-			</div>
 		</div>
 		
 		
