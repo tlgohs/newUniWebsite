@@ -79,3 +79,8 @@ img.uni-mark {
     -moz-box-shadow: 0px 0px 50px 4px rgba(0,0,0,0.25);
     box-shadow: 0px 0px 50px 4px rgba(0,0,0,0.25);
 }
+
+.fix-navbar {
+	position: fixed;
+	width: 100%; /* Doesn't work without this, not quite sure why */
+}
