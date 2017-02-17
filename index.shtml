@@ -10,8 +10,12 @@
     </head>
     <body>
 		<!--#include file="navbar.html" -->
+		<div class="wrapper1">
+			<div class="wrapper2">
+				<iframe src="https://player.vimeo.com/video/203843369?background=1&autoplay=1&loop=1" width="1600" height="900" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+		</div>
 		
-		<iframe src="https://player.vimeo.com/video/193765287?background=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 		
 		<div class="container">
 			<div id="video-button">
@@ -26,6 +30,52 @@
 						<a href="#">Uni Gala</a>
 					</li>
 				</ul>
+			</div>
+		</div>
+		<div class="fp-bluecontent">
+			<div id="fp-header">
+				Nationally Renowned High School
+			</div>
+			<div id="fp-1">
+				Uni High is a public laboratory school enrolling approximately 322 students.
+				Founded in 1921, the 5-year high school is located on the University of Illinois
+				campus in Urbana-Champaign.
+			</div>
+			<div id="datalist">
+				<table>
+					<tr>
+						<th>65</th>
+						<th>18</th>
+						<th>9:1</th>
+					</tr>
+					<tr>
+						<td>Average Class Size</td>
+						<td>National Merit Finalists</td>
+						<td>Student to Teacher Ratio</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="fp-whitecontent">
+			<div id="fp-header">
+				Our Mission
+			</div>
+			<div id="fp-2">
+				University of Illinois Laboratory High School seeks to spark the 
+				creative fervor and high aspirations of talented young people,
+				to inspire them to excellence, to challenge them through
+				traditional and experimental strategies, to ignite their potential
+				for active and responsible involvement in the adult world, and to
+				positively influence the larger educational community.
+
+			</div>
+		</div>
+		<div class="fp-bluecontent">
+			<div id="fp-header">
+				Filler Content
+			</div>
+			<div id="fp-1">
+				I was in my 8th grade math class. All year a particular student, known for being a little wacky, had been occasionally pretending to be Pikachu. Some days he would sit there working on stuff and someone would ask him a question or whater and he'd just respond 'Pika? Piiiika CHUU' or any other combination. Well, one day late in the year we are working on our assignment after recieving the lecture and said kid starts making some weird noises. Starts to shake a little bit. At first I thought maybe he was starting to seize, but just as it starts to get frighteningly violent he stops still as a rock and practically shouts "RAICHU!!!' After a couple seconds of stunned silence, our teacher simply shakes his head and says, 'Derrick, principal's office, now.'
 			</div>
 		</div>
     </body>
