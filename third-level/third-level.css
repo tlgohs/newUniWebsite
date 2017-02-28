@@ -4,12 +4,12 @@
 
 #content-left {
 	float: left;
-	margin-top: 2.952348529784em;
+	margin-top: 3em;
 	padding-left: 10%;
 }
 
 #section-title {
-	font-size: 3.0145937318em;
+	font-size: 3em;
 	font-weight: bold;
 	border-bottom: 2px solid #001489;
 	width: 100%;
@@ -20,13 +20,13 @@
 #section-content {
 	width: 100%;
 	margin-top: 1em;
-	line-height: 1.39148526734814em;
-	font-size: 0.95345627457em;
+	line-height: 1.4em;
+	font-size: 1em;
 }
 
 #image {
 	width: 100%;
-	margin-top: 1.04597346713834em;
+	margin-top: 1em;
 	text-align: center;
 }
 
@@ -39,7 +39,7 @@
 		width: 25%;
 		border-left: 1px solid #001489;
 		float: right;
-		margin-top: 6.534058613748em;
+		margin-top: 6.5em;
 	}
 
 	.sidebar > ul {
@@ -49,15 +49,15 @@
 	.sidebar > ul > li:first-child {
 		color: #001489;
 		font-weight: bold;
-		font-size: 1.3024586173483024em;
+		font-size: 1.3em;
 	}
 
 	.sidebar > ul > li:not(:first-child) {
-		padding-left: 1.13049538523em;
+		padding-left: 1.1em;
 	}
 
 	.sidebar > ul > li {
-		margin-top: 0.5013254861374em;
+		margin-top: 0.5em;
 	}
 
 	.sidebar > ul > li > ul {
@@ -71,7 +71,44 @@
 
 @media screen and (max-width: 800px) {
 	.sidebar {
-		color: green;
+		position: fixed;
+		right: 0px;
+		top: 10em;
+		background-color: #555;
+		padding-right: 1em;
+		font-size: 2em;
+	}
+	
+	.sidebar > ul , .sidebar > ul > li > ul {
+		list-style-type: none;
+		padding: 0px;
+		margin: 0px;
+		background-color: #555;
+	}
+	
+	.sidebar > ul > li, .sidebar > ul > li > ul > li {
+		width: 100%;
+		border-bottom: 1px solid #eee;
+		display: block;
+		margin: 0px 1em 0.3em 0px;
+	}
+	
+	.sidebar > ul > li > a , .sidebar > ul > li > ul > li > a {
+		background-color: #555;
+		color: #eee;
+		width: 100%;
+		transition: 0.2s;
+		display: block;
+		padding: 0.2em;
+		padding-left: 1em;
+	}
+	
+	.sidebar > ul > li:first-child > a {
+		padding-left: 0.2em;
+	}
+	
+	.sidebar > ul > li > a:hover , .sidebar > ul > li > ul > li > a:hover {
+		background-color: #999;
 	}
 	
 	#content-left {
