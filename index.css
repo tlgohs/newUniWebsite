@@ -1,12 +1,13 @@
 .wrapper{
-	position:fixed;
+	position: fixed;
 	top: 0;
 	left: 0;
 	bottom: 0;
 	width: 100%;
 	z-index: -1;
 	overflow: hidden;
-	background-image: url("https://i.ytimg.com/vi/U4pMQv46vz4/maxresdefault.jpg");
+	background: url("https://i.ytimg.com/vi/U4pMQv46vz4/maxresdefault.jpg") no-repeat center center fixed;
+	background-size: cover;
 }
 
 .wrapper2{
