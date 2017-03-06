@@ -5,14 +5,17 @@
 	<script src="mobile_menu_test.js"></script>
 </head>
 <body>
+<div id="body">
   Woo, the body! There's so much good content here!<br>It's the best.<br>The greatest.<br>
   <button id="open-menu" onclick="openMenu()">Sad.</button><br>
+  </div>
   <div class="mobile-menu">
 	
 	<ul>
 		<li>
 		<div class="mobile-menu-icon-container">
-			<a class="mobile-menu-right-icon" onclick="closeMenu()" href="#">&#9776</a>
+			<a class="mobile-menu-icon float-right" onclick="closeMenu()" href="#">&#9776</a>
+			<a class="mobile-menu-icon float-left"><img src="/newUniWebsite/images/uni_mark.png"></img></a>
 		</div>
 		</li>
 		<li onclick="openSub(0)">

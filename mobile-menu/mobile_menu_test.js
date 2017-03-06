@@ -3,42 +3,26 @@ var length=70;
 var menuDX=0;
 var moving;
 
-var menuTick=function() {
-	menuX+=menuDX;
-	moving.style.right=(menuX)+"%";
-	if (menuX==0||menuX==-length) {
-		menuDX=0;
-	} else {
-		setTimeout(menuTick,16);
-	}
-}
-
 var openMenu=function() {
-	menuX=-70;
-	menuDX=5;
 	moving=document.getElementsByClassName("mobile-menu")[0];
-	setTimeout(menuTick,16);
+	moving.style.right="0%";
 	document.getElementById("open-menu").onclick=null;
+	document.getElementById("body").style.left="-70%";
 }
 
 var closeMenu=function() {
-	menuX=0;
-	menuDX=-5;
 	moving=document.getElementsByClassName("mobile-menu")[0];
-	setTimeout(menuTick,16);
+	moving.style.right="-70%";
 	document.getElementById("open-menu").onclick=openMenu;
+	document.getElementById("body").style.left="0%";
 }
 
 var openSub=function(index) {
-	menuX=-70;
 	moving=document.getElementById("submenu-container").children[index].children[0];
-	menuDX=5;
-	setTimeout(menuTick,16);
+	moving.style.right="0%";
 }
 
 var closeSub=function(index) {
-	menuX=0;
 	moving=document.getElementById("submenu-container").children[index].children[0];
-	menuDX=-5;
-	setTimeout(menuTick,16);
+	moving.style.right="-70%";
 }
