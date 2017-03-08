@@ -30,7 +30,7 @@ iframe{
 }
 }
 
-.container{
+#button-container{
 	display: flex;
 	border-bottom: 2px solid #E87722;
 }
