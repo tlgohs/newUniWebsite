@@ -1,6 +1,3 @@
-var menuX=-70;
-var length=70;
-var menuDX=0;
 var moving;
 
 var openMenu=function() {
