@@ -1,26 +1,26 @@
 .footer {
-	color: white;
-	text-align: center;
+    color: white;
+    text-align: center;
 }
 
 #footer-i{
-	width: 100%;
-	padding-bottom: 16px;
-	padding-top: 16px;
+    width: 100%;
+    padding-bottom: 16px;
+    padding-top: 16px;
 }
 #footer-logos{
-	list-style-type: none;
+    list-style-type: none;
 }
 
 .footer-social-icons{
-	display: inline;
-	padding-right: 20px;
+    display: inline;
+    padding-right: 20px;
 }
 
 #footer-info{
-	list-style-type: none;
+    list-style-type: none;
 }
 
 .footer-info-list{
-	display: inline;
+    display: inline;
 }

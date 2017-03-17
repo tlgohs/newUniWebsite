@@ -83,6 +83,6 @@ img.uni-mark {
 }
 
 .fix-navbar {
-	position: fixed;
-	width: 100%; /* Doesn't work without this, not quite sure why */
+    position: fixed;
+    width: 100%; /* Doesn't work without this, not quite sure why */
 }
