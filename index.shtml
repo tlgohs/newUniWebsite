@@ -12,6 +12,12 @@
         <div id="content">
             <!--#include virtual="/navbar.html" -->
         </div>
+		
+		<div class="wrapper">
+				<div class="wrapper2">
+					<img src="https://i.ytimg.com/vi/U4pMQv46vz4/maxresdefault.jpg">
+				</div>
+			</div>
         
         <div id="button-container">
             <div id="video-button">
