@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="/index.css">
         <link rel="stylesheet" href="/navbar.css">
         <link rel="stylesheet" href="/footer.css">
-        <link rel="stylesheet" href="/third-level/third-level.css">
+        <link rel="stylesheet" href="/academics/academics.css">
     </head>
     <body>
         <div id="content">
@@ -23,7 +23,7 @@
                     Etiam eros nibh, commodo ac nulla pretium, porta dapibus orci. Etiam ornare nec nibh a ornare. Aenean laoreet nibh elit, a tincidunt turpis rhoncus id. Donec mauris neque, pharetra eu tortor et, hendrerit feugiat felis. Donec ac leo magna. Aenean urna neque, congue vel pharetra et, pellentesque quis tellus. Morbi at ante eget arcu aliquam ultricies sit amet in arcu. Mauris aliquet semper dolor bibendum posuere. Vivamus luctus, turpis ac eleifend bibendum, tortor turpis tincidunt risus, porttitor placerat orci leo id tortor. Maecenas dolor ex, pellentesque ac nunc eu, porttitor ullamcorper mi. Cras suscipit ornare augue, vel lacinia dolor tempus eu.
                 </div>
             </div>
-            <!--#include virtual="/third-level/partySidebar.html" -->
+            <!--#include virtual="/academics/sidebar.html" -->
         </div>
         
         <!--#include virtual="/footer.html" -->
