@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/computer-science/compsci.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">COMPUTER SCIENCE</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+				<p>The Computer Science curriculum is intended to give all students the background in computer and communications technology they need to be successful in their high school and college courses, and to help students with special interests in information technology explore advanced opportunities in the computer field. The goal is to contribute to both the personal development and educational success of students and to help them to, as required by Illinois learning standards, “use appropriate instruments, electronic equipment, computers and networks to access information, process ideas and communicate results.” Uni High’s computer and publishing courses focus directly on these technology objectives through a required two-semester Computer Literacy course sequence and five elective courses for advanced students.</p>
+				<p>All students are required to take two one-semester courses, Computer Literacy 1 and 2, usually during their subfreshman and freshman years. These courses introduce computers and the Internet as tools for communications, research and creativity, and emphasize practical applications that will be useful to students in their future Uni High and college classes.All students are required to take two one-semester courses, Computer Literacy 1 and 2, usually during their subfreshman and freshman years. These courses introduce computers and the Internet as tools for communications, research and creativity, and emphasize practical applications that will be useful to students in their future Uni High and college classes.</p>
+				<p>The elective courses (Computer Programming, Computer Technology, World-Wide Web Development, Yearbook, and Advanced Yearbook) allow students to pursue special interests in software development, computer and electrical engineering and hardware, online and print publishing, computer operating systems and software tools. All of these courses are oriented toward practical applications using modern software and equipment similar to those used in real-life university and commercial settings.</p>
+				<p>Throughout the computer science curriculum, we stress communication between individuals, cooperation in group work and the ethical use of information technology as foundations for learning about computer applications. It is the human side of computing that is both the most interesting and the most difficult, and we hope that our students will learn to be comfortable with computer and communications technology and appreciate what it allows them to accomplish, both individually and together, while understanding both its capabilities and limitations.</p>
+				</div>
+            </div>
+            <!--#include virtual="/academics/computer-science/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
