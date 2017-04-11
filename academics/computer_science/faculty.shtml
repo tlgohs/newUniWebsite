@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="/index.css">
         <link rel="stylesheet" href="/navbar.css">
         <link rel="stylesheet" href="/footer.css">
-        <link rel="stylesheet" href="/academics/computer-science/compsci.css">
+        <link rel="stylesheet" href="/academics/academics.css">
     </head>
     <body>
         <div id="content">
@@ -31,7 +31,7 @@
 				
 				</div>
             </div>
-            <!--#include virtual="/academics/computer-science/sidebar.html" -->
+            <!--#include virtual="/academics/computer_science/sidebar.html" -->
         </div>
         
         <!--#include virtual="/footer.html" -->
