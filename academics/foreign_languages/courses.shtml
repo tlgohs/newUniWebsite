@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">FOREIGN LANGUAGES: COURSES</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <h4><u>French, Spanish, and German 1</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        First year French, Spanish, and German students will take the first steps toward learning how to communicate in
+                        another language. They learn how to greet people and what to say in everyday situations. They learn to talk about themselves, their friends and their family in the foreign language--to describe them, to tell what they like and don't like to do, how old they are, how they feel, what jobs they have or the courses they take, and the things they own. They learn how to pronounce the sounds of the language correctly and with the appropriate accent and intonation. Depending upon the language, they will be able to write lists, simple sentences, questions, and later paragraphs and short compositions. Basic word processing in the target language will also be introduced. They are able to understand what they hear others say or what they see written about these same topics. They learn ways to read some things that are new to them.
+                    </p>
+                    <p>
+                        In class, students may from time to time see videos and movies, glean information from language specific web sites, play games, listen to guest speakers, sing, give reports, and perform skits and role-plays. In each language class, students become acquainted with everyday life of the people whose language they are learning. They will also become familiar with the geography, national landmarks, traditions, and history of the country.
+                    </p>
+
+
+                    <h4><u>French, Spanish, and German 2</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        In their second year of language study, French, Spanish and German students learn to express their ideas on a wider
+                        range of topics and with improved pronunciation, accent and intonation. They learn how to talk comfortably about ordinary events that happened in the past, and about what they would like to see happen in the future. They learn ways to make their ideas understood even if they may not know the exact word. They learn how to listen to the spoken language in order to follow the main message being communicated. They learn strategies for reading a text in the foreign language that may contain some unfamiliar words. They learn how to get their message across when writing paragraphs and short compositions and the elements of grammar that will enable them to express themselves clearly. Word processing in the target language, as well as the use of on-line reference materials will be covered. As in the first year class, classroom activities include games, skits, songs, reports, and films. Students continue the process of discovering the everyday life, customs, and culture of the people through the use of on-line materials and e-mail.
+                    </p>
+
+                    <h4><u>French, Spanish, and German 3</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        Level 3 students become increasingly able to use the language to communicate a variety of messages for more
+                        extended periods of time, and with more confidence. They become more comfortable with listening to native speech and with reading unfamiliar material. They learn to express their opinions, to summarize, to give more detailed explanation and descriptions, and to create with the language. As in all levels, they learn the vocabulary and language structures necessary to express themselves clearly. Students begin to read samples from the literature of the country whose language they are learning, as well as a variety of other kinds of written texts, such as magazine articles and advertisements. Role-playing games, discussions, oral reports, and films are classroom activities typical of a third-year French and German language class. Students learn to research topics on the web and make presentations to the class using presentation software such as PowerPoint.
+                    </p>
+
+                    <h4><u>French, Spanish, and German 4</u></h4>
+                    <p>(1 unit)</p>
+                    <p>In the fourth year of language study, French, German and Spanish students are able to deal with more complicated
+                    situations in the foreign language. They begin to be able to analyze what they hear and read, and to write well- organized, more detailed, and lengthier compositions. They read and discuss well-known works of literature and also read the kinds of materials that native speakers in the foreign culture might read, such as magazine and newspaper articles. They may view and discuss foreign films and television/radio broadcasts. Many of the television/radio broadcasts are accessed via the Internet. In short, Level 4 students learn that they can get along in the foreign culture with some ease.
+                    </p>
+
+                    <h4><u>Japanese 1</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        Students will take the first step toward learning how to communicate in Japanese. They will learn how to greet
+                        people and what to say in everyday situations. They will learn to talk about themselves, their friends and their family, and they will be able to understand what others say about these same topics. Students will learn to read, pronounce and write the two basic writing systems (hiragana and katakana) and will also learn a limited number of the most commonly used kanji (characters borrowed from Chinese). They will be able to write words, lists, and simple sentences. They will read familiar material, and will learn ways to read some things that are new to them. They will begin to gain an understanding of the cultural aspects of the language, such as using the appropriate level of formality. Many everyday aspects of Japanese culture will be explored via the web.
+                    </p>
+                    
+                    <p>
+                        In class, Japanese 1 students may from time to time view videos and slides, play games, practice calligraphy, sing, and perform skits. Students will become acquainted with everyday life in Japan and will also become familiar with the geography, national landmarks, foods, festivals, school and family life, and traditions and values of the Japanese people.
+                    </p>
+
+                    <h4><u>Japanese 2</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        In Japanese 2, students can expect to increase their communicative ability in the five basic areas of reading, writing,
+                        listening, speaking, and cultural awareness. Knowledge of the two syllabaries (hiragana and katakana) is assumed. Knowledge of kanji (Chinese characters) covered in Japanese 1 is also assumed. Emphasis will be placed on expanding vocabulary, comprehending and utilizing formal and informal forms of grammar, and on writing skills. Kanji instruction will continue at the rate of 50 per semester. A special emphasis will be placed on oral communication as well. Classroom activities will be similar to those described for Japanese I.
+                    </p>
+
+                    <h4><u>Japanese 3</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        Japanese 3 involves the continued and expanded study of the written and spoken language. Japanese 3 assumes
+                        mastery of the hiragana and katakana syllabaries and of the 150-200 kanji covered in Japanese 1 and 2. Approximately 100 new kanji will be learned. Students will be expected to function in class entirely in Japanese. They will learn to express their opinions, to summarize, and to give more detailed explanations and description. They will begin to learn the appropriate uses of honorific speech as well. Students will begin to read a book, A Homestay in Japan: Nihon to no Deai, that relates the day-to-day experiences of an American exchange student in Japan. Students will continue to gain an appreciation for Japanese culture through language activities, films, video programs, on-line materials, slides, songs, games, campus events, and guest speakers.
+                    </p>
+
+                    <h4><u>Japanese 4</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        Japanese 4 is a yearlong course designed for students who have completed Japanese 3 or who have an equivalent
+                        ability in the Japanese language. The course involves the continued and expanded study of the written language, vocabulary, and contextual usage of appropriate sentence patterns designed to enhance the students' interactive skills in Japanese. Japanese 4 will assume mastery of the approximately 300 kanji covered in Japanese 1, 2, and 3. Students will be expected to function in class entirely in Japanese, in culturally and linguistically appropriate ways. Students will learn to express their opinions, to summarize, and to give more detailed explanations and descriptions. They will continue to learn the appropriate uses of honorific speech. Students will read longer pieces of writing in Japanese, and they will learn about Japanese culture in the context of their language study. The Web will be used to read current news articles, explore culture topics, and Japanese story reading.
+                    </p>
+
+                    <h4><u>Latin 1</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        The Latin Program at University of Illinois High School normally occupies four years. The objective of the first two
+                        years of the program is to prepare students to read and enjoy authentic Latin authors in the original.
+                    </p>
+                    
+                    <p>
+                        In Latin 1, students learn the basics of Latin grammar and vocabulary, as well as an introduction to Roman culture, civilization, and history. Students read and translate sentences and paragraphs from the Cambridge Latin Course in order to practice and review that grammar and vocabulary.
+                    </p>
+
+                    <h4><u>Latin 2</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        In Latin 2, students will continue to learn more vocabulary and intermediate grammatical concepts, with the focus
+                        on subordinate clauses in the second semester. They continue to read and translate passages from the Cambridge Latin Course building on their knowledge of grammar and vocabulary. The students also continue to learn about Roman culture and civilization with the focus on the expansion of Rome and its influence throughout the Mediterranean.
+                    </p>
+
+                    <h4><u>Latin 3</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        In Latin 3, students focus on advance grammar and transition from the adapted Latin of the Cambridge Latin Course to authentic Latin prose authors. They read and translate selections from Caesar and Cicero. The students continue to learn about Roman culture focusing on the end of the Roman Republic and the transition to the Roman Empire.
+                    </p>
+
+
+                    <h4><u>Latin 4</u></h4>
+                    <p>(1 unit)</p>
+                    <p>
+                        In Latin 4, students read and translate authentic Latin poetry authors. They focus on selections from Ovid, Vergil,
+                        and Catullus. They also learn about Latin meters and literary devices. The students also learn about Roman culture focusing on the Roman Empire and its emperors.
+                    </p>
+
+                </div>
+            </div>
+            <!--#include virtual="/academics/foreign_languages/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
