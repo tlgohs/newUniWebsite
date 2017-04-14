@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">MATH</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <p>
+                        The Mathematics Department is committed to providing a quality program in college preparatory mathematics. Our goal is to equip all students graduating from Uni High with the prerequisites in mathematics to succeed in their chosen course of study at any university in the United States. We are also committed to using the NCTM Standards and the Common Core State Standards as guidelines for our curriculum. At all course levels, we emphasize approaching problems from the numerical, geometric, and analytic points of view and developing the student’s ability to communicate about mathematics both orally and in writing. We want the students to value the role of both investigation and proof in mathematics, and we use technology where it is helpful in supporting these aims. Calculators are used in all courses, and students use specialized technology such as spreadsheets, dynamic geometry, computer algebra systems, the internet, and other software packages at various times to represent information, form conjectures, solve problems, and communicate results.
+                    </p>
+                    
+                    <p>
+                        Mathematics is a language for describing patterns in the world around us. We believe that when students recognize that mathematics comes from a rich historical development, and new mathematical ideas, applications, and algorithms are continually being generated, they will learn to value mathematics not only for what it can do but for what it is. If students experience the wonder of mathematics and are intrigued by a mathematical curiosity, they will come to appreciate and even enjoy the process. Although mathematics is a useful subject that helps us find the amount spent on groceries, communicate scientific relationships, and model problems involving interest, it is also a wonderful subject in itself, with startling relationships and connections that are fascinating to think about.
+                    </p>
+
+                    <p>
+                        <b>Math Department Placement Procedures</b><br>
+                        All subfreshmen entering Uni will automatically be placed into Math 1. Freshmen entering Uni will be placed into Math 1 unless they take and pass the equivalent of the final exam for Math 1. Students entering in sophomore, junior, or senior years may automatically place out of a Uni math course only if they have received a grade of C or better on a high school transcript for a substantially equivalent course. Students entering Uni who intend to take Calculus as their first course must either have a grade of B or better recorded for a Precalculus course on a high school transcript or take placement exams covering trigonometry and algebra.
+                    </p>
+
+                    <p>
+                        Note: These proficiency guidelines are directed towards students just entering University High School. Please contact a member of the Mathematics Department (tel. 333-6034, or email hcrussel@illinois.edu) if these guidelines do not answer your questions, or to arrange for placement tests. 
+                    </p>
+                
+                </div>
+            </div>
+            <!--#include virtual="/academics/math/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">MATH: FACULTY</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <p>
+                        <b>Gene Bild </b> <a href="mailto:bild@uni.illinois.edu">(bild)</a> has a B.S. in Math from DePaul University and a M.S. in the teaching of math from UIUC. His mathematical interests include polyominoes and other tiling problems, coding theory and 3D geometric construction puzzles such as Soma Cubes. In 2002 he won the Edith May Sliffe award for Distinguished Mathematics Teaching. In 2008 the Illinois Society of Professional Engineers (ISPE) awarded Mr. Bild its Joint Service Award for his work as a MathCounts coach. He currently teaches Algebra II and Statistics.
+                    </p>
+
+                    <p>
+                        <b>Ioana Boca</b> <a href="mailto:iboca@uni.illinois.edu">(iboca)</a> earned her BS in Mathematics from the University of Bucharest, a Ph.D in Mathematics from the University of Southern California, and a MS in Statistics from the University of Illinois. She teaches Geometry, Calculus 1, and Accelerated Calculus 1.
+                    </p>
+
+                    <p>
+                        <b>Warren Buck</b><a href="mailto:wbuck@uni.illinois.edu"> (wbuck)</a> teaches Algebra 1 and Advanced Topics. He earned his B.A. in mathematics education and his M.A. in mathematics from Eastern Illinois University. <br>Website: <a href=" http://www.uni.illinois.edu/~wbuck"> http://www.uni.illinois.edu/~wbuck </a>
+                    </p>
+
+                    <p>
+                        <b>Craig Russell</b><a href="mailto:hcrussel@uni.illinois.edu"> (hcrussel)</a> is a Teaching Associate and Executive Teacher who earned his B.S. in mathematics at MIT in 1983, then served in Hawk and Patriot units in Germany for seven years before being "assigned" to RPI, where he earned an MS in Applied Mathematics and completed all but dissertation requirements for the PhD in 1992. He was then assigned to teach at the United States Military Academy (West Point), where he taught freshman and sophomore math courses and was the math department leader in a study involving issuing students laptop computers for class work. At West Point, Mr. Russell was bitten by the teaching bug, so he resigned from the Army to become a high school teacher. Mr. Russell's favorite people are his wife and two children, followed by students who like math. He is teaching Geometry and Accelerated Calculus 2/3.
+                    </p>
+
+                
+                </div>
+            </div>
+            <!--#include virtual="/academics/math/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">MATH: CALCULATORS</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <p>
+                        All University High School students enrolled in a mathematics course are required to have a graphing calculator. Since teachers use the TI-84  Plus (or TI-83), we recommend that students use the same calculator. Students who wish to use another calculator are responsible for learning how to use their calculator. If you are buying a graphing calculator, we prefer that you get a TI-84 PLUS (or TI-83 PLUS, or TI-83, or TI-84). If you already own a different graphing calculator on this list, you may use it. In addition, students who own hand-held computing devices with graphing capability, or any other calculator or computing device with similar functionality, may use them in any class (but they are not allowed on Advanced Placement examinations). Teachers reserve the right to prohibit sharing of calculators, computers, etc., and to require that memories be cleared before or after examinations on which such devices were used. Please DO NOT buy a TI-85, TI-86, or TI-89, TI-92, or TI Explorer/Voyage, unless you are a really good manual reader/user. The instructions for using these differ substantially from other calculators in use. Students who intend to take the Advanced Placement exam in Calculus or Statistics will be allowed to use graphing calculators on those exams. 
+                    </p>
+                
+                </div>
+            </div>
+            <!--#include virtual="/academics/math/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

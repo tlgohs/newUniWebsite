@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">MATH: CONTESTS</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <p>
+                        <b>Parkland/ICTM Contests</b> These are regional and state competitions featuring individual tests in Algebra 1, Geometry, Algebra 2, and Pre-Calculus, as well as team testing situations with a 5-person "calculating" team, two levels of 8-person team (written) and 2-person team (head-to-head timed contest), and an oral competition. Uni High usually sends three of each team to the regional contest at Parkland (last Saturday in February), and one of each team to the state contest (last Saturday in April). Speak to your math teacher, and watch announcements for grade-level "math team" meetings at lunchtime! 
+                    </p>
+                    
+                    <p>
+                        <b>MathCOUNTS</b> is a regional and state competition for junior-high level students (subfreshmen). We're limited to a team of about 6 individuals. Speak to Mr. Bild if you're interested. 
+                    </p>
+                    
+                    <p>
+                        <b>Mathematical Talent Search</b> This is several rounds of difficult problems done by individuals. You generally have a month to complete each round, then mail in results for grading. If you're interested, see Mr. Russell soon--the first round is in September. These problems are very difficult, but they don't generally require calculus. Solutions are in the form of proofs or paragraphs (usually). 
+                    </p>
+                    
+                    <p>
+                        <b>American Mathematics Competition the AMC </b>is a national contest given at three levels. Subfreshmen compete in the AMC-8 in November; freshmen and sophomores may take the AMC-10 or AMC-12, and juniors and seniors may take the AMC-12, in February. Winners are invited to take the American Invitational Mathematics Exam (AIME) in March, and top scorers on that exam will be invited to participate in the USA Math Olympiad. American Statistics Association High School Project Competition Students enrolled in Statistics submit second semester projects, after making oral presentations to faculty and students in the Statistics Department at the University of Illinois.
+                    </p>
+                
+                </div>
+            </div>
+            <!--#include virtual="/academics/math/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

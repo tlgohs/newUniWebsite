@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">MATH: COURSES</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <h4><u>Math 1</u></h4>
+                    <p>(Subfreshman)</p>
+                    <p>(1 unit)</p>
+
+                    <p>
+                        This first math course for Uni students introduces them to key ideas and skills. This course integrates topics from algebra, geometry, and statistics, with topics that include facility with basic operations on real numbers, modeling, systems of linear equations and inequalities, an introduction to vector and matrix arithmetic, work with linear and exponential functions, the function concept, recursion, congruence, coordinate geometry, geometric proofs, linear regressions, and residual analysis. Use of a graphing calculator and spreadsheets is taught and encouraged throughout the course.
+                    </p>
+
+                    <h4><u>Math 2</u></h4>
+                    <p>(9th grade)</p>
+                    <p>(1 unit)</p>
+
+                    <p>
+                        This second integrated course continues the functions strand from Math 1 by adding quadratic functions and radical expressions, absolute value, piecewise, and inverse functions. In the algebra strand, students learn algebraic and graphical techniques for solving quadratic equations, are introduced to complex numbers, and use inverse matrices. In the geometry strand, students work with properties of geometric figures including polygons and circles, similarity, and right triangle trigonometry. They also undertake a study of probability. Students continue to use graphing calculators, spreadsheets, Mathematica, and geometry software.
+                    </p>
+
+                    <h4><u>Math 3</u></h4>
+                    <p>(10th grade)</p>
+                    <p>(1 unit)</p>
+
+                    <i>Prerequisite: Math 2</i>
+                    <p>
+                        This third integrated course continues the functions strand from Math 1 and Math 2 by adding logarithmic, rational, and circular (trigonometric) functions, further developing the inverse function concept. In the algebra strand, students develop theory of polynomials. In geometry, more work with right triangle and oblique triangle trigonometry (including laws of sines and cosines) and representations in 3-D are explored. In the statistics strand, students explore the normal distribution, experimental design, and simulation. Students continue to use graphing calculators, spreadsheets, Mathematica, and geometry software.
+                    </p>
+
+                    <h4><u>Advanced Topics in Mathematics</u></h4>
+                    <p>(1 unit)</p>
+
+                    <i>Prerequisite: Algebra 2 with Trigonometry</i>
+                    <p>
+                        This course will give students further preparation for a successful study of calculus and will introduce students to concepts of discrete mathematics which are vital in the study of computer science, social sciences, and other fields. Precalculus topics include vectors, complex numbers, polar graphs, and polynomial theory, with extensive work on trigonometric identities, rational functions, and function algebra. Discrete topics include mathematical induction, elementary logic, fractals, combinatorics, and probability. Graphing calculator use is integral to the course.
+                    </p>
+
+                    <h4><u>Statistics</u></h4>
+                    <p>(1 unit)</p>
+
+                    <i>Prerequisite: Algebra 2 with Trigonometry </i>
+                    <p>
+                        This course is roughly equivalent to Statistics 100 at UIUC, and incorporates all topics on the Advanced Placement Statistics syllabus. The major theme of the course is "interpreting the world around us;" tools developed include the design of experiments, hypothesis testing, and analysis of variation. Students use graphing calculators, statistical software packages, spreadsheets, and simulation software to explore concepts and analyze results. Individual and team projects each semester, as well as several analyses of articles in the media, help students both to apply the concepts and to see how others have applied them.
+                    </p>
+
+                    <h4><u>Accelerated Calculus 1</u></h4>
+                    <p>(1 unit)</p>
+                    
+                    <i>Prerequisite: Algebra 2 with Trigonometry, successful performance on a mastery exam and permission of the Math Department Chair</i>
+                    <p>
+                        This course is offered to qualified students who have shown consistently strong performance throughout their first three math courses, to include mastery of additional topics in the Geometry and Algebra 2 curricula, and have demonstrated a facility with calculations and swift recall of previously-learned skills. The syllabi for the University of Illinois and Parkland College first semester calculus and for the Advanced Placement Exam in Calculus (AB) will be used as a guide for course content, but additional topics of a more theoretical nature, such as a more careful consideration of limits are also included. Content includes techniques and applications of differentiation and integration.
+                    </p>
+
+                    <h4><u>Calculus 1</u></h4>
+                    <p>(1 unit)</p>
+
+                    <i>Prerequisite: Advanced Topics in Mathematics.</i>
+                    <p>
+                        The syllabi for the University of Illinois and Parkland College first semester calculus and for the Advanced Placement Exam in Calculus (AB) will be used as guides for course content. Emphasis will be placed on an understanding of concepts and mastery of the techniques and applications of differentiation and integration. Students use graphing calculators as well as computer algebra systems and other software.
+                    </p>
+
+                    <h4><u>Accelerated Calculus 2/3</u></h4>
+                    <p>(Fall and/or Spring)</p>
+                    <p>(Each 1/2 unit)</p>
+
+                    <i>Prerequisite: Acc. Calculus 1</i> 
+                    <p>
+                        Accelerated Calculus 2 includes polar coordinates and conic sections, parametric curves in the plane and in space, vectors and surfaces in space, and partial differentiation. Accelerated Calculus 3 is the second semester of this course, with content including multiple integrals, vector analysis, differential equations, infinite sequences and series (convergence, Taylor series, power series) Taylor’s formula, advanced techniques of integration, indeterminate forms and improper integrals. The syllabi for the University of Illinois second and third semester calculus courses and the Advanced Placement Exam in Calculus (BC) serve as guides for course content. Technology used includes graphing calculators and computer algebra systems.
+                    </p>
+
+                    <h4><u>Calculus 2/3 Calculus & Mathematica</u></h4>
+
+                    <i>Prerequisite: Calculus 1 or Acc. Calculus 1</i>
+                    <p>
+                        Calculus 2/3 can be taken through the Calculus & Mathematica Distance Education Program for college credit at the University of Illinois. Calculus II (Math 231) can be taken the first semester or over two semesters for 3 hours credit. If Math 231 (or Accelerated Calculus 2) is completed during the first semester, Multivariable Calculus (Math 241) can be taken the second semester for 3 hours credit. Students wishing to take C&M must indicate their preference on their Uni High course request form and complete the Distance Education registration form available from the Student Services Office. Fees for each course are separate from normal “concurrent enrollment” tuition, and most likely will NOT be waived for the 2017-2018 school year.
+                    </p>
+
+                </div>
+            </div>
+            <!--#include virtual="/academics/math/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
