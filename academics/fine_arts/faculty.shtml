@@ -16,21 +16,21 @@
                 <div id="section-title">FINE ARTS: FACULTY</div>
                 <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
                 <div id="section-content">
-				
+                
                     <p>
                         <b>Lisa Evans</b> <a href="mailto:levans@illinois.edu"> (levans)</a> teaches <a href="https://uniartclass.wordpress.com">Studio Art 1,</a> <a href="https://uniartclass2d.wordpress.com/">Two Dimensional Art</a>, <a href="https://uniartclass3d.wordpress.com/">Three Dimensional Art</a>, Art Exploration and Interrelated Arts. She earned her B.S. at Miami University, her M.B.A. at the University of Chicago, and her B.F.A. and M.F.A. at the School of the Art Institute of Chicago.
                     </p>
 
-					<p>
+                    <p>
                         <b>Chris Guyotte</b> <a href="mailto:guyotte@illinois.edu"> (guyotte) </a> Teaches Theatre Arts 1 & 2, Film Study, Public Speaking, and Interrelated Arts. He also directs Uni’s Fine Arts Department theatrical productions and sponsors the International Thespian Society. Outside of Uni he is active with the local theatre community and teaches directing and acting workshops at festivals around the nation. He holds BA in Theatre Arts an M.A. in Theatre History from the University of Illinois, and an MFA in Directing from Wayne State University. 
                     </p>
 
-					<p>
+                    <p>
                         <b>Rick Murphy</b><a href="mailto:rgmurphy@illinois.edu"> (rgmurphy) </a>
                         teaches Music Theory, Interrelated Arts, Chorus, Jazz Band, Orchestra, and Madrigals. He earned his B.F.A. at MacMurray College and his M.M.Ed. at Illinois State University.
                     </p>
-				
-				</div>
+                
+                </div>
             </div>
             <!--#include virtual="/academics/fine_arts/sidebar.html" -->
         </div>
