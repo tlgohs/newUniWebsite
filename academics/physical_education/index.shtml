@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">PHYSICAL EDUCATION</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <p><u><strong>Policy Statement</strong></u></p>
+                    <p>
+                        Illinois state law requires enrollment in Physical Education every semester. University High School seeks to physically educate its students through the development of physical fitness and a variety of sport offerings.
+                    </p>
+
+                    <p><u><strong>Sports and Fitness</strong></u></p>                    
+                    <p>
+                        The fitness component of the P.E. program is an individualized, progressive program emphasizing cardio-respiratory development. One goal of the program is to teach students the skills necessary to live an active lifestyle that promotes health and physical fitness. Students will also learn how to develop their own personal workout routine based on fundamentally sound exercise principles. A second major goal is to provide each student adequate, physical training necessary for the completion of a 5K run at the end of the year. To ensure progress towards this goal, students will undergo complete testing at the beginning and end of the school year, and an abbreviated test version at the end of each quarter. The Uni High fitness test components include: height, weight, mile run, 100 yard dash, push-ups, curl-ups, pull-ups, flexed-arm hang, shuttle run, standing broad jump, vertical jump, grip strength, and the sit and reach flexibility test.
+                    </p>
+                    
+                    <p>
+                        The sports component of the P.E. program consists of activities from a variety of sports and games. A holistic approach is followed with mental, social, and physical domains addressed. Written assessments may be utilized to evaluate comprehension of basic rules and strategies of each unit. Attention will be directed toward the development of social skills such as: communication, cooperation and sportsmanship in a competitive environment. Classes will be structured to provide opportunity for individual skill improvement in each sport offering. Activities may include: badminton, basketball, cageball activities, floor hockey, pickleball, soccer, speedball, team handball, ultimate frisbee, volleyball and wiffleball. This exposure to a diverse array of activities will allow students to explore the many options available to them, discovering an appreciation of sport, and hopefully, encouraging a lifetime of enjoyable participation.
+                    </p>
+                    
+                    <p>
+                        The sports component of the P.E. program consists of activities from a variety of sports and games. A holistic approach is followed with mental, social, and physical domains addressed. Written assessments may be utilized to evaluate comprehension of basic rules and strategies of each unit. Attention will be directed toward the development of social skills such as: communication, cooperation and sportsmanship in a competitive environment. Classes will be structured to provide opportunity for individual skill improvement in each sport offering. Activities may include: archery, badminton, floor hockey, pickleball, soccer, speedball, team handball, ultimate frisbee, and Wiffle ball. This exposure to a diverse array of activities will allow students to explore the many options available to them, discovering an appreciation of sport, and hopefully, encouraging a lifetime of enjoyable participation.
+                    </p>
+                
+                </div>
+            </div>
+            <!--#include virtual="/academics/physical_education/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

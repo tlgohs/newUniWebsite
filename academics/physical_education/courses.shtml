@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">PHYSICAL EDUCATION: COURSES</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <p><u><strong>Subfreshman Program</strong></u></p>                    
+                    <p>
+                        The fitness component will consist of a progressive, running program structured to allow students to work at individualized levels. The primary focus will be to gradually increase the students’ running endurance building up to the completion of the 5K at the end of the school year.
+                    </p>
+                    
+                    <p>
+                        The sports component will be presented in unit format, covering approximately eight units during the year. At the beginning of each unit, time will be allotted for skill development and the progression through drills and lead-up activities prior to the start of the actual sport.
+                    </p>
+
+                    <p><u><strong>Freshman/Sophomore Program</strong></u></p>
+                    <p>
+                    The fitness component during the Fr./So. years is still primarily a running based program but with the inclusion of a wider variety of training methods: circuits, pyramids, relays & interval training.
+                    </p>
+                    
+                    <p>
+                        The sports component during these years will also be presented in a unit format but will be shorter in duration and will include additional activities not covered in the subfreshman year. A brief review of skills, rules and strategies will open each unit and will quickly progress to actual game play.
+                    </p>
+
+                    <p><u><strong>Junior/Senior Program</strong></u></p>
+                    <p>
+                        The Junior/Senior fitness program will be a combination of running, strength and flexibility exercises, and workouts on the cardio-respiratory equipment. The framework of each class is provided by the instructor but students will have more options to choose from so as to allow for individual preferences. With this greater freedom of choice, students gain increased responsibility of ensuring that their exercise effort is of a beneficial intensity.
+                    </p>
+                    
+                    <p>
+                        Along with Fitness, a second major component of the Jr./Sr. program will be strength training. Students will be introduced to the major aspects of a sound strength training regimen, learning basic    principles, safety guidelines, terminology and proper lifting techniques. Students will be presented with instruction utilizing selectorized machines then progressing onto free weights. Upon satisfactory completion of these units, students will have the opportunity to further their workouts with additional, supplemental pieces of equipment or by completing group video workouts. Students will maintain a record of their work to demonstrate proper progression.
+                    </p>
+                    
+                    <p>
+                        To complement the fitness and strength training programs, students will participate in seminar style classes that revisit health topics. These classes will meet two times a semester and will allow subjects to be covered in greater depth that is better suited for the Jr./Sr. maturity level. These sessions will take the form of presentations, guest speakers, videos, class activities, or small group discussions. The nature of topics will vary depending on current issues and student interest and could include but are not limited to areas such as: body image, eating disorders, preventing drug and alcohol abuse, mental health, nutrition, relationships and overall wellness. This additional focus is meant to supplement Freshman Health class topics and current life experiences. This is intended to reinforce healthy practices and behaviors thereby having a positive impact on students’ overall health and wellness in these later adolescent years.
+                    </p>
+
+                    <p><u><strong>Petitioning out of P.E.</strong></u></p>
+                    <p>
+                        Petitioning out of Physical Education from the first day of practice until the final day of competition may occur when the student-athlete:
+
+                        <ul>
+                            <li>Is enrolled in enough classes to be in classes 300 minutes per day.</li>
+                            <li>Has received a passing grade in P.E. during the school year.</li>
+                            <li>Has no unexcused absences in P.E. for the school year.</li>
+                            <li>Has paid the athletic fee and has completed all necessary forms and turned them into the Uni High office or athletic director.</li>
+                            <li>Fully participates as a member of an IHSA sanctioned sport by attending all practices and competitions unless excused by the coach.</li>
+                            <li>Completes all P.E. physical fitness testing</li>
+                            <li>Attends all junior/senior health classes scheduled by the P.E. department</li>
+                        </ul>
+                    </p>
+                    
+                    <p>*Subfreshmen may only petition out of P.E. if they participate in cross country or track and field.</p>
+
+                    <p><u><strong>Freshman Health (Fall and Spring)</strong></u></p>
+                    <p>(9th grade) (1/2 unit)</p>
+
+                    <p>
+                        This 1/2 credit course is required for all freshmen. Topics include, but are not limited to: human anatomy and physiology, function and development of the human body, causes and prevention of diseases, mental health, social health, nutrition, reproductive health and substance abuse.
+                    </p>
+
+                </div>
+            </div>
+            <!--#include virtual="/academics/physical_education/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

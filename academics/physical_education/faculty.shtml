@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">PHYSICAL EDUCATION: FACULTY</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <p>
+                        <strong>Tim Bicknell </strong><a href="mailto:tbick2@illinois.edu">(tbick2)</a> grew up in Bluffs, IL and graduated from Bluffs High School in 1998. He attended Eastern Illinois University after high school, studying Speech Communication, Physical Education, and Driver Education. Once Mr. Bicknell began teaching and coaching, he earned his Master's in Educational Leadership from Western Illinois University. He has spent the last 14 years teaching Physical Education, Speech, and Driver Education, along with coaching basketball, football, and scholastic bowl along the way. Mr. Bicknell earned his administrative experience at P.O.R.T.A. where he completed his Type 75 Administrative Certificate and at LaSalle-Peru where he was the P.E./Health/Driver Education Division Chair. He is currently the Uni High Athletic Director and executive physical education teacher.
+                    </p>
+
+                    <p>
+                        <strong>Rebecca Murphy </strong><a href="mailto:murphy@uni.illinois.edu">(murphy)</a> teaches sports, fitness, and strength training in the PE department. She earned her B.S. and her M.S. at the University of Illinois.</span>
+                    </p>
+
+                    <p>
+                        <strong>Doug Mynatt </strong><a href="mailto:mynatt@uni.illinois.edu">(mynatt)</a> teaches sports, fitness, and strength training in the PE department. He is also head coach for the track and field and cross country teams. He earned his B.A. in anthropology from the University of Tennessee and served as a Peace Corps volunteer in Mali, West Africa.
+                    </p>
+
+                    <p>
+                        <strong>Karen Iehl-Morse </strong><a href="mailto:kiehlmor@illinois.edu">(kiehlmor)</a> teaches Health. She earned her B.S. and M.S. from the University of Illinois. She is also a certified athletic trainer, licensed in Illinois.
+                    </p>
+                
+                </div>
+            </div>
+            <!--#include virtual="/academics/physical_education/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
