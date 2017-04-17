@@ -16,7 +16,6 @@
                 <div id="section-title">FINE ARTS: COURSES</div>
                 <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
                 <div id="section-content">
-                
                     <h4><u>Film Study (Fall)</u></h4>
                     <p>(10th - 12th grade)</p>
                     <p>(1/2 unit)</p>
@@ -43,8 +42,7 @@
                     <p>(Subfreshman – 12th grade)</p>
                     <p>(1/4 unit - can enroll more than once)</p>
                     <p>
-                        Jazz Band is open to any student at University Laboratory High School. In addition to studying various forms of jazz
-                        literature, the study and utilization of improvisation is strongly encouraged. Jazz Band currently meets once a week and can be taken multiple years. All enrollees are further divided into two jazz bands of different levels. Does not meet the Fine Arts graduation requirement.
+                        Jazz Band is open to any student at University Laboratory High School. In addition to studying various forms of jazz literature, the study and utilization of improvisation is strongly encouraged. Jazz Band currently meets once a week and can be taken multiple years. All enrollees are further divided into two jazz bands of different levels. Does not meet the Fine Arts graduation requirement.
                     </p>
 
                     <h4><u>Madrigals</u></h4>
@@ -125,7 +123,6 @@
                     <p>
                         Students will learn and apply concepts of technical theatre. Tool Safety and usage, set construction and scene painting, stage lighting and sound reinforcement and properties creation and collection. Meets graduation requirement.
                     </p>
-
                 </div>
             </div>
             <!--#include virtual="/academics/fine_arts/sidebar.html" -->

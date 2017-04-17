@@ -16,7 +16,6 @@
                 <div id="section-title">FINE ARTS: FACULTY</div>
                 <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
                 <div id="section-content">
-                
                     <p>
                         <b>Lisa Evans </b><a href="mailto:levans@illinois.edu">(levans)</a> teaches <a href="https://uniartclass.wordpress.com">Studio Art 1,</a><a href="https://uniartclass2d.wordpress.com/">Two Dimensional Art</a>, <a href="https://uniartclass3d.wordpress.com/">Three Dimensional Art</a>, Art Exploration and Interrelated Arts. She earned her B.S. at Miami University, her M.B.A. at the University of Chicago, and her B.F.A. and M.F.A. at the School of the Art Institute of Chicago.
                     </p>
@@ -26,10 +25,8 @@
                     </p>
 
                     <p>
-                        <b>Rick Murphy </b><a href="mailto:rgmurphy@illinois.edu">(rgmurphy)</a>
-                        teaches Music Theory, Interrelated Arts, Chorus, Jazz Band, Orchestra, and Madrigals. He earned his B.F.A. at MacMurray College and his M.M.Ed. at Illinois State University.
+                        <b>Rick Murphy </b><a href="mailto:rgmurphy@illinois.edu">(rgmurphy)</a> teaches Music Theory, Interrelated Arts, Chorus, Jazz Band, Orchestra, and Madrigals. He earned his B.F.A. at MacMurray College and his M.M.Ed. at Illinois State University.
                     </p>
-                
                 </div>
             </div>
             <!--#include virtual="/academics/fine_arts/sidebar.html" -->
