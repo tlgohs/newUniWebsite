@@ -22,5 +22,13 @@
 }
 
 .footer-info-list{
-    display: inline;
+    display: inline-block;
+}
+
+.footer-info-list::after {
+    content: " | "; /* There is an extra space between inline elements, but it will be collapsed with the trailing content space */
+}
+
+.footer-info-list:last-child:after {
+    content: "";
 }
