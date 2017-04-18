@@ -14,7 +14,7 @@
             <!--#include virtual="/navbar.html" -->
             <div id="content-left">
                 <div id="section-title">FINE ARTS: COURSES</div>
-                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
                 <div id="section-content">
                     <h4><u>Film Study (Fall)</u></h4>
                     <p>(10th - 12th grade)</p>

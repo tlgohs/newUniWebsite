@@ -14,7 +14,7 @@
             <!--#include virtual="/navbar.html" -->
             <div id="content-left">
                 <div id="section-title">COMPUTER SCIENCE: COURSES</div>
-                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
                 <div id="section-content">
                     <h4><u>Computer Literacy 1 (Fall or Spring)</u></h4>
                     <div>Subfreshman</div>
