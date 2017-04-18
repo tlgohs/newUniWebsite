@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">SOCIAL STUDIES</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
+                <div id="section-content">
+                
+                    <p>
+                        The Social Studies Department has a two-fold mission and commitment to students: (1) to help them understand and process the forces of history that have shaped our times and the world in which we live; and (2) to develop within students the skills and facility to understand and conduct historical research.
+                    </p>
+
+                    <p>
+                        The first task is designed to provide students with knowledge and information so that they are familiar with the events of history, the concepts and ideas that have influenced and resulted from the course of events and the actions of people, and the patterns that have emerged among diverse peoples over time. From the subfreshman through junior year, courses survey the sweep of history from the emergence of humans to modern times. The places are varied – from the riverine civilizations in Africa and Asia to the plains of Europe to the shores of New England.
+                    </p>
+
+                    <p>
+                        Having focused on developing this proficiency over several years, students then have several options as juniors and seniors. A course on race, class and gender in American popular culture examines the construction of these concepts in the context of early and later 20th century American history. A course on the world since 1945 examines the political and economic foundations of relationships between nations and peoples in the contemporary world. For seniors who are interested, the seminar in American history offers the chance to engage in independent research, employing the techniques and thinking of historians in pursuing an extended research and writing project. In all of these ways, the department challenges students to deepen their understanding of research and writing across the social sciences, by engaging in those practices themselves.
+                    </p>
+                
+                </div>
+            </div>
+            <!--#include virtual="/academics/social_studies/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

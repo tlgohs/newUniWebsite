@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">SOCIAL STUDIES: COURSES</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
+                <div id="section-content">
+                
+                    <h4><u>Introduction to Social Studies</u></h4>
+                    
+                    <p>(Subfreshmen)</p>
+                    <p>(1 unit)</p>
+                    <p>
+                        This course is designed to introduce students to various ways of studying and thinking about the histories and cultures of human societies, past and present. In the first part of the year, we explore the U. S. constitution and the history of rights in the United States. We will also learn more about how historians work: what kinds of evidence they look for, and how they use it to make sense of the past. In order to further develop skills in historical inquiry, we then work for several months on an extensive oral history project. This involves interviewing people from our local community who have been involved in struggles for equal rights, putting individual experiences into a broader context, and preparing these materials to be used in a student-produced radio documentary, which will be broadcast on public radio. In the last part of the year, the focus shifts to the histories and cultures of other peoples. As part of the sequence of world history courses offered at Uni, we study the development of early humans and the emergence of ancient civilizations (primarily in ancient Mesopotamia, Egypt and the Levant). Throughout the course, students are asked to consider different kinds of evidence and arguments, to ask and answer questions thoughtfully, and to think about the causes and consequences of forces that have shaped people’s lives in different times and places.
+                    </p>
+                    
+                    <h4><u>World History (c.1000 BCE-c.1500 CE)</u></h4>
+                    
+                    <p>(9th grade)</p>
+                    <p>(1 unit)</p>
+                    <p>
+                        This course will cover the histories of Ancient Greece and Rome, Western Europe through the Age of Exploration, Islam from its beginnings through the Ottoman Empire, and the civilizations of Africa and the Americas with particular emphasis on their contact with Europeans and Muslims. The focus will be on the political, economic, social, religious, and cultural factors shaping these civilizations. Emphasis is also placed on the cause and effect processes of history so that students can understand the larger and cross-cultural forces that shape our world.
+                    </p>
+
+                    <h4><u>Modern History (c.1500-1945)</u></h4>
+                    
+                    <p>(10th grade)</p>
+                    <p>(1 unit)</p>
+                    <p>
+                        This course continues with the rise of Western Europe to global prominence from the Renaissance and Protestant Reformation through the democratic and industrial revolutions and colonial expansion of the nineteenth century up to 1945. Special emphasis will be placed on the development of the characteristics and forces of modernity and their spread to the rest of the world, as well as the problems of modernity as seen in the two world wars and the Holocaust.
+                    </p>
+
+                    <h4><u>U.S. History</u></h4>
+                    
+                    <p>(11th grade)</p>
+                    <p>(1 unit)</p>
+                    
+                    <p>
+                        This course is designed to give juniors a basic understanding of American history and an introduction to selected interpretative questions derived from such study. The major chronological periods surveyed include: the pre-colonial and colonial periods, the American Revolution, the early National period, the Age of Jackson, Civil War and Reconstruction, the Populist and Progressive periods, the New Deal, the period of the World Wars, and the post 1945 period.
+
+                    </p>
+
+                    <h4><u>Race, Class, and Gender in 20th Century American Popular Culture (Fall)</u></h4>
+                    
+                    <p>(11th – 12th)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        This class will use the approaches of cultural history and the interdisciplinary field of American Studies to investigate 20th century American history. Using evidence from film, television, music, sports and periodical literature,thisclasswillgivestudentsadeeperunderstandingofrace,classandgenderinAmericansociety. For example, the class might study the emergence of Rock & Roll to learn about race and integration, or films from the Great Depression to talk about class and economic opportunity. While students may develop a better understanding of “content” (20th century American history) in this class, the real goal is to develop a certain way of thinking. This class strives to teach students how to use popular culture sources as “texts” in order to illuminate the contours of race, class, and gender ideologies (as well as sexuality, political culture, foreign policy, etc.). While this style of thinking will certainly be useful for students in future history classes, it also provides a valuable framework for analyzing the current media landscape. The class has been modified to fit within one semester and will be offered in the Fall only.
+                    </p>
+
+                    <h4><u>World Since 1945 (Fall and/or Spring)</u></h4>
+                    
+                    <p>(11th – 12th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        This course focuses on the Cold War, the stresses of rapid modernization, in both the United States and developing world, and on the movement towards globalization since the end of World War II. Through readings, videos, and discussion, the course will examine the integration of national economies, the blending of cultures, and the impact of technological change.
+                        
+                        <em>Students may sign up for either or both semesters.</em>
+                    </p>
+
+                    <h4><u>Interdisciplinary Thinking: Using the Social Sciences to Study World Issues (Spring)</u></h4>
+                    
+                    <p>(11th and 12th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        This elective course aims to introduce students to a number of social science disciplines beyond history, and to help them learn how to combine the insights of multiple fields to try to understand complex social problems in the world today. In the first quarter, students will learn the methodological approaches and analytical strategies that characterize disciplines such as cultural anthropology, economics, human geography, political science, psychology, and sociology. Working as a class, students will then practice using a multi-disciplinary approach as they tackle several world issues – such as global poverty, migrations and immigration, warfare, disease, women’s rights (specific topics may change from year to year). Finally, students will develop and work on their own individual projects on a current issue of their choice, using a multi-disciplinary perspective to analyze that issue. This one- semester course will be offered only in the Spring.
+                    </p>
+
+                    <h4><u>Introduction to Cultural Anthropology (Fall)</u></h4>
+                    
+                    <p>(11th – 12th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        This course serves the dual function of introducing students to different cultures around the world as well providing an initial grounding in anthropological ideas and questions. Such questions include: How can we understand the similarities and differences among human beings? How do different peoples react to and engage with each other? What is culture and how does it work? In this course, students will explore the nature and role of culture among various peoples in Africa, South America, Oceania, India, and the Middle East, as well as in our own society. Students will also examine the ways in which anthropologists analyze and write about different cultures through what is known as ethnography. After reading parts of several classic and contemporary ethnographies, students will have the chance to practice this craft by observing and writing about specific aspects of their own cultures.
+                    </p>
+
+                    <h4><u>Introduction to Psychology (Spring)</u></h4>
+                    
+                    <p>(11th – 12th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        This course is designed to give students a better sense of how psychologists study human behavior and thinking. After a brief overview of the history of the discipline, the course will explore a number of topics central to modern psychology, such as sensation and perception; nature, nurture and human development; ways that people learn and remember; language and its connection to our thinking; social psychology; emotions and stress; defining and treating psychological disorders. The course will introduce students to methods of psychological research and invite them to engage with the evidence put forth on different sides of current debates in the field.
+                    </p>
+
+                </div>
+            </div>
+            <!--#include virtual="/academics/social_studies/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
