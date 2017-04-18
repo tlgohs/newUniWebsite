@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">SCIENCE: FACULTY</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></img></div>
+                <div id="section-content">
+                
+                    <p>
+                        <strong>David Bergandine </strong><a href="mailto:dbergand@uni.illinois.edu">(dbergand)</a> teaches Introductory Chemistry and Chemistry A, B, and D. He earned his B.A. at Cedarville College.
+                    </p>
+                    
+                    <p>
+                        <strong>Jim Carrubba </strong><a href="mailto:carrubba@uni.illinois.edu">(carrubba)</a> teaches Introductory Physics and Physics A, B, and C. He earned his A.B. at Harvard and M.S. and Ph.D. at the University of Illinois.
+                    </p>
+                    
+                    <p>
+                        <strong>Dr. Sharlene Denos </strong><a href="mailto:denos@illinois.edu">(denos)</a> teaches subfreshman science, engineering, and sustainable energy. She holds a BS in Biochemistry from the University of California, Santa Cruz and a PhD in Biophysics from the University of Illinois at Urbana Champaign.
+                    </p>
+                    
+                    <p>
+                        <strong>David Stone </strong><a href="mailto:stone2@uni.illinois.edu">(stone2)</a> teaches Introductory Biology and Biology A, C, and D. He earned his B.S. in Biology at the University of Wisconsin, and his M.S. in Entomology and M. Ed. in Curriculum, Technology, and Education Reform at the University of Illinois.
+                    </p>
+                
+                </div>
+            </div>
+            <!--#include virtual="/academics/science/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

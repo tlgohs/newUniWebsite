@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">SCIENCE</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
+                <div id="section-content">
+                
+                    <p>
+                        The Science Department curriculum offers students the opportunity to explore science according to their individual interests and abilities through enrollment in a minimum of six semester-long courses. The goals of the science curriculum are:
+                        
+                        <ul>
+                            <li>to enable students to master a broad set of scientific facts, theories and natural laws in the core sciences;</li>
+                            <li>to promote critical and independent thinking;</li>
+                            <li>to develop laboratory skills of students;</li>
+                            <li>to learn to use a range of technologies including computer software and hardware, on-line services and communication networks;</li>
+                            <li>to instill an appreciation for and ability to utilize discipline-specific technologies and the information they yield; and</li>
+                            <li>to demonstrate the role of communication in scientific disciplines.</li>
+                        </ul>
+                    </p>
+
+                    <p>
+                        The desired outcome of these goals is that students will be able to use a scientific method when confronted with problems that involve evidence, numbers, logical arguments, uncertainties, ethics and societal implications. Students will learn how technology is the result of a scientific design process that includes continual refinements and improvements. In addition, students leaving the introductory courses will be equipped with sufficient background to intelligently read and understand scientific literature, to evaluate accompanying data, and to grasp the implications of that research. Advanced courses allow students to continue investigating particular areas of interest in greater depth and complete their own scientific investigations using many of the same tools used by practicing scientists.
+                    </p>
+                    
+                    <p>
+                        The science program begins with two semester-long background courses, the Nature of Science and Earth Studies, during the subfreshman year. The science graduation requirement is three units (six semester courses) beyond the subfreshman year. Each student must successfully complete the three required introductory semester classes: Introductory Biology, Introductory Chemistry, and Introductory Physics. Additionally, each student must complete three elective semester courses beyond the introductory courses listed above. <bold>It is strongly recommended that all students considering applying to a four-year university or majoring in the sciences or engineering take a minimum of Introductory Biology, Biology A, Introductory Chemistry, Chemistry A, Introductory Physics and Physics A.</bold>
+                    </p>
+                    
+                    <p>
+                        Broader scheduling issues, in combination with facility limitations and fairness in class placement, limit our flexibility in enrolling freshman, sophomores, and juniors in more than one first year science course.
+                    </p>
+
+                    <p>
+                        <u><strong>Science Department Courses & Extracurricular Programs</strong></u>
+                        
+                        <ul>
+                            <li><a href="https://www.uni.illinois.edu/academic_departments/Curriculum%20Guide%202015-2016%20Final.pdf#page=17">Course Descriptions and Requirements</a></li>
+                            <li><a href="#">Exploravision</a></li>
+                            <li><a href="#">Science Outreach</a></li>
+                            <li><a href="http://irise.illinois.edu">Engineering Outreach</a></li>
+                            <!-- </li>Chemistry Outreach (no link yet)</li>
+                            <li>Science Olympiad (no link yet)</li>
+                            <li>Worldwide Youth in Science and Engineering (no link yet)</li>-->
+                        </ul>
+                    </p>
+                
+                </div>
+            </div>
+            <!--#include virtual="/academics/science/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

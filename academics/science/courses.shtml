@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">SCIENCE: COURSES</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
+                <div id="section-content">
+                
+                    <h3><u>Subfreshmen</u></h3>
+                    
+                    <p><strong>Nature of Science (Fall)</strong></p>
+                    
+                    <p>(Subfreshman)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        This required course focuses on scientific and engineering world views. Students will participate in scientific investigations and learn about aspects of engineering design. The course promotes basic laboratory skills such as observing, measuring, using laboratory equipment, recording data, and graphing and communicating lab results. Students will be exposed to basic scientific information about measurement, matter and energy.
+                    </p>
+                    
+                    <p><strong>Earth Studies (Spring)</strong></p>
+                    
+                    <p>(Subfreshmen)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        This required course focuses on various aspects of our dynamic planet including the atmosphere, lithosphere and hydosphere. Science, Technology, Engineering, and Mathematics (STEM) careers will be investigated.
+                    </p>
+                    
+                    <h3><u>Biology</u></h3>
+                    
+                    <p><strong>Introductory Biology (Fall)</strong></p>
+                    
+                    <p>(9th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        Introductory Biology is a one-semester course required of all students. The main goal of the course is to introduce students to a wide variety of biological topics and current areas of biological research. Introductory Biology begins with a "macro" emphasis, focusing on properties of life and diversity of life forms. The course then moves to a "micro" emphasis, examining basic biochemistry, cell structure and function, cell division, transmission genetics, DNA structure and function, gene expression, genetic engineering and evolution. Laboratory activities, simulations, discussions and computer/Internet resources play an integral role in this course.
+                    </p>
+
+                    <p><strong>Biology A: Organismal Biology (Spring)</strong></p>
+                    
+                    <p>(9th grade)</p>
+                    <p> (1/2 unit)</p>
+                    <p><em>Prerequisite: Introductory Biology</em></p>
+                    <p>
+                        Organismal Biology, an elective one-semester course, introduces students to a wide variety of organismal biology topics and current areas of biological research. The course begins by examining principles of population biology, Hardy-Weinberg equilibrium, ecosystems, nutrient cycling and competition. The latter half of the course involves examination of comparative structure and evolutionary relationships of various taxa of microbes, fungi, protists, plants, invertebrates, and vertebrates. Laboratory activities, simulations, discussions, and computer/Internet resources play an integral role in this course.
+                    </p>
+                    
+                    <p><strong>Biology C: Field Biology (Fall)</strong></p>
+                    <p>(10th - 12th grade)</p>
+                    <p> (1/2 unit)</p> 
+                    <em>Prerequisite: Introductory Biology, Biology A: Organismal Biology</em>
+                    <p>
+                        Field Field Biology, an elective one-semester course, is a laboratory and fieldwork intensive experience which focuses on biodiversity, environmental monitoring of terrestrial and aquatic ecosystems, and diversity of structure, function and ecology within the largest group of organisms, the arthropods. The course meets four days per week; laboratory activities are performed in a variety of natural areas throughout central Illinois every other Sunday afternoon.
+                    </p>
+
+                    <p><strong>Biology D: Human Genetics and Society (Spring)</strong></p>
+                    <p>(10th - 12th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <em>Prerequisite: Introductory Biology, Biology A: Organismal Biology</em>
+                    <p>
+                        Human Genetics and Society is an elective one-semester course. Topic coverage centers around traditional and molecular genetics, including cell structure, development, transmission of traits, DNA structure and function, population genetics, genetic engineering, biotechnology, the Human Genome Project, and ethical dilemmas caused by recent technological advances. Course format includes labs, field trips, computer-based simulations, discussion, and lecture.
+                    </p>
+                    
+                    <h3><u>Chemistry </u></h3>
+                    
+                    <p><strong>Introductory Chemistry (Fall)</strong></p>
+                    
+                    <p>(10th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        Introductory Chemistry is a one-semester course required of all students. Chemistry is considered by some to be the central science because the study of matter and its changes is fundamental to understanding all other sciences. This course will introduce the major concepts of chemistry with special attention being given to the language, symbols and models of chemistry. Students will explore these concepts via classroom demonstrations, laboratory experiments and computer modeling.
+                    </p>
+
+                    <p><strong>Chemistry A: General Chemistry (Spring)</strong></p>
+                    
+                    <p>(10th grade)</p> 
+                    <p>(1/2 unit)</p>
+                    <em>Prerequisite: Introductory Chemistry</em> 
+                    <p>
+                        General Chemistry is an elective one-semester course that further develops the concepts of chemistry and allows the student to investigate their application within modern contexts. More emphasis will be placed on laboratory investigation, communication and decision-making based on a more complete understanding of the scientific principles and facts of chemistry. This course provides a foundation for a continued study of chemistry at the high school or college level.
+                    </p>
+                    
+                    <p><strong>Chemistry B: Accelerated Chemistry (Fall)</strong></p>
+                    
+                    <p>(11th - 12th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <em>Prerequisite: Chemistry A (or instructor consent)</em> 
+                    <p>
+                        Accelerated Chemistry is an elective one-semester course designed to cover the most important theories and topics in chemistry at a more rigorous pace. The first half of the course will be primarily lectures, demonstrations and problem solving. Students taking this course will be prepared to take standardized placement or proficiency exams. The second half of this course will be spent mostly in the laboratory performing experiments supporting the topics in the first half of the course.
+                    </p>
+
+                    <p><strong>Chemistry D: Organic Chemistry (Spring)</strong></p> 
+                    <p>(11th - 12th grade)</p>
+                    <p>(1/2 unit)</p> 
+                    <em>Prerequisite: Chemistry A: General Chemistry (or consent of instructor)</em> 
+                    <p>
+                        Organic Chemistry is one-semester survey of nomenclature, structure, properties, reactions, and mechanisms of hydrocarbons and their derivatives. The course will have a lecture/discussion format with an emphasis on problem solving and laboratory work.
+                    </p>
+                    
+                    <h3><u>Physics</u></h3>
+                    
+                    <p><strong>Introductory Physics (Fall)</strong></p>
+                    
+                    <p>(11th - 12th grade)</p>
+                    <p>(1/2 unit)</p> 
+                    <p>
+                        Introductory Physics is a one-semester course required of all students. The goal is to introduce the field of physics through the study of Classical Mechanics, emphasizing concepts and basic analytical methods. It begins with the relationship of force to motion; then covers Newton's Laws and their implications, especially conservation laws. Momentum and impulse, energy and work are defined and discussed. In the last part of the semester, this knowledge is applied to the study of solid structures and to fluids. Being a self-contained course, Introductory Physics serves all students as an introduction to the field; for those who intend to continue the study of physics, the methods and concepts covered in this course compose the foundation of all further development. Whenever appropriate, applications of physical concepts to engineering and other fields of science are discussed.
+                    </p>
+
+                    <p><strong>Physics A: Topics in Basic Physics (Spring)</strong></p>
+                    
+                    <p>(11th - 12th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <em>Prerequisite: Introductory Physics</em> 
+                    <p>
+                        This one-semester elective covers a variety of topics associated with classical physics: electricity (the properties of electric charge, the definition of electric fields and potential, capacitance, electric current, resistance, elementary circuits), magnetism (the magnetic force, induction), geometric optics, wave phenomena, and thermodynamics. This course emphasizes problem solving at a slightly greater level of difficulty than Introductory Physics.
+                    </p>
+
+                    <p><strong>Physics B: Intermediate Mechanics (Fall)</strong></p>
+                    
+                    <p>(12th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <em>Prerequisite: Physics A</em> 
+                    <p>
+                        This one-semester elective reviews and builds on the first year of physics by covering in greater depth classical mechanics. Topics may vary based on student interest, but typically include: Newton's laws, friction, reference frames and center of mass, rotation, the Universal Law of Gravitation, scaling relationships in structures, and Bernoulli's Principle. Time permitting, a review of thermodynamics and an introduction to statistical mechanics and entropy will also be covered. Assessments will require both numerical problem-solving and formal developments. Because derivatives of polynomials and transcendentals are used, prior or concurrent enrollment in calculus, or consent of the instructor, is required.
+                    </p>
+
+                    <p><strong>Physics C: Modern Physics (Spring)</strong></p>
+                    
+                    <p>(12th grade)</p>
+                    <p> (1/2 unit)</p>
+                    <em>Prerequisite: Physics A</em> 
+                    <p>
+                        This one-semester elective builds on Physics A, stressing current applications in science. Topics may vary with student interest, but typically include: electricity and magnetism (Maxwell equations, radiation), wave phenomena (lumped-circuit analogies, diffraction), relativity, and quantum mechanics. Formal development, rather than numerical problem solving, is emphasized. Because derivatives of polynomials and transcendentals are used, prior or concurrent enrollment in calculus, or consent of the instructor, is required.
+                    </p>
+                    
+                    <h3><u>Engineering </u></h3>
+                    
+                    <p><strong>Engineering Exploration(Fall)</strong></p> 
+                    <p>(12th grade)</p>
+                    <p>(1/2 unit)</p>
+                    <em>Prerequisites: Introductory and A: Biology, Chemistry and Physics</em> 
+                    <p>
+                        This elective, laboratory, one-semester course introduces students to engineering by examining the 14 world issues that have been identified by The National Academy of Engineering (NAE) as awaiting engineering solutions in the 21st century. The challenge of providing access to clean water will be investigated in detail. Civil engineering hydrology, chemical engineering water purification, as well as flow and watershed will be covered. The class will coordinate with University of Illinois departments. Students will learn about research performed at the University; faculty will talk to the students about the research and will provide some access to their laboratories.
+                    </p>
+
+                    <p><strong>Sustainable Energy (Spring)</strong></p>
+                    
+                    <p>(12th grade)<br>
+                    <p> (1/2 unit) </p>
+                    <em>Prerequisites: Introductory: Biology, Chemistry and Physics</em> 
+                    <p>
+                        This elective, non-laboratory, one-semester course develops a systems approach to energy by investigating the science, economics, and externalities (such as infrastructure, environmental effects, and political policies) of energy. The course will begin by developing an understanding of the history of energy. The current production, uses, and economics of fossil fuels will be examined. The majority of the course will look at three types of renewable energy: wind, solar, and biomass.
+                    </p>
+
+                </div>
+            </div>
+            <!--#include virtual="/academics/science/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
