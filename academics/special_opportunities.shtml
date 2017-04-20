@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">SPECIAL OPPORTUNITIES</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
+                <div id="section-content">
+                    
+                    <p><u><strong>Senior Project (Spring)</strong></u></p>
+                    <p>(12th grade) (by accepted proposal only)</p>
+                    <p>(1/2 unit)</p>
+                    <p>
+                        The senior project will be offered in spring semester of senior year. The course provides the opportunity for Uni High seniors to explore alternative learning experiences outside the traditional classroom. As a self-directed learning experience, the senior project enables students to build upon the rigorous classroom-based curriculum they have experienced at Uni High and to make creative decisions about their education that are based on their own choices and interests.
+                    </p>
+                    
+                    <p>
+                        The students selected to work on a senior project will work with University of Illinois faculty, Uni High faculty, and/or members of the Champaign-Urbana business, cultural, or activist/charity communities to develop and pursue an original, self-directed project of their own design. The intention is that students will take this opportunity to build upon their Uni education to pursue further research in an academic or laboratory context, to explore a possible career path with hands-on experience in the field, to conceive and develop and ambitious creative or artistic project, or to contribute significantly to their wider community. Students who participate in the Senior Project will be encouraged to see learning as a lifelong, real-world process not limited to the classroom, over which they have a significant measure of control. It will contribute not only to their preparation for college but to their career development.
+                    </p>
+                    
+                    <p>Information regarding the Senior Project proposal process is maintained and distributed to students/parents by Dr. Karl Radnitzer.</p>
+                    
+                    <p><strong><u>Independent Studies</u></strong></p>
+                    <p>(9th – 12th grade)</p>
+                    <p>
+                        Students may elect to take independent study courses with Uni faculty or with professors at the University of Illinois. Independent studies usually involve studying specific topics more in-depth than what one would experience in a regular course.
+ 
+                        <p>
+                            <ul>
+                                <b>Criteria for Independent Study</b>
+                                <li> The independent study proposal must represent a study opportunity that is above and beyond the courses offered in the Uni High
+                                curriculum.</li>
+                                <li> Independent study proposals that duplicate courses offered at Uni will not be considered.</li>
+                                <li>The independent study proposal should enhance curriculum innovation consistent with the laboratory mission of Uni High.</li>
+                                <li> Independent study courses will not satisfy the “300 minute rule.”</li>
+                                <li> Students must complete the paperwork in order for an Independent Study to be registered.</li>
+                            </ul>
+                        </p>
+                        
+                        <p>Information regarding the Independent Study process is maintained and distributed to students/parents by the Student Services Office.</p>
+                    </p>
+                    
+                    <p><strong><u>High School Concurrent Enrollment (Parkland College and the University of Illinois)</u></strong></p>
+                    <p>(10th – 12th grade)</p>
+                    
+                    <p>
+                        Students may take elective courses outside of University Laboratory High School through the University of Illinois and/or Parkland College. This is an opportunity for students to earn college credit while simultaneously attending high school. Courses taken at either institution may count toward the 300 minute rule, with required approval of the Assistant Director. Courses taken as concurrent enrollment may also fulfill Uni’s requirement that all students have courses from at least 4 academic subject areas in their schedule each semester. Students should only select courses that fit into their Uni course schedules. The course(s) may not duplicate a University Laboratory High School course unless there is an irreconcilable schedule conflict, as judged by the Assistant Director. Neither the course grade nor the credit will be included on the student’s transcript from Uni, and does not count toward graduation requirements. A placement exam may be required by the institution. Students interested in taking concurrent enrollment classes must talk with their counselor to be sure all requirements are covered.
+                    </p>
+                    
+                    <p>Information regarding concurrent enrollment opportunities is maintained and distributed to students/parents by the Student Services Office.</p>
+                    
+                </div>
+            </div>
+            <!--#include virtual="/academics/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

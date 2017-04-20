@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">SUBFRESHMAN YEAR REQUIREMENTS</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
+                <div id="section-content">
+                    
+                    <p>Subfreshmen are required to take the following courses:</p>
+                    
+                    <li>Subfreshman English</li>
+                    <li>Foreign Language</li>
+                    <li> Introduction to Social Studies</li>
+                    <li> Science (the Earth Studies semester and the Nature of Science semester)</li>
+                    <li> Math 1</li>
+                    <li> Computer Literacy 1</li>
+                    <li> Physical Education</li>  
+                    <li> Interrelated Arts</li>
+                    
+                    <p> Students may elect to enroll in any of the following classes:</p>
+
+                    <li> Mixed Chorus</li>
+                    <li> Orchestra</li>
+                    <li> Jazz Band</li>
+                        
+                    <p> Note that most courses taken in the subfreshman year do not earn any units for graduation but are required during that year.</p>
+                    
+                </div>
+            </div>
+            <!--#include virtual="/academics/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

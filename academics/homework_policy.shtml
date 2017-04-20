@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">HOMEWORK POLICY</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
+                <div id="section-content">
+                    
+                    <p>
+                        The homework guidelines of University Laboratory High School are consistent with its philosophy of providing the academic challenge its students need to help them develop their academic gifts and talents. Homework is a significant and necessary part of the learning activities of students at Uni High School. Homework includes daily and long term assignments, such as reading, written exercises, problem sets, preparation for exams, term papers, projects, and daily review and daily preparation for class. The role of homework in the classroom and the weight of homework in grade computation will be defined by the instructor.
+                    </p>
+
+                    <p>
+                        As a rough guideline, Uni teachers assign no more than 30 minutes of homework per night per class on average. Teachers attempt to judge how long it would take an average student working at an average pace to complete the work. A student carrying six academic courses, therefore, could assume he or she would have three hours or so of homework per night. One should bear in mind that many classes Computer Literacy, fine arts, PE rarely require extensive homework and that most students will be able to start their homework during free periods. The average homework time of 30 minutes per night per class should remain the same even if teachers know students have no homework in other classes.
+                    </p>
+
+                    <p>
+                        When teachers assign homework, the weekend should be considered one night. Three day weekends should also be considered one night; students should not expect a doubling of homework over a three-day weekend.Homework will not be assigned over the extended vacation periods: Thanksgiving, winter break, and spring vacation. In addition, teachers should not assign a large project or paper due the second or third day after Thanksgiving, winter break, and spring break; so doing is in conflict with the spirit of the homework-free-vacation guideline. Teachers may assign a one-night assignment of homework during Agora Week; Agora Week should treated like a weekend regarding homework load.
+                    </p>
+
+                    <p>
+                        The homework policy assumes that students keep up with daily assignments and that students budget their time effectively over a period of days or weeks for long term assignments. Study time for announced tests, work on major projects, and writing major papers that require nightly study/work time beforehand is considered part of homework. Teachers may assign homework in the days before a major test or due date, but they should consider study time for tests and completion time for projects and papers as part of the 30 minute-per-night allotment. In many instances, therefore, teachers will find it impossible to give regular, daily homework assignments a few days before a test, project, or paper is due in addition to test study or completion time for a major project or paper.
+                    </p>
+
+                    <p>
+                        It is suggested that long term projects, including papers, be designed with pieces due in smaller sections before a final and complete version of the project or paper is due. Students in the junior and senior years will be given more long term assignments requiring the development and demonstration of sophisticated self management skills.
+                    </p>
+
+                    <p>
+                        Periodically, all teachers will be asked by the administration to check on homework loads through student feedback by using a homework feedback form. Families should look for homework expectations at are clearly explained in a teachers opening letter/syllabus shared with students the first day and with parents at Open House night.
+                    </p>
+
+                    <p>
+                        If a student is having difficulty completing homework within these general time frames, students or parents should contact the teacher(s) and/or a counselor for advice on the preparation of subject matter and on time-management skills. Questions from students or parents about homework amount or other homework issues should be addressed to the teacher first. Further questions should be addressed to the departments executive teacher. If the issue is still not resolved, students and parents should contact the Associate Director, who will investigate and establish any necessary changes, mediating between the teachers perspective and that of the students and parents. In general the Associate Director uses school resources to help the student improve in his or her ability to handle homework load and holds faculty members accountable for homework policy. Adherence to the homework policy will be a part of the teacher evaluation process.Just like students have responsibilities to learn new study strategies, executive teachers have responsibilities to aid teachers with strategies to meet homework expectations. Executive teachers may help faculty members see the benefits of a "less is more" homework philosophy.
+                    </p> 
+
+                    <p>
+                        <strong>DUE DATES FOR MAJOR TESTS, MAJOR PROJECTS, AND MAJOR PAPERS</strong> Teachers must use the online test, project, and paper calendar and should refrain from scheduling major tests, major projects, and major papers when it appears that students in the same grade may have more than one major due dates on any one day. Teachers should also refrain from scheduling major due dates when it appears that students in the same grade will have many major tests, projects, or papers in the same week. The online test calendar is at <a href="http://illinois.edu/calendar/list/3797">http://illinois.edu/calendar/list/3797</a>. However, because students daily schedules are unique, it will happen occasionally that a student will have more than two of these major activities due on the same day. Students who realize they have more than two tests, papers, or projects in any day should talk to the teachers involved and ask for relief, which will give the student additional time to complete the work. It is the student's responsibility to ask teachers for special consideration in this situation; students should not wait until the last minute to request changes. In most cases, the last work assigned is the task for which relief is given. Communicating and deciding priorities should occur among teachers. Students are not expected to negotiate an agreement among adults about which assignment came last. If students encounter excessive due dates in a day or week, students and parents should first contact teachers, then executive teachers, and then the Associate Director.
+                    </p>
+                    
+                </div>
+            </div>
+            <!--#include virtual="/academics/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

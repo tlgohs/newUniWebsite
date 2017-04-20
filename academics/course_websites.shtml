@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">COURSE WEBSITES</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
+                <div id="section-content">
+                    
+                    <strong>COMPUTER SCIENCE</strong>
+                    <ul>
+                        <li><a href="../../calendar/CL1_calendar_sept.pdf">Computer Literacy One</a></li>
+                        <li><a href="http://illinois.edu/calendar/list/4687">Computer Literacy Two</a></li>
+                        <li><a href="https://forum.uni.illinois.edu">Forums</a></li>
+                    </ul>
+   
+                    <strong>FINE ARTS</strong>
+                    <ul>
+                        <li><a href="https://uniartclass.wordpress.com">Ms. Evans Blog Art 1</a></li>
+                        <li><a href="https://uniartclass2d.wordpress.com">Ms. Evans Blog 2D Art</a></li>
+                        <li><a href="https://uniartclass3d.wordpress.com">Ms. Evans Blog 3D Art</a></li>
+                    </ul>
+
+                    <strong>SCIENCE</strong>
+                    <ul>
+                        <li><a href="http://www.uni.illinois.edu/~dbergand/chemistry/">Mr. Bergandine's Chemistry</a></li>
+                    </ul>
+
+                    <strong>CONSUMER ED</strong>
+                    <ul>                      
+                        <li><a href="https://compass2g.illinois.edu">IllinoisCompass (Consumer Economics Test)</a></li>
+                    </ul>
+
+                    <strong>ENGLISH</strong>
+                    <ul>                       
+                        <li><a href="http://subfreshmanhomework2014-15.wikispaces.com/English+%28Ms.+Rodems%29">Ms. Rodems</a><a href="http://subfreshmanhomework2014-15.wikispaces.com/English+%28Ms.+Rodems%29"></a></li>
+                        <li><a href="https://unifroshenglish.wordpress.com/">Mr. Rayburn</a></li>
+                        <li><a href="https://unisophomoreenglish.wordpress.com/">Dr. Ernstmeyer</a></li>
+                        <li><a href="https://www.blogger.com/profile/17745167749128309461">Mr. Mitchell</a></li>
+                        <li><a href="http://unipoetryclass.blogspot.com/">Dr. Majerus - Poetry</a></li>
+                        <li><a href="http://emajerus.blogspot.com/">Dr. Majerus - Non-Fiction Writing</a></li>  
+                        <li><a href="http://na-chicano-lit.blogspot.com/">Dr. Majerus - Native-American and Chicano Literature</a></li>  
+                        <li><a href="http://nineteenth-century-novel-uni.blogspot.com/">Dr. Majerus - Nineteenth-Century Novel</a></li> 
+                        <li><a href="http://creativewritingsubmitting.wikispaces.com">Dr. Majerus - Creative Writting</a></li>  
+                        <li><a href="http://gargoyle.uni.illinois.edu ">Online Gargoyle</a></li>  
+                        <li><a href="http://unipoetryoutloud.wikispaces.com">Poetry Out Loud</a></li>  
+                        <li><a href="http://uniutopias.blogspot.com">Dr. Majerus - Utopias and Dystopias in Literature</a></li>  
+                    </ul>
+
+                    <strong>FOREIGN LANGUAGE</strong>
+                    <ul>                       
+                        <li><a href="http://users.admin.illinois.edu/socarras"> Spanish Website</a></li>
+                        <li><a href="http://unifrancais.weebly.com">French 3 and 4</a></li>
+                    </ul>
+
+                    <strong>MATH</strong>
+                    <ul>                         
+                        <li><a href="http://users.admin.illinois.edu/bild/public_html/index.html">Mr. Bild (Algebra 2 and 8th period Math 2)</a></li>  
+                        <li><a href="http://compass2g.illinois.edu/">Mr. Russell (Adv Topics, Math 2, Acc. Calculus 2)</a></li> 
+                        <li><a href="http://www.uni.illinois.edu/~iboca/">Ms. Boca</a></li> 
+                        <li><a href="https://compass2g.illinois.edu/">Compass</a></li> 
+                        <li><a href="https://www.statcrunch.com/">Statcrunch</a></li>
+                        <li><a href="https://www.uni.illinois.edu/~wbuck">Mr. Buck (Advanced Topics, Math 1)</a></li> 
+                        <li><a href="https://activegrade.appspot.com/uni">Active Grade</a></li>
+                    </ul>
+
+                    <strong>SOCIAL STUDIES</strong>
+                    <ul>                          
+                        <li>Mr. Butler (<a href="http://www.uni.illinois.edu/~butler3/">Home</a>) (<a href="http://www.flowofhistory.com/">Flow of History</a>)</li>
+                        <li>Mr. Leff (<a href="http://www.unifreshmanhistory.wikispaces.com/">World History</a></li>
+                    </ul>
+
+                    <strong>SUBBIE HOMEWORK</strong>
+                    <ul>                       
+                        <li><a href="http://subfreshmanhomework2016-2017.wikispaces.com/">Subbie Homework Wiki</a></li>
+                    </ul>
+                    
+                </div>
+            </div>
+            <!--#include virtual="/academics/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

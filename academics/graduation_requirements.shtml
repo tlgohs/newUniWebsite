@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">GRADUATION REQUIREMENTS</div>
+                <div id="image"><img src="/images/academics/3dprint.jpg"></div>
+                <div id="section-content">
+                    
+                    <p>
+                        All students are required to complete 19 units for graduation at Uni High. Students are required to enroll in a minimum of 6 courses each semester, with at least 300 minutes per day of supervised instruction.  Each year students must earn a graded unit from at least four different academic departments at Uni High (English, Computer Science, Fine Arts, Foreign Languages, Mathematics, Science and Social Studies).
+                    </p>
+                    <table border = "1" cellspacing = "0" cellpadding = "5">
+                        <tr>
+                            <td>English</td>
+                            <td>4 units (in addition to Subfreshman English)</td>
+                        </tr>
+                        <tr>
+                            <td>Foreign Languages</td>
+                            <td>2 units (of the same language; includes Year 1 of first language)</td>
+                        </tr>
+                        <tr>
+                            <td>Mathematics</td>
+                            <td>Mathematics 3 units (beyond Math 1) - including
+                                <ol type="a">
+                                    <li>Math 2 </li>
+                                    <li>Algebra II/Trigonometry (Math 3)</li>
+                                    <li>Advanced Topics in Math, Calculus I (Acc.) or Statistics</li>
+                                </ol>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Science</td>
+                            <td>Science  3 units (beyond the Subfreshman science courses) - including
+                                <ol type="a">
+                                    <li>Introductory Biology </li>
+                                    <li>Introductory Chemistry</li>
+                                    <li>Introductory Physics</li>
+                                </ol>
+                                (All science courses are semester-long; 1/2 unit each)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Social Studies</td>
+                            <td>Social Studies 3 units (beyond Introduction to Social Studies)
+                                <ol type="a">
+                                    <li>World History</li>
+                                    <li>Modern History</li>
+                                    <li>U.S. History</li>
+                                </ol>
+                        </tr>
+                        <tr>
+                            <td>Physical Education</td>
+                            <td>2 units (4 year sequence at ½ unit per year; beyond Subfreshman PE)</td>
+                        </tr>
+                        <tr>
+                            <td>Fine Arts</td>
+                            <td>1 unit (beyond Interrelated Arts)</td>
+                        </tr>
+                        <tr>
+                            <td>Computer Science</td>
+                            <td>Computer Science 1/2 unit (Computer Literacy 2)</td>
+                        </tr>
+                        <tr>
+                            <td>Health</td>
+                            <td>1/2 unit</td>
+                        </tr>
+                        <tr>
+                            <td>Consumer Education</td>
+                            <td> Required online course</td>
+                        </tr>
+                    </table>
+                    
+                    <p>
+                        Students may take elective courses outside of University Laboratory High School. Consult your counselor or see page 28 for more information.
+                    </p>
+                    
+                </div>
+            </div>
+            <!--#include virtual="/academics/sidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
