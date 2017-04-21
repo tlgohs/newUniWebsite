@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">BOYS SOCCER (ASSISTS)</div>
+				<div id="image"><img src="/images/athletics/pollock pass.jpg"></img></div>
+				<div id="section-content">
+				
+
+   <table width="100%" class="formatted">
+<tr class="header">
+<td><strong>Assists</strong></td>
+<td><strong>Record Holder</strong></td>
+<td><strong>Year</strong></td>
+</tr>
+<tr class="even">
+<td>26</td>
+<td>Alex Mestre</td>
+<td>2011</td>
+</tr>
+<tr class="odd">
+<td>26</td>
+<td>Henry Pollock</td>
+<td>2004</td>
+</tr>
+<tr class="odd">
+<td>24</td>
+<td>Patrick Wong</td>
+<td>2012</td>
+</tr>
+<tr class="odd">
+<td>24</td>
+<td>Rahi Miraftab-Salo</td>
+<td>2015</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>Paul Seeley</td>
+<td>2012</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>Tarik Koric</td>
+<td>2011</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>Tarik Koric</td>
+<td>2012</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>Patrick Wong</td>
+<td>2009</td>
+</tr>
+<tr class="even">
+<td>15</td>
+<td>Al Renner</td>
+<td>2004</td>
+</tr>
+
+</table>
+<hr />
+<br />
+<table width="100%" class="formatted">
+<tr class="header">
+<td><strong>Assists (Career)</strong></td>
+<td><strong>Record Holder</strong></td>
+<td><strong>Year</strong></td>
+</tr>
+<tr class="odd">
+<td>62</td>
+<td>Tarik Koric</td>
+<td>2009-2012</td>
+</tr>
+<tr class="odd">
+<td>57</td>
+<td>Patrick Wong</td>
+<td>2009-2012</td>
+</tr>
+<tr class="even">
+<td>45</td>
+<td>Henry Pollock</td>
+<td>2002-2004</td>
+</tr>
+<tr class="odd">
+<td>41</td>
+<td>Paul Seeley</td>
+<td>2009-2012</td>
+</tr>
+<tr class="even">
+<td>31</td>
+<td>Alex Mestre</td>
+<td>2009-2012</td>
+</tr>
+<tr class="even">
+<td>29</td>
+<td>George Voulgaris</td>
+<td>2010-2012</td>
+</tr>
+<tr class="odd">
+<td>29</td>
+<td>Jacob Seeley</td>
+<td>2004-2008</td>
+</tr>
+<tr class="even">
+<td>28</td>
+<td>Michael Belmont</td>
+<td>2003-2007</td>
+</tr>
+<tr class="odd">
+<td>28</td>
+<td>Tyson Masar</td>
+<td>1997-1999</td>
+</tr>
+<tr class="even">
+<td>26</td>
+<td>Alex Renner</td>
+<td>2004-2005</td>
+</tr>
+</table>
+
+		
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div></div></div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

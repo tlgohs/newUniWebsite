@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">BOYS BASKETBALL RESULTS</div>
+
+				<div id="section-content">
+				
+	Boys basketball began at Uni High in 1921. Thanks to a Computer Literacy class research project by Patrick Morales-Doyle and Jirka Mikl, the history of Illineks basketball has been recorded for all to see.  Using yearbooks, newspaper articles and a research paper written by _________, Morales-Doyle and Mikl cataloged the results and records from the past.<p>
+	Since then an article written about the program for a University of Illinois english class was published in The News-Gazette. <a href="http://www.news-gazette.com/sports/prep-sports/boys-basketball/2016-12-25/coach-athletes-recall-ending-unis-96-game-skid.html"> Coach, athletes recall ending Uni's 96-game skid</a></div><p>
+	
+	<Ul>
+	<li><a href="boys_basketball_24-33.shtml">Boys Basketball Results 1924-1933</a></li>
+	<li><a href="boys_basketball_34-43.shtml">Boys Basketball Results 1934-1943</a></li>
+	<li><a href="boys_basketball_44-53.shtml">Boys Basketball Results 1944-1953</a></li>
+	<li><a href="boys_basketball_54-63.shtml">Boys Basketball Results 1954-1963</a></li>
+	<li><a href="boys_basketball_64-73.shtml">Boys Basketball Results 1964-1973</a></li>
+	<li><a href="boys_basketball_74-83.shtml">Boys Basketball Results 1974-1983</a></li>
+	<li><a href="boys_basketball_84-93.shtml">Boys Basketball Results 1984-1993</a></li>
+	<li><a href="boys_basketball_94-03.shtml">Boys Basketball Results 1994-2003</a></li>
+	<li><a href="boys_basketball_04-13.shtml">Boys Basketball Results 2004-2013</a></li>
+	<li><a href="boys_basketball_14-23.shtml">Boys Basketball Results 2014-2023</a></li>
+</ul>
+											
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">UNI HIGH IDENTITY STANDARDS</div>
+
+				<div id="section-content">
+				
+<img src="../images/resources/uni_mark.png">
+				
+<p>This mark reflects the "Uni" brand and serves as Uni's universal logo to be used on all publications. While the official name of the school is used formally, "Uni" serves as the brand identity. The mark's typeface is Adobe Garamond Pro, the University of Illinois' official typeface.</p>
+<p><a href="../resources/uni_mark.zip">Download Package</a></p>
+
+			
+<h1>Varsity Mark</h1>
+<p><img src="../images/resources/UH_vector.png"></p>
+<p>This varsity mark represents Uni's athletic brand. The mark is reserved for use on official apparel, team uniforms, athletic department equipment, and athletic department publications.</p>
+<p>This mark does not represent Uni's main brand identity.</p>
+<P>The Varisty Mark colors are:</p>
+<br>Royal Blue: Pantone Reflex Blue C
+<br>Orange: Pantone 158
+<p><a href="../images/resources/UH_vector_png.zip">Download Package</a></p>
+			
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

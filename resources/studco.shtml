@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">STUDENT COUNCIL</div>
+<div id="image"><img src="/images/resources/Student Council.jpg"></img></div>
+				<div id="section-content">
+				
+
+<p><h3>Background</h3>
+<p>University Laboratory High School two student govorning bodies: Student Council and the Student Faculty Advisory Committee. Student Council is also commonly referred to as "StudCo." StudCo consists of three members from each class plus three executive officers of the following elected positions: President, Vice President, and Secretary Treasurer. The Student Faculty Advisory Committee (SFAC) is comprised of one elected official per class. The senior elected official in SFAC serves as the President of SFAC.</p>
+<h3>Student Council</h3>
+<p>Student Council serves as the governing body concerning student activities and interests. StudCo meets every Thursday at lunch in room 109. Primary roles and responsibilities include:</p>
+<ul>
+	<li>Allocation of student funds</li>
+	<li>Organizing and managing class events and activities</li>
+	<li>Organizing and managing Student Council sponsored events and activities</li>
+	<li>Approval of student events and activities</li>
+	<li>Approval of use of StudCo resources (i.e. DJ Stereo) for student events and activities</li>
+	<li>Granting or denying permission to form a club or student organization</li>
+	<li>Cleaning up at orientation and disorientation picnics</li>
+</ul>
+<h3>Student Faculty Advisory Committee (SFAC)</h3>
+<p>The Student Faculty Advisory Committee (SFAC) serves as the student body for developing and recommending changes to school policy. Primary roles and responsibilities include:</p>
+<ul>
+	<li>Developing and recommending changes to school policies (example: SFAC developed and implemented the Honor Council)</li>
+	<li>Helping Student Council officers with event organizing and preparation, as needed</li>
+	<li>Cleaning up at orientation and disorientation picnics
+		<ul></ul>
+	</li>
+</ul>
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

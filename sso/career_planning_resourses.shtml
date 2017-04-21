@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Career Planning Resources</div>
+
+				<div id="section-content">
+				
+<p><p><b>Collegeboard - Quickstart</b><br>
+	<a href="http://www.collegeboard.com/quickstart">http://www.collegeboard.com/quickstart</a><br>
+	Set up your college quickstart account – you don’t need your access code, you may fill out the quick profile information and set up your account – your information on the PSAT needs to match the profile information that you use to set up your account <i>Highlights – ORA personality profile, Summer Opportunities, Compare college profiles, SAT study plan</i></p>
+<hr>
+<p><b>The ACT Plan Program</b><br>
+	<a href="www.actstudent.org/plan">www.actstudent.org/plan</a></p>
+<ul>
+	<li><a href="http://actstudent.org/plan/future/index.html">Thinking About Your Future</a></li>
+	<li><a href="http://actstudent.org/plan/future/career.html">Your Career Opportunities</a></li>
+	<li><a href="http://www.actstudent.org/wwm/plan_world.html">Interactive Map</a></li>
+</ul>
+<p><i>Highlights – Correlates with your PLAN – World-to-Work Map, Easy to Navigate, Quick overview of career</i></p>
+<hr>
+<p><b>Bureau of Labor Statistics' Occupational Outlook Handbook</b> www.bls.gov/oco/ Use search engine to find career of choice or use the alphabetical listing<br>
+	<i>Highlights – Nature of the Work, Training, Other Qualifications, and Advancement, Employment, Job Outlook, Projections Data, Earnings, OES Data, Related Occupations, Sources of Additional Information</i></p>
+<hr>
+<p><b>The Princeton Review</b><br>
+	<a href="http://www.princetonreview.com">http://www.princetonreview.com/</a></p>
+<ul>
+	<li><a href="http://www.princetonreview.com/colleges-majors.aspx">Explore Colleges</a></li>
+	<li><a href="http://www.princetonreview.com/careers-after-college.aspx">Careers and Majors</a></li>
+</ul>
+<p><i>Highlights – Day in the Life, Quality of Life, Present and Future, Facts and Figures, Majors, Graduate Programs</i></p>
+</p></div>
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

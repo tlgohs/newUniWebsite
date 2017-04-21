@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">HOME OF THE ILLINEKS</div>
+				<div id="image"><img src="/images/3_sport_athletes_16.jpg"></img></div>
+				<div id="section-content">
+				
+<strong>Mascot:</strong> Illineks <br>
+<strong>Athletic Director:</strong> Tim Bicknell<br>
+<a href="mailto:tbick2@illinois.edu">tbick2@illinois.edu</a><br>
+(217) 300-0524<br>
+
+<strong><br> Quick Facts: </h2></strong>
+<ul>
+<li> Over 80% of our student body participates in our "No-Cut" athletics programs </li>
+
+<li> Students can choose from 11 sports through 3 different seasons </li>
+
+<li> Uni's Cross Country, Boys' Soccer, and Girls and Boys Track and Field are consistently recognized as some of the areas' best programs </li>
+
+<li> In 2016, Uni High was honored with the "News-Gazette Athlete of the year" in Girls' Cross Country, Boys' Golf, and Girls' Swimming </li>
+
+<li> Uni High is in the East Central Illinois Conference along with area school Judah Christian </li>
+
+<li> In 2012 and 2016, the boys' soccer team finished second and fourth respectively at the IHSA 1A State Tournament </li>
+
+<li> At the 2016 State Swimming Tournament, current junior Ema Rajic broke two state records </li> 
+
+</ul>				
+				
+				
+</div>
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

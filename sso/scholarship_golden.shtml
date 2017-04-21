@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">GOLDEN APPLE SCHOLARS</div>
+
+				<div id="section-content">
+				
+<strong>DUE:  January 8, 2016</strong>
+
+<p>The Golden Apple Scholars of Illinois is a scholarship program that identifies talented high school seniors, as well as first and second-year college students who have the promise and drive to be excellent teachers in high-need schools.  Golden Apple Scholars provides scholarships to 200+  students each year.  In addition to funding, Golden Apple Scholars provides four years of residential summer institutes, which gives students on-site classroom experience, as well as mentoring from a Golden Apple teacher (information taken from <a href="http://www.goldenapple.org/golden-apple-scholars">www.goldenapple.org/golden-apple-scholars</a>).  Please follow the aforementioned link to learn more about the Golden Apple Scholars.
+
+Here is a direct link to the application:  <a href="http://www.goldenapple.org/scholars-program-nominations">www.goldenapple.org/scholars-program-nominations</a>
+Nominees are asked to complete an online application along with three online references, & mail both ACT scores and transcripts to Golden Apple.</p>
+
+<hr>
+ 
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">SCHOLARSHIPS</div>
+<div id="image"><img src="/images/athletics/#"></img></div>
+				<div id="section-content">
+				
+<p>The Student Services Office will work to announce scholarship information as often as possible.</p>
+
+<hr>
+
+<h3>Scholarships</h3>   
+<ul>
+
+<li><a href="scholarships_aka.shtml">Alpha Kappa Alpha Sorority, Inc., Epsilon Epsilon Omega Chapter
+Academic Scholarship Application</a></li>
+<li><a href="scholarships_cceefs.shtml">Champaign County Extension Education Foundation Scholarship</a></li>
+<li><a href="scholarships_Groth.shtml">Groth & Associates Scholarship Opportunity</a></li>
+<li><a href="scholarships_sigmanu.shtml">Sigma Nu Fraternity at the University of Illinois Urbana-Champaign presents the
+Pursuit of Excellence Scholarship 2017.</a></li>
+
+<li><a href="scholarships_PEO.shtml">P.E.O  (Philanthropic Education Organization) Star Scholarship for a Senior GIRL</a></li>
+<li><a href="scholarships_alcorn.shtml">ACORN EQUALITY FUND SCHOLARSHIP</a></li>
+<li><a href="scholarships_golden.shtml">GOLDEN APPLE SCHOLARS</a></li>
+<li><a href="scholarships_comcast.shtml">The Comcast Leaders and Achievers Scholarship Program</a></li>
+
+
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

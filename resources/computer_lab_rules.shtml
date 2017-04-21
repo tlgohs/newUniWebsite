@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">COMPUTER LAB RULES</div>
+
+				<div id="section-content">
+				
+<h3>Violations of the laboratory rules or the University Laboratory High School computer usage agreement will result in loss of computer privileges or other disciplinary action.</h3>
+
+<ul><li>No eating or drinking in the labs</li>
+<li>No games of any kind, Internet chat or instant messaging.</li>
+<li>Labs may be closed during classes</li>
+<li>Users must give up their computers if they are needed for a higher priority use.  Priorities for use of the computers are:</li>
+ <ol type="1">
+  <li>Regular classes meeting in the computer labs</li>
+  <li>Working on assigned homework and class projects</li>
+  <li>Personal communications (e-mail, web browsing, etc.)</li>
+  <li>Other personal or recreational uses</li>
+</ol>
+<h4 style="font-weight:normal;"><li>Do not install any software, or modify or delete any system files on any lab computers.</li>
+<li>Use headphones to listen to music or whenever the sound from your computer may disturb other users.</li>
+<li>Respect the equipment.  Don’t remove or disconnect any labels, parts or cables.</li>
+<li>Do not read or modify other users' files.</li>
+<li>Keep your passwords to yourself.  Change your password right away if you think someone else may know it.</li>
+<li>Never impersonate another user by using their name or password.  Do not access files, accounts or other systems you are not authorized to use. </li>
+<li>Do not run programs that continue to execute after you log off.</li>
+<li>Tell the system administrators if anything needs to be fixed.</li>
+<li>Print in color only if it’s essential for a legitimate school project.</li>
+<li>Keep the labs clean.</li></ul>
+
+<h3>Contact the Technology Director, Mr. Greg Smith (room 105, 217-244-8589, or e-mail <a href="mailto:gregs@illinois.edu">gregs@illinois.edu</a>) if you have any questions or see anyone violating these lab rules.</h3>
+<p>
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

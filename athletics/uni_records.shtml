@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=3;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">SPORT RESULTS / RECORDS</div>
+				<div id="image"><img src="/images/blue record.jpg"></img></div>
+				<div id="section-content">
+				
+
+<strong>Girls Basketball</strong> :
+<a href="girls_results.shtml">Game Results</a>
+<hr>
+<strong>Girls Swimming</strong> :
+<a href="swim_records.shtml">Team Records</a>
+<hr>
+
+<strong>Boys Track</strong>:
+<a href="boys_track_records.shtml">Team Records</a>
+<hr>
+
+<strong>Girls Track</strong> :
+<a href="girls_track_records.shtml">Team Records</a>
+<hr>
+
+
+<strong>Boys Soccer</strong> :
+<a href="boys_soccer_results.shtml">Game Results</a><br>
+Team Records: <a href="boys_soccer_assists.shtml">Assists</a> / <a href="boys_soccer_goals.shtml">Goals</a> / <a href="boys_soccer_saves.shtml">Saves</a>
+<hr>
+
+<strong>Boys Basketball</strong> : <a href="boys_basketball_results.shtml">Game Results</a><br>
+Team Records: <a href="boys_basketball_assists.shtml">Assists</a> /
+<a href="boys_basketball_blocks.shtml">Blocks</a> /
+<a href="boys_basketball_fg.shtml">FG%</a> /
+<a href="boys_basketball_ft.shtml">FT%</a> /
+<a href="boys_basketball_points.shtml">Points</a> /
+<a href="boys_basketball_rebounds.shtml">Rebounds</a> /
+<a href="boys_basketball_steals.shtml">Steals</a> /
+<a href="boys_basketball_3pointers.shtml">3-Pointers</a>
+<hr>
+
+<strong>Volleyball</strong> :
+Team Records: 
+<a href="volleyball_aces.shtml">Aces</a> /
+<a href="volleyball_assists.shtml">Assists</a> /
+<a href="volleyball_blocks.shtml">Blocks</a> /
+<a href="volleyball_digs.shtml">Digs</a> /
+<a href="volleyball_kills.shtml">Kills</a>
+
+</div>
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">BOYS TRACK RECORDS</div>
+				<div id="image"><img src="/images/athletics/boys_track_record.jpg"></img></div>
+				<div id="section-content">
+				
+<table class="formatted" width="100%"><tbody>
+<tr class="even"><td>100M</td><td>Nealay Kalita</td><td>11.16</td><td>2012</td></tr>
+<tr class="odd"><td>200M</td><td>Camden Coleman</td><td>22.55</td><td>2016</td></tr>
+<tr class="even"><td>400M</td><td>Malcolm Taylor</td><td>48.99</td><td>2008</td></tr>
+<tr class="odd"><td>800M</td><td>Malcolm Taylor</td><td>1:57.86</td><td>2008</td></tr>
+<tr class="even"><td>1600M</td><td>Peter Hanratty</td><td>4:21.4</td><td>1982</td></tr>
+<tr class="odd"><td>3200M</td><td>Albert Anastasio</td><td>9:37.48</td><td>2011</td></tr>
+<tr class="even"><td>110HH</td><td>Nick Zukoski</td><td>16.29</td><td>2010</td></tr>
+<tr class="odd"><td>300LH</td><td>Dan Kolodziej</td><td>43.2</td><td>1986</td></tr>
+<tr class="even"><td>Long Jump</td><td>Jamsheed Shorish</td><td>21-9</td><td>1986</td></tr>
+<tr class="odd"><td>Triple Jump</td><td>Chris Bauer</td><td>43-2</td><td>2016</td></tr>
+<tr class="even"><td>High Jump</td><td>Ambrose Richards</td><td>6-2</td><td>1963</td></tr>
+<tr class="odd"><td>Discus</td><td>Steven Morse</td><td>145-4</td><td>2012</td></tr>
+<tr class="odd"><td>Shot Put</td><td>Frankie McFarland</td><td>46-4</td><td>2008</td></tr>
+<tr class="even"><td>Pole Vault</td><td>Aaron Heumann</td><td>11-9</td><td>1988</td></tr>
+<tr class="odd"><td>400 Relay</td><td>A. Lee, D. Ramkumar, M. Anukwu, C. Bauer</td><td>46.48</td><td>2016</td></tr>
+<tr class="even"><td>800 Relay</td><td>A. Lee, C. Coleman, M. Anukwu, C. Bauer</td><td>1:34.36</td><td>2016</td></tr>
+<tr class="odd"><td>1600 Relay</td><td>G. Gunter, C. Bauer, M. Allston-Yeagle, J. Yockey</td><td>3:29.85</td><td>2014</td></tr>
+<tr class="even"><td>3200 Relay</td><td>G. Gunter, A. Robison, M. Allston-Yeagle, J. Yockey</td><td>8:01.87</td><td>2014</td></tr>
+</tbody></table>
+
+
+</div>
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">VOLLEYBALL (ACES)</div>
+<div id="image"><img src="/images/athletics/welch-vb.jpg"></img></div>
+				<div id="section-content">
+				
+<table class="formatted" width="100%"><tbody>
+<tr class="header"><td width="300"><strong><u>Career Aces</u></strong></td>
+<td width="150">&nbsp;</td><td width="300">&nbsp;</td></tr>
+<tr class="even"><td>Ruthie Welch</td><td>191</td><td>2004-2007</td></tr>
+<tr class="odd"><td>Amanda Grill</td><td>153</td><td>2003-2006</td></tr>
+<tr class="even"><td>Annie Fehrenbacher</td><td>153</td><td>2003-2006</td></tr>
+<tr class="odd"><td>Michelle Wong</td><td>146</td><td>2007-2009</td></tr>
+<tr class="even"><td>Jessica Sullivan</td><td>113</td><td>2005-2008</td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</tbody></table><hr/>
+<table class="formatted" width="100%"><tbody>
+<tr class="header"><td width="300"><strong><u>Season Aces</u></strong></td>
+<td width="150">&nbsp;</td><td width="300">&nbsp;</td></tr>
+<tr class="even"><td>Amanda Grill</td><td>80</td><td>2006</td></tr>
+<tr class="odd"><td>Ruthie Welch</td><td>74</td><td>2006</td></tr>
+<tr class="even"><td>Rachel Skoza</td><td>67</td><td>2008</td></tr>
+<tr class="odd"><td>Ruthie Welch</td><td>67</td><td>2007</td></tr>
+<tr class="even"><td>Annie Fehrenbacher</td><td>67</td><td>1990</td></tr>
+</tbody>
+</table>
+
+
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

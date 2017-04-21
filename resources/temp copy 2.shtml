@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">FACULTY RESOURCES</div>
+<div id="image"><img src="/images/resources/#"></img></div>
+				<div id="section-content">
+				
+
+
+<p>Below is a listing of helpful websites to the Uni Community:<br />&nbsp;</p><p><strong>University of Illinois sites:</strong></p><ul style="margin-left: 40px;"><li><a href="http://webstore.illinois.edu/">U of I Software Webstores</a></li><li><a href="http://www.printing.illinois.edu/">U of I Printing Services</a></li><li><a href="http://www.cites.illinois.edu/accounts/index.html">UIUC Active Directory (Change your password or Unlock your account)</a></li><li><a href="https://passwords.cites.illinois.edu/index.html">CITES Password Manager</a></li></ul><p><strong>Uni High information:</strong></p><ul style="margin-left: 40px;">
+<li><a href="https://compass.illinois.edu/webct/entryPageIns.dowebct">Illinois Compass (Consumer Report Test)</a></li>
+<li><a href="https://my.swanlundhr.illinois.edu/">Faculty Leave Login</a></li></ul>
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

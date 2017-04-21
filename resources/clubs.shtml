@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">UNI STUDENT CLUBS</div>
+
+				<div id="section-content">
+				
+<p>Below is a list of school clubs and information about when they meet:</p>
+<p><ul>
+	
+	 <table style="100%", border="1px solid black", class="calendar_table"> <!--temp until locate css-->
+		 
+     <tr>
+			<th class="divider1", colspan="4">Monday</th>
+		</tr>
+		 <tr class="title1">
+			<th>Uni High Club Name</th>
+			<th>Meeting Day & Time</th>
+			<th>Location</th>
+			<th>Faculty Rep</th>
+		</tr>
+				<!-- MONDAY CLUBS -->
+		<tr>
+			<td>American Red Cross Club</td>
+			<td>Lunch</td>
+			<td>106 S</td>
+			<td>Ms. Murphy</td>
+		</tr>
+		<tr>
+			<td>Biology Club</td>
+			<td>Lunch</td>
+			<td>301</td>
+			<td>Mr. Stone</td>
+		</tr>
+		<tr>
+			<td>Book Club</td>
+			<td>Lunch</td>
+			<td>Library</td>
+			<td>Ms. Arnold</td>
+		</tr>
+		<tr>
+			<td>French Club</td>
+			<td>Lunch</td>
+			<td>205</td>
+			<td>Ms. Lopez/Mr. Garvey</td>
+		</tr>
+		<tr>
+			<td>Investment Club</td>
+			<td>Lunch</td>
+			<td>206</td>
+			<td>Dr. Radnitzer</td>
+		</tr>
+		<tr>
+			<td>Model UN</td>
+			<td>Lunch</td>
+			<td>206</td>
+			<td>Mr. Leff</td>
+		</tr>
+		<tr>
+			<td>Political Activism Club</td>
+			<td>Lunch</td>
+			<td>308</td>
+			<td>Mr. Ernstmeyer</td>
+		</tr>
+		<tr>
+			<td>Ted Talks</td>
+			<td>Lunch</td>
+			<td>210</td>
+			<td>Ms. Lombardi</td>
+		</tr>
+		<tr>
+			<td>UFU Club</td>
+			<td>Lunch</td>
+			<td>218</td>
+			<td>Mr. Mitchell</td>
+		</tr>
+		<tr>
+			<td>Art Club</td>
+			<td>Uni Period</td>
+			<td>Art Room</td>
+			<td>Ms. Evans</td>
+		</tr>
+		<tr>
+			<td>Girls Who Code</td>
+			<td>Uni Period</td>
+			<td>Library</td>
+			<td>Ms. Arnold/Ms. Denos</td>
+		</tr>
+		<tr>
+			<td>Habitat Leaders</td>
+			<td>Uni Period</td>
+			<td>210</td>
+			<td>Ms. Morford, Mr. Sutton, Mr. Leff</td>
+		</tr>
+		<tr>
+			<td>Spectrum Club</td>
+			<td>Uni Period</td>
+			<td>206</td>
+			<td>Ms. Rodriguez</td>
+		</tr>
+				<!-- END MONDAY CLUBS -->
+    <tr>
+			<th class="divider2", colspan="4">Tuesday</th>
+		</tr>
+		<tr class="title2">
+			<th>Uni High Club Name</th>
+			<th>Meeting Day & Time</th>
+			<th>Location</th>
+			<th>Faculty Rep</th>
+		</tr>
+				<!-- TUESDAY CLUBS -->
+		<tr>
+			<td>American Sign Language (ASL) Club</td>
+			<td>Lunch</td>
+			<td>211</td>
+			<td>Mr. Garvey</td>
+		</tr>
+		<tr>
+			<td>Debate Club</td>
+			<td>Lunch</td>
+			<td>206</td>
+			<td>Ms. Lombardi</td>
+		</tr>
+		<tr>
+			<td>Engineers Without Borders</td>
+			<td>Lunch</td>
+			<td>302</td>
+			<td>Dr. Denos</td>
+		</tr>
+		<tr>
+			<td>Pediatric Cancer Awareness Club (PCAC)</td>
+			<td>Lunch</td>
+			<td>106 S</td>
+			<td>Ms. Bandy</td>
+		</tr>
+		<tr>
+			<td>Student Faculty Committee (SFAC)</td>
+			<td>Lunch</td>
+			<td>Library</td>
+			<td>Ms. Rodems, Mr. Mitchell, Ms. Bandy, Dr. Radnitzer</td>
+		</tr>
+		<tr>
+			<td>Spring Club</td>
+			<td>Lunch</td>
+			<td>205</td>
+			<td>Mr. Sutton/Ms. Rodriguez</td>
+		</tr>
+		<tr>
+			<td>Unique Club</td>
+			<td>Lunch</td>
+			<td>210</td>
+			<td>Ms. Majerus</td>
+		</tr>
+		<tr>
+			<td>Fr/So Math Teams</td>
+			<td>After School</td>
+			<td>210</td>
+			<td>Ms. Boca/Mr. Russell</td>
+		</tr>
+		<tr>
+			<td>Jr/Sr Math Teams</td>
+			<td>After School</td>
+			<td>205</td>
+			<td>Ms. Boca/Mr. Russell</td>
+		</tr>
+		<tr>
+			<td>Subbie Math Team</td>
+			<td>After School</td>
+			<td>206</td>
+			<td>Mr. Bild</td>
+		</tr>
+		<tr>
+			<td>Scholastic Bowl</td>
+			<td>After School</td>
+			<td>218</td>
+			<td>Mr. Butler</td>
+		</tr>
+				<!-- END TUESDAY CLUBS -->
+		<tr>
+			<th class="divider1", colspan="4">Wednesday</th>
+		</tr>
+    <tr class="title1">
+			<th>Uni High Club Name</th>
+			<th>Meeting Day & Time</th>
+			<th>Location</th>
+			<th>Faculty Rep</th>
+		</tr>
+				<!-- WEDNESDAY CLUBS -->
+		<tr>
+			<td>Asian-Media Club</td>
+			<td>Lunch</td>
+			<td>210</td>
+			<td>Ms. Lopez</td>
+		</tr>
+		<tr>
+			<td>Current Events Club</td>
+			<td>Lunch</td>
+			<td>106 S</td>
+			<td>Mr. Rayburn</td>
+		</tr>
+		<tr>
+			<td>Linguistics Club</td>
+			<td>Lunch</td>
+			<td>218</td>
+			<td>Mr. Leff</td>
+		</tr>
+		<tr>
+			<td>Music Club</td>
+			<td>Lunch</td>
+			<td>South Attic</td>
+			<td>Mr. Murphy</td>
+		</tr>
+		<tr>
+			<td>Spoken Word Club</td>
+			<td>Lunch</td>
+			<td>106 S</td>
+			<td>Mr. Ernstmeyer</td>
+		</tr>
+		<tr>
+			<td>Thespians</td>
+			<td>Lunch</td>
+			<td>North Attic</td>
+			<td>Mr. Guyotte</td>
+		</tr>
+		<tr>
+			<td>Tree Club</td>
+			<td>Lunch</td>
+			<td>302</td>
+			<td>Ms. Denos</td>
+		</tr>
+		<tr>
+			<td>Youth Take Action</td>
+			<td>Lunch</td>
+			<td>309</td>
+			<td>Ms. Bandy</td>
+		</tr>
+		<tr>
+			<td>Enlist Organization</td>
+			<td>Uni Period</td>
+			<td>Chem Lab</td>
+			<td>Mr. Bergandine</td>
+		</tr>
+		<tr>
+			<td>Food Pantry</td>
+			<td>Uni Period</td>
+			<td>109</td>
+			<td>Ms. Majerus</td>
+		</tr>
+		<tr>
+			<td>Jazz Band 1</td>
+			<td>Uni Period</td>
+			<td>South Attic</td>
+			<td>Mr. Murphy</td>
+		</tr>
+		<tr>
+			<td>Math Help</td>
+			<td>Uni Period</td>
+			<td>206</td>
+			<td>Math Teachers</td>
+		</tr>
+		<tr>
+			<td>Science Olympiads</td>
+			<td>Uni Period</td>
+			<td>302</td>
+			<td>Mr. Carrubba</td>
+		</tr>
+		<tr>
+			<td>Writing Center</td>
+			<td>Uni Period</td>
+			<td>106 S</td>
+			<td>English Department</td>
+		</tr>
+				<!-- END WEDNESDAY CLUBS -->
+		<tr>
+			<th class="divider2", colspan="4">Thursday</th>
+		</tr>
+    <tr class="title2">
+			<th>Uni High Club Name</th>
+			<th>Meeting Day & Time</th>
+			<th>Location</th>
+			<th>Faculty Rep</th>
+		</tr>
+				<!-- THURSDAY CLUBS -->
+		<tr>
+			<td>ACT/SAT Prep Club</td>
+			<td>Lunch</td>
+			<td>206</td>
+			<td>SSO</td>
+		</tr>
+		<tr>
+			<td>Bollywood Club</td>
+			<td>Lunch</td>
+			<td>210</td>
+			<td>Mr. Ernstmeyer</td>
+		</tr>
+		<tr>
+			<td>German Club</td>
+			<td>Lunch</td>
+			<td>308</td>
+			<td>Mr. Weilmuenster</td>
+		</tr>
+		<tr>
+			<td>LIFE Club</td>
+			<td>Lunch</td>
+			<td>218</td>
+			<td>Mr. Buck</td>
+		</tr>
+		<tr>
+			<td>Student Council</td>
+			<td>Lunch</td>
+			<td>109</td>
+			<td>Mr. Murphy</td>
+		</tr>	
+		<tr>
+			<td>Math Help</td>
+			<td>After School</td>
+			<td>206</td>
+			<td>Math Teachers</td>
+		</tr>	
+		<tr>
+			<td>Scholastic Bowl</td>
+			<td>After School</td>
+			<td>218</td>
+			<td>Mr. Butler</td>
+		</tr>	
+				<!-- END THURSDAY CLUBS -->
+		<tr>
+			<th class="divider1", colspan="4">Friday</th>
+		</tr>
+    <tr class="title1">
+			<th>Uni High Club Name</th>
+			<th>Meeting Day & Time</th>
+			<th>Location</th>
+			<th>Faculty Rep</th>
+		</tr>
+				<!-- FRIDAY CLUBS -->
+		<tr>
+			<td>Habitat Club</td>
+			<td>Lunch</td>
+			<td>210</td>
+			<td>Mr. Sutton</td>
+		</tr>
+		<tr>
+			<td>Latin Club</td>
+			<td>Lunch</td>
+			<td>212</td>
+			<td>Mr. Lauthen</td>
+		</tr>
+		<tr>
+			<td>Philosophy Club</td>
+			<td>Lunch</td>
+			<td>206</td>
+			<td>Mr. Ernstmeyer</td>
+		</tr>
+		<tr>
+			<td>Chemistry Club</td>
+			<td>Uni Period</td>
+			<td>Chem Lab</td>
+			<td>Mr. Bergandine</td>
+		</tr>
+		<!--<tr>
+			<td>Engineering Club</td>
+			<td>Uni Period</td>
+			<td>302</td>
+			<td>Ms. Denos</td>
+		</tr>-->
+		<tr>
+			<td>Jazz Band 2</td>
+			<td>Uni Period</td>
+			<td>North Attic</td>
+			<td>Mr. Murphy</td>
+		</tr>
+		<tr>
+			<td>Quidditch Club</td>
+			<td>Uni Period</td>
+			<td>Uni Gym</td>
+			<td>Mr. Guyotte</td>
+		</tr>
+		<tr>
+			<td>We Build Club</td>
+			<td>Uni Period</td>
+			<td>303</td>
+			<td>Ms. Denos</td>
+		</tr>
+		<tr>
+			<td>WILL Interns</td>
+			<td>Uni Period</td>
+			<td>210</td>
+			<td>Ms. Morford</td>
+		</tr>
+			<!-- END FRIDAY CLUBS -->
+			<th class="divider2", colspan="4">Outside of School</th>
+		</tr>
+    <tr class="title2">
+			<th>Uni High Club Name</th>
+			<th>Meeting Day & Time</th>
+			<th>Location</th>
+			<th>Faculty Rep</th>
+		</tr>
+				<!-- OUTSIDE OF SCHOOL CLUBS -->
+		<tr>
+			<td>Tennis Club</td>
+			<td>Occasional Weekends</td>
+			<td>--</td>
+			<td>Mr. Bergandine</td>
+		</tr>
+	</table>
+	 
+	 
+</ul></p>
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

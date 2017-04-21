@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">BOYS BASKETBALL RESULTS</div>
+
+				<div id="section-content">
+				
+<h1> 1924-33 Results</h1>
+	<h3>1923-24: Coach Slaymaker (1-9)</h3>	
+	<img src= "/images/athletics/1924boys.jpg">		
+		<ul>
+			<li>Sadorus</li>
+				<ul>
+					<li>L 14-18</li>
+				</ul>
+				<p>
+			<li>Longview</li>
+				<ul>
+					<li>L 7-38</li>
+				</ul>
+				<p>
+			<li>Ogden</li>
+				<ul>
+					<li>L 4-26</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>W 23-17</li>
+				</ul>
+				<p>
+			<li>Urbana "B"</li>
+				<ul>
+					<li>L 7-16</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>L 17-42</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>L 9-10</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>L 21-24</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>L 16-18</li>
+				</ul>
+				<p>
+			<li>Ogden</li>
+				<ul>
+					<li>L 9-22</li>
+                    <p>
+			<li>Loda</li>
+				<ul>
+					<li>W forfeit</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1924-25:Coach Leo Overtoom (4-8)</h3>
+	<img src="/images/athletics/1925boys.jpg">		
+		<ul>
+			<li>Tolono</li>
+				<ul>
+					<li>18-19</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>18-37</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>21-20</li>
+				</ul>
+				<p>
+			<li>Champaign "B"</li>
+				<ul>
+					<li>15-18</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>15-17</li>
+				</ul>
+				<p>
+			<li>Champaign "B"</li>
+				<ul>
+					<li>29-9</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>25-15</li>
+				</ul>
+				<p>
+			<li>Mahomet</li>
+				<ul>
+					<li>8-20</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>18-15</li>
+				</ul>
+				<p>
+			<li>Urbana "B"</li>
+				<ul>
+					<li>15-20</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>16-18</li>
+				</ul>
+				<p>
+			<li>Villa Grove</li>
+				<ul>
+					<li>12-30</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1925-26:Coach C. Stanley Restle (4-8)</h3>
+	<img src="/images/athletics/1926boys.jpg">		
+		<ul>
+			<li>Rantoul</li>
+				<ul>
+					<li>12-35</li>
+				</ul>
+				<p>
+			<li>Ogden</li>
+				<ul>
+					<li>17-10</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>Lost</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>Lost (OT)</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>3-29</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>16-15</li>
+				</ul>
+				<p>
+			<li>Ogden</li>
+				<ul>
+					<li>23-19</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>8-20</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>16-19</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>17-19</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>22-39</li>
+				</ul>
+				<p>
+			<li>Champaign (District)</li>
+				<ul>
+					<li>16-25</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1926-27: Coach C. Stanley Restle (1-12)</h3>
+	<img src="/images/athletics/1927boys.jpg">		
+		<ul>
+			<li>Monticello</li>
+				<ul>
+					<li>10-29</li>
+				</ul>
+				<p>
+			<li>Onarga</li>
+				<ul>
+					<li>27-18</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>16-25</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>12-29</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>13-27</li>
+				</ul>
+				<p>
+			<li>St.Joe</li>
+				<ul>
+					<li>24-27</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>12-14</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>14-18</li>
+				</ul>
+				<p>
+			<li>Onarga</li>
+				<ul>
+					<li>7-18</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>14-18</li>
+				</ul>
+				<p>
+			<li>Villa Grove</li>
+				<ul>
+					<li>9-29</li>
+				</ul>
+				<p>
+			<li>Sardorus (County)</li>
+				<ul>
+					<li>18-20</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>16-7</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1927-28: Coach Jack E. Snyder (5-9)</h3>
+	<img src="/images/athletics/1928boys.jpg">		
+		<ul>
+			<li>Villa Grove</li>
+				<ul>
+					<li>19-16</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>13-23</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>26-15</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>6-18</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>14-21</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>26-17</li>
+				</ul>
+				<p>
+			<li>Sardorus</li>
+				<ul>
+					<li>12-20</li>
+				</ul>
+				<p>
+			<li>Sardorus</li>
+				<ul>
+					<li>11-29</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>14-25</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>28-17</li>
+				</ul>
+				<p>
+			<li>Sardorus</li>
+				<ul>
+					<li>14-35</li>
+				</ul>
+				<p>
+			<li>St. Joe (County)</li>
+				<ul>
+					<li>26-21</li>
+				</ul>
+				<p>
+			<li>Tolono (County)</li>
+				<ul>
+					<li>15-39</li>
+				</ul>
+				<p>
+			<li>Monticello (County)</li>
+				<ul>
+					<li>17-26</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1928-29: Coach Cameron W. Parks (3-11)</h3>
+	<img src="/images/athletics/1929boys.jpg">		
+		<ul>
+			<li>Penfield</li>
+				<ul>
+					<li>11-23</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>14-28</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>11-23</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>14-24</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>11-21</li>
+				</ul>
+				<p>
+			<li>Mahomet</li>
+				<ul>
+					<li>15-18</li>
+				</ul>
+				<p>
+			<li>Mahomet</li>
+				<ul>
+					<li>12-14</li>
+				</ul>
+				<p>
+			<li>Farmer City</li>
+				<ul>
+					<li>18-13</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>15-29</li>
+				</ul>
+				<p>
+			<li>Farmer City</li>
+				<ul>
+					<li>9-23</li>
+				</ul>
+				<p>
+			<li>Atwood</li>
+				<ul>
+					<li>4-23</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>9-7</li>
+				</ul>
+				<p>
+			<li>Ogden</li>
+				<ul>
+					<li>12-25</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1929-30: Coach Clifford Horton (2-12)</h3>
+	<img src="/images/athletics/1930boys.jpg">		
+		<ul>
+			<li>Foosland</li>
+				<ul>
+					<li>19-15</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>13-25</li>
+				</ul>
+				<p>
+			<li>Penfield</li>
+				<ul>
+					<li>3-49</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>8-9</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>13-27</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>13-28</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>11-28</li>
+				</ul>
+				<p>
+			<li>Foosland</li>
+				<ul>
+					<li>17-14</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>14-33</li>
+				</ul>
+				<p>
+			<li>Mahomet</li>
+				<ul>
+					<li>12-28</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>9-27</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>11-18</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>9-27</li>
+				</ul>
+				<p>
+			<li>Champaign</li>
+				<ul>
+					<li>6-51</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1930-31: Coach Winfield S. Angus (4-9)</h3>
+	<img src="/images/athletics/1931boys.jpg">		
+		<ul>
+			<li>Foosland</li>
+				<ul>
+					<li>21-14</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>21-34</li>
+				</ul>
+				<p>
+			<li>Alumni</li>
+				<ul>
+					<li>14-20</li>
+				</ul>
+				<p>
+			<li>Rantoul</li>
+				<ul>
+					<li>12-36</li>
+				</ul>
+				<p>
+			<li>Mahomet</li>
+				<ul>
+					<li>14-21</li>
+				</ul>
+				<p>
+			<li>Penfield</li>
+				<ul>
+					<li>Won</li>
+				</ul>
+				<p>
+			<li>Foosland</li>
+				<ul>
+					<li>14-12</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>9-37</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>5-31</li>
+				</ul>
+				<p>
+			<li>Penfield</li>
+				<ul>
+					<li>19-18</li>
+				</ul>
+				<p>
+			<li>Longview</li>
+				<ul>
+					<li>3-33</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>8-25</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1931-32: Coach Winfield S. Angus (3-11)</h3>
+	<img src="/images/athletics/1932boys.jpg">		
+		<ul>
+			<li>Mahomet</li>
+				<ul>
+					<li>8-45</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>11-22</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>8-33<</li>
+				</ul>
+				<p>
+			<li>Foosland</li>
+				<ul>
+					<li>25-17</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>4-22</li>
+				</ul>
+				<p>
+			<li>Ogden</li>
+				<ul>
+					<li>7-31</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>8-24</li>
+				</ul>
+				<p>
+			<li>Penfield</li>
+				<ul>
+					<li>38-9</li>
+				</ul>
+				<p>
+			<li>Ogden</li>
+				<ul>
+					<li>13-28</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>13-30</li>
+				</ul>
+				<p>
+			<li>Mahomet</li>
+				<ul>
+					<li>6-15</li>
+				</ul>
+				<p>
+			<li>Pesotum</li>
+				<ul>
+					<li>16-13</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>15-25</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>7-18</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1932-33: Coach Bob Horsley (3-16)</h3>
+	<img src="/images/athletics/1933boys.jpg">		
+		<ul>
+			<li>Philo</li>
+				<ul>
+					<li>16-21</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>Lost</li>
+				</ul>
+				<p>
+			<li>Ogden</li>
+				<ul>
+					<li>18-16</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>12-22</li>
+				</ul>
+				<p>
+			<li>Philo</li>
+				<ul>
+					<li>14-16</li>
+				</ul>
+				<p>
+			<li>Longview</li>
+				<ul>
+					<li>14-40</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>10-21</li>
+				</ul>
+				<p>
+			<li>Ogden</li>
+				<ul>
+					<li>Lost</li>
+				</ul>
+				<p>
+			<li>Mahomet</li>
+				<ul>
+					<li>15-30<</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>19-23</li>
+				</ul>
+				<p>
+			<li>Tolono</li>
+				<ul>
+					<li>10-31</li>
+				</ul>
+				<p>
+			<li>Longview</li>
+				<ul>
+					<li>Lost</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>17-37</li>
+				</ul>
+				<p>
+			<li>Foosland</li>
+				<ul>
+					<li>49-14</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>8-17</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>18-23</li>
+				</ul>
+				<p>
+			<li>Philo</li>
+				<ul>
+					<li>17-16</li>
+				</ul>
+				<p>
+			<li>Philo</li>
+				<ul>
+					<li>25-24</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>13-18</li>
+				</ul>
+				<p>
+		</ul>
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

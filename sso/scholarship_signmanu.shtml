@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">SIMANU SCHOLARSHIP/div>
+<div id="image"><img src="/images/athletics/#.jpg"></img></div>
+				<div id="section-content">
+				
+<h1>Sigma Nu Fraternity at the University of Illinois Urbana-Champaign presents the
+Pursuit of Excellence Scholarship 2017.</h1>
+<strong>DUE: June 1, 2017</strong>
+
+<strong>Eligibility:</strong><br>
+<ul><li>Any senior year male high school student who will be enrolling into the University of Illinois Urbana-Champaign as a Freshman in Fall 2017.
+<li>Student must have achieved 3.0 GPA or higher.</ul>
+ 
+<strong>Amount of Scholarship:  $2,500</strong><br>
+The Sigma Nu Pursuit of Excellence Scholarship consists of a one-time direct payment to one University of Illinois freshman male student of $2,500.<p>
+ 
+<strong>Basis of Selection:</strong><br>
+The Pursuits of Excellent Scholar should be intellectually, morally and physically capable of leadership in any field.  Sigma Nu considers many factors in the selection of the applicant.  The applicant should demonstrate character, intellect and good humor to receive this honor. <p>
+ 
+For more detailed information please reference the official flyer, which is attached.<p>
+ 
+<strong>Application Deadline:  June 1, 2017</strong><br>
+Applying for Pursuit of Excellence Scholarship in no way obligates the applicant to join the Sigma Nu Fraternity.<p>
+ 
+If you are interested in applying for this scholarship, please complete and submit the Pursuit of Excellence Online Application at <a href="http://www.SigmaNuIllinois.com"> www.SigmaNuIllinois.com (click on Scholarship)</a>.<p>
+ 
+Please direct any questions, concerns, or difficulties to Dylan Subrin Pursuit of Excellence Scholarship Chairman, with “P.O.E. Question” in the subject line:  POE@SigmaNuIllinois.com<p>
+ 
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="ssoSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

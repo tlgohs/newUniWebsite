@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">BOYS BASKETBALL (STEALS)</div>
+				<div id="image"><img src="/images/athletics/girls_track_record.jpg"></img></div>
+				<div id="section-content">
+				
+<table class="formatted" width="100%"><tbody>
+<tr class="header"><td width="300"><strong><u>Career Steals</u></strong></td>
+<td width="150">&nbsp;</td><td width="300">&nbsp;</td></tr>
+<tr class="even"><td>Henry Pollock</td><td>303</td><td>2002-2005</td></tr>
+<tr class="odd"><td>Alex Renner</td><td>301</td><td>2003-2006</td></tr>
+<tr class="even"><td>Michael Renner</td><td>229</td><td>2005-2008</td></tr>
+<tr class="odd"><td>Matt Sutton</td><td>207</td><td>2001-2003</td></tr>
+<tr class="even"><td>Dan Lilly</td><td>195</td><td>2007-2010</td></tr>
+<tr class="odd"><td>Sammy Sohn</td><td>183</td><td>1997-1999</td></tr>
+<tr class="even"><td>Devin Kinney</td><td>114</td><td>2001-2002</td></tr>
+<tr class="odd"><td>Tyson Masar</td><td>109</td><td>1998-2000</td></tr>
+<tr class="even"><td>Austin Berger</td><td>107</td><td>2003-2006</td></tr>
+<tr class="odd"><td>Chumar Williams</td><td>100</td><td>2006-2008</td></tr>
+<tr><td></td></tr>
+
+<tr><td></td></tr>
+</tbody></table><hr/>
+<table class="formatted" width="100%"><tbody>
+<tr class="header"><td width="300"><strong><u>Season Steals</u></strong></td>
+<td width="150">&nbsp;</td><td width="300">&nbsp;</td></tr>
+<tr class="even"><td>Henry Pollock</td><td>113</td><td>2004</td></tr>
+<tr class="odd"><td>Alex Renner</td><td>113</td><td>2006</td></tr>
+<tr class="even"><td>Henry Pollock</td><td>103</td><td>2005</td></tr>
+<tr class="odd"><td>Dan Lilly</td><td>92</td><td>2010</td></tr>
+<tr class="even"><td>Matthew Sutton</td><td>88</td><td>2003</td></tr>
+<tr class="odd"><td>Alex Renner</td><td>85</td><td>2005</td></tr>
+<tr class="even"><td>Sammy Sohn</td><td>77</td><td>1999</td></tr>
+<tr class="odd"><td>Alex Renner</td><td>77</td><td>2004</td></tr>
+<tr class="even"><td>Dan Lilly</td><td>76</td><td>2009</td></tr>
+<tr class="odd"><td>Samy Sohn</td><td>76</td><td>1998</td></tr></tbody>
+</table>
+
+
+
+
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

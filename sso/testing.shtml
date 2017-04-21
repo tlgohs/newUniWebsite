@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">STANDARDIZED TESTING</div>
+<div id="image"><img src="/images/athletics/#"></img></div>
+				<div id="section-content">
+				
+<p><p><strong>Types Standardized Tests</strong></p>
+<ul>
+	<li><a href="http://www.collegeboard.com/student/testing/ap/about.html">AP Testing</a></li>
+	<li><a href="http://www.collegeboard.com/student/testing/sat/calenfees.html">SAT (I &amp; II) Testing</a></li>
+	<li><a href="http://www.actstudent.org/regist/currentdates.html">ACT Testing</a></li>
+</ul>
+<hr>
+<p><strong>Testing Resources and Description</strong></p>
+<ul>
+	<li>ACT, Inc: Managed by the ACT test makers, this site allows you to practice and register for the ACT test.</li>
+	<li>College Board: Managed by the makers of the SAT, this site allows you to practice and register for the SAT I &amp; II tests. You can also fill out a CSS/Profile online and submit it for financial aid.</li>
+	<li>Kaplan Educational Centers: The web site contains links to Kaplan's courses. Course subjects include the SAT I &amp; II and the ACT.</li>
+	<li>The Princeton Review: The web site contains free online courses for the ACT and SAT. You can also research colleges here; the web site has a nifty college search tool (called the Counselor-o-matic) that takes your needs and wants and sorts a list of colleges into safety, target, and reach schools. This web site is PCC recommended!</li>
+</ul>
+</p>
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">BOYS BASKETBALL (FREE THROWS)</div>
+<div id="image"><img src="/images/athletics/girls_track_record.jpg"></img></div>
+				<div id="section-content">
+				
+<table class="formatted" width="100%"><tbody><tr class="header"><td width="300"><strong><u>Career Free Throw Percentage</u></strong></td><td width="150">&nbsp;</td><td width="300">&nbsp;</td></tr>
+<tr class="even"><td>Derek Flynn</td><td>83.3%</td><td>45-54</td><td>1990-1991</td></tr>
+<tr class="odd"><td>Dan Lilly</td><td>81.6%</td><td>230-282</td><td>2007-2010</td></tr>
+<tr class="even"><td>Sammy Sohn</td><td>77.7%</td><td>160-206</td><td>1997-1999</td></tr>
+<tr class="odd"><td>Tommy Craggs</td><td>75.9%</td><td>101-133</td><td>1995-1997</td></tr>
+<tr class="even"><td>Doug Jolly</td><td>75.6%</td><td>65-86</td><td>1988-1989</td></tr>
+<tr class="odd"><td>Jason Rogers</td><td>74.5%</td><td>184-247</td><td>1991-1993</td></tr>
+<tr class="even"><td>Tyson Masar</td><td>70.1%</td><td>115-164</td><td>1998-2000</td></tr>
+<tr class="odd"><td>Bill Eisenstein </td><td>67.9%</td><td>114-168</td><td>1989-1990</td></tr>
+<tr class="even"><td>Derek Flynn</td><td>83.3%</td><td>45-54</td><td>1990-1991</td></tr>
+</tbody></table><p>
+<table class="formatted" width="100%"><tbody><tr class="header"><td width="300"><strong><u>Season Free Throw Percentage</u></strong></td><td width="150">&nbsp;</td><td width="300">&nbsp;</td></tr>
+<tr class="even"><td>Jeff Kang</td><td>85%</td><td>45-53</td><td>1997</td></tr>
+<tr class="odd"><td>Tommy Craggs</td><td>83%</td><td>57-69</td><td>1997</td></tr>
+<tr class="even"><td>Dan Lilly</td><td>82%</td><td>105-128</td><td>2010</td></tr>
+<tr class="odd"><td>Sammy Sohn</td><td>82%</td><td>75-92</td><td>1999</td></tr>
+<tr class="odd"><td>Paul D'Angelo</td><td>82%</td><td>74-90</td><td>2017</td></tr>
+<tr class="even"><td>Dan Lilly</td><td>81%</td><td>92-113</td><td>2009</td></tr>
+<tr class="odd"><td>Tim Kauffman</td><td>81%</td><td>60-74</td><td>1988</td></tr>
+<tr class="even"><td>Dan Lilly</td><td>80%</td><td>16-20</td><td>2008</td></tr>
+<tr class="odd"><td>Jesse Dixon</td><td>80%</td><td>     </td><td>1966</td></tr>
+<tr class="even"><td>Sammy Sohn</td><td>78%</td><td>35-45</td><td>1997</td></tr>
+<tr class="odd"><td>Noah Blue</td><td>77%</td><td>84-109</td><td>2017</td></tr>
+<tr class="odd"><td>Matt Cho</td><td>77%</td><td>55-71</td><td>1997</td></tr>
+</tbody></table><p>
+<table class="formatted" width="100%"><tbody><tr class="header"><td width="300"><strong><u>Career Free Throws Made</u></strong></td><td width="150">&nbsp;</td><td width="300">&nbsp;</td></tr>
+<tr class="even"><td>Alex Renner</td><td>266</td><td>2003-2006</td></tr>
+<tr class="odd"><td>Dan Lilly</td><td>230</td><td>2007-2010</td></tr>
+<tr class="even"><td>Jason Rogers</td><td>184</td><td>1991-1993</td></tr>
+<tr class="odd"><td>Austin Berger</td><td>170</td><td>2003-2006</td></tr>
+<tr class="even"><td>John Flynn</td><td>164</td><td>1999-2002</td></tr>
+<tr class="even"><td>Noah Blue</td><td>164</td><td>2016-2017</td></tr>
+<tr class="odd"><td>Sammy Sohn</td><td>160</td><td>1997-1999</td></tr>
+<tr class="even"><td>Michael Renner</td><td>153</td><td>2005-2008</td></tr>
+<tr class="odd"><td>Henry Pollock</td><td>150</td><td>2002-2005</td></tr>
+<tr class="even"><td>Ben Sims</td><td>142</td><td>2003-2006</td></tr>
+<tr class="odd"><td>Matthew Sutton</td><td>136</td><td>2001-2003</td></tr>
+
+
+</tbody></table>
+
+
+
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

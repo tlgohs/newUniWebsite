@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">BOYS BASKETBALL RECORDS (REBOUNDS)</div>
+
+				<div id="section-content">
+				
+<table class="formatted" width="100%"><tbody>
+<tr class="header"><td width="300"><strong><u>Career Rebounds</u></strong></td>
+<td width="150">&nbsp;</td><td width="300">&nbsp;</td></tr>
+<tr class="even"><td>Brendan DeTemple</td><td>643</td><td>1989-1991</td></tr>
+<tr class="odd"><td>Alex Renner</td><td>589</td><td>2003-2006</td></tr>
+<tr class="even"><td>John Flynn</td><td>565</td><td>1999-2002</td></tr>
+<tr class="odd"><td>Tim Monahan</td><td>530</td><td>1992-1995</td></tr>
+<tr class="even"><td>Michael Renner</td><td>490</td><td>2005-2008</td></tr>
+<tr class="odd"><td>Joel Jacobson</td><td>471</td><td>1991-1993</td></tr>
+<tr class="even"><td>Phil Rowell</td><td>459</td><td>1998-2000</td></tr>
+<tr class="odd"><td>Austin Berger</td><td>423</td><td>2003-2006</td></tr>
+<tr class="even"><td>Warren Skoza</td><td>422</td><td>2009-2011</td></tr>
+<tr class="odd"><td>Bill Eisenstein</td><td>390</td><td>1988-1990</td></tr>
+<tr><td></td></tr>
+
+<tr><td></td></tr>
+</tbody></table><hr/>
+<table class="formatted" width="100%"><tbody>
+<tr class="header"><td width="300"><strong><u>Season Rebounds</u></strong></td>
+<td width="150">&nbsp;</td><td width="300">&nbsp;</td></tr>
+<tr class="even"><td>Brendan DeTemple</td><td>331</td><td>1991</td></tr>
+<tr class="odd"><td>Joel Jacobson</td><td>281</td><td>1993</td></tr>
+<tr class="even"><td>John Flynn</td><td>267</td><td>2002</td></tr>
+<tr class="odd"><td>Tim Monahan</td><td>253</td><td>1995</td></tr>
+<tr class="even"><td>Bill Eisenstein</td><td>233</td><td>1989</td></tr>
+<tr class="odd"><td>John Flynn</td><td>218</td><td>2001</td></tr>
+<tr class="even"><td>Brendan DeTemple</td><td>216</td><td>1990</td></tr>
+<tr class="odd"><td>Phil Rowell</td><td>204</td><td>2000</td></tr>
+<tr class="odd"><td>Noah Blue</td><td>200</td><td>2016</td></tr>
+<tr class="even"><td>Eric Berg</td><td>183</td><td>1994</td></tr>
+<tr class="odd"><td>Tim Kauffman</td><td>183</td><td>1988</td></tr></tbody>
+</table>
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

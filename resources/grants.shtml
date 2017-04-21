@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">UNI HIGH GRANTS</div>
+
+				<div id="section-content">
+				
+<p>A variety of scholarships are available for University High School students and staff annually. Below is a list of scholarships which the Uni community have the chance to apply:</p>
+<hr>
+
+<h2>Makino Awards</h2>
+<p>The Makino Foundation Award for Enhancing Student Life was established in 1996 by Shigeki Makino, a 1983 graduate of University High School, to recognize and encourage exceptional effort in enhancing the qualify of student life at University High School.  It is the hope of the Makino Foundation that the award will help the school support its high quality teachers, counselors, and coaches in their efforts to provide extracurricular programming that significantly broadens the educational experience of University Laboratory High School.</p>
+
+<p>Guidelines: Subject to the approval of the appropriate University officials, the Fund Assets shall be used to provide an "Award for Expanding Student Activities" (hereinafter called the "Award") that will be given in the form of supplemental budgetary support and awarded on the basis of a competitive application. All students, faculty, counselors, and coaches are eligible to apply for one award each year. Applications are to be made for special programs or projects that reflect the interests of the student body. These special programs or projects should fall under the umbrella of one of the following:</p> 
+<p>1.	 Enhancement of a current student activity that will significantly improve it in breadth, quality, or will support in a larger endeavor.</p>
+<p>2.	The foundation or establishment of a new student activity. Award monies can be spent at the discretion of the recipient for program materials, activity costs, speakers, or travel expenses. No money will be given directly to the award recipient in the form of salary or wages. </p>
+<p>Awards will be made by a review panel composed of members of the Student Faculty Advisory Committee, as well as outside subject experts to be called upon as needed. Committee members may apply during the year that they serve, but they must be excluded from discussions and votes pertaining to their proposals. After award monies have been expended, awardees will be asked to report progress on their projects based on the timeline submitted with their application. A final progress report will be due by the last day of classes for the year for which the award was made. In all applications of Fund Assets, the Makino Foundation Award for Expanding Student Activities shall be appropriately recognized and publicized as the source of the funding.</p>
+
+<ul>
+<li><a href="scholarship/MAKINO AWARD_Enhancing Student Life.doc">Makino Award for Enhancing Student Life</a></li>
+<li><a href="scholarship/Makino_Award_Expanding_Student_Activities.doc">Makino Award for Expanding Student Activities</a></li>
+<li><a href="scholarship/Makino_Award_Teaching_Excellence.doc">Makino Award for Teaching Excellence</a></li></ul> 
+
+    <hr> 
+    <h2>Eleanor Stoddard Endowed Fund</h2>
+
+<p>Ellie Stoddard Seibold (1950 Graduate of University Laboratory High School) established the Eleanor Stoddard
+Faculty Endowed Fund in 2001. The Stoddard Faculty Support Fund honors Ellie’s parents, the late Margaret
+“Maggie” Trautwein Stoddard and the late George Dinsmore Stoddard, who was the tenth president of the
+University of Illinois, serving from 1946-1953. Before coming to Illinois, President Stoddard was a professor
+of psychology and education and dean of the graduate school at the University of Iowa and from 1942-1946,
+commissioner of education and president of the University of the State of New York. After leaving Illinois, he
+spent 12 years at New York University as dean of education, executive vice president and chancellor, and
+finally as distinguished professor of education. Later, he became chancellor of Long Island University in New
+York.</p>
+
+<p><a href="scholarship/2017_Eleanor_Stoddard_Endowed_Fund.pdf">Eleanor Stoddard Endowed Fund Application</a></p>
+  <hr>
+<h2>McNevin Scholarship</h2>
+<p>John McNevin (Class of 1930) established an endowed fund for University of Illinois Laboratory High School (Uni) through his estate plans.  The fund is identified as the McNevin Scholarship.
+The McNevin Scholarship provides financial assistance to students to further their education. 
+Students may apply for assistance toward expenses related to studying abroad, student fees related to Advanced Placement exams, ACT prep courses, camps for academic, fine arts or athletic development, etc.  
+While financial need is a major consideration in the awarding of the McNevin Scholarship, all current Uni students are eligible for this support.</p>
+
+<a href = "scholarship/2017_Eleanor_Stoddard_Endowed_Fund.pdf">All funds for the 2016-2017 school year have been allocated.</a> 
+<hr>
+<h2>Boren Scholarship</h2>
+<p>The Merle H. and Virginia Downs Boren Uni High Student Support Fund is an endowed fund established in 2000 as a result of their estate plans.  Virginia Downs Boren was a member of the Uni Class of 1931.  Distribution of the monies is in the form of a scholarship, the Boren Scholarship.
+The Boren Scholarship provides financial assistance to students to further their education. The scholarship is to be awarded to a student based upon availability of funds, number of applicants, and program merits. Financial need is a consideration in the awarding of the Boren Scholarship. Students of parents who are currently employed by the University of Illinois or retired from the University of Illinois should first apply to the McNevin fund.
+Students may apply for assistance toward expenses related to studying abroad, student fees related to Advanced Placement exams, ACT prep courses, camps for academic, fine arts or athletic development, etc. </p>                        
+<a href = "">All funds for the 2016-2017 school year have been allocated.  No additional monies are available.</a> 
+<hr>
+<h2>Barbara Lazarus Memorial Fund</h2>
+<p>The University of Illinois Laboratory High School graduating classes of 1961, 1962 and 1963 have established The Barbara Lazarus ’63 Memorial Fund to encourage, facilitate and support the study by girls at the s
+econdary school level of science, technology, engineering and math (STEM). The goal of those who have initiated the fund, is that the school will use the fund for scholarships, stipends, programs, and research 
+projects or grants that will meet the fund’s goals.  $3,300.00 to $5,000.00 per year for an estimated 10 years (this is a “spend down” fund, but additional donations may add to fund availability.)</p>
+<a href="scholarship/Barbara Lazarus Memorial Fund.pdf">Barbara Lazarus Memorial Fund Application</a>
+
+<hr>
+<h2>The Illinois Odd Fellow-Rebekah Scholarship Program</h2>
+<p>How to Apply:  Students from throughout the State of Illinois who wish to attend and post-secondary school OR an accredited vocational or technical training school and who have maintained at least a “C” grade average may make application for a scholarship through the Grand Lodge Office in Lincoln, IL.
+Applications are available at <a href="http://www.ioof-il.org"> www.ioof-il.org</a>  or pick up an application in the SSO.
+Applications must be completed and returned to the Grand Lodge Office NO LATER THAN MARCH 1st of each year.  Applications received after MARCH 1st will be disqualified.
+<br> Requirements:
+<br>Citizen of the United States or provide proof of Naturalization
+<br>Be a resident of IL
+<br>Provide proof of financial need by submitting a current copy of IRS 1040 or proof of electronic filing.
+<br>Maintain at least a “C” grade average
+<br>Complete the application
+<br> 
+<br>Return application by March 1st to the following address:
+<br>Scholarship Committee
+<br>Grand Lodge of Illinois
+<br>Independent Order of Odd Fellows
+<br>P.O. Box 248
+<br>Lincoln, IL 62656-0248</p>
+
+<hr>
+<h2>Illinois PTA Scholarship</h2>
+<p>Are you interested in majoring in education or an education related degree program?  This may include but not limited to careers such as: Teachers, Librarians, Instructional Media Specialists, School Nurses, School Psychologists, or Social Workers.
+Illinois PTA Scholarship provides scholarship funds to 2 graduating high school seniors.  Students must reside in and be attending Illinois public high schools. The application can be found at <a href="http://illinoispta.org/scholarshipapplication.html"> http://illinoispta.org/scholarshipapplication.html</a> Deadline to apply is February 15, 2017.</p> 
+<br>Requirements:
+<br>1. High School senior graduating from Illinois public school.
+<br>2. Grade Point Average of 3.0 or above on a non-weighted 4.0 scale.
+<br>3. Enrolling in a college or university in education or education related degree program.
+<br>
+<br>Scholarship Awards are:
+<br>$3,000 to the 1st place student for education related expenses; and
+<br>$2,000 to the 2nd place student for education related expenses
+<br> <a href="http://illinoispta.org/scholarshipapplication.html"> Illinois PTA Scholarship</a>
+
+<hr>
+<h2>Eastern Illini Electric Cooperative</h2>
+<p>Attention Seniors! In 2016, Eastern Illini Electric Cooperative will award $1,000 scholarships to two high school seniors whose parents are members (receive electric service) of Eastern Illini.
+In addition to the scholarship, the two winners will each receive a week long all-expenses-paid trip to Washington, D.C., in June 2016, where they will join other high school students for the National Rural Electric Cooperative Association Youth Tour and visit our nation’s capital. Visit the Illinois Youth to Washington Tour Facebook page for more information.
+The application deadline is Sunday, January 31, 2016.
+For more information call (800) 824-5102, extension 131.
+<a href="visit.www.eiec.org/community/scholarships"?> Eastern Illini Electric Cooperative</a>
+
+<hr>
+<h2>Martin Luther King Scholarship</h2>
+To honor the memory of Dr. Martin Luther King, Jr. by providing scholarship assistance to high school seniors bound for higher education who demonstrate by word and deed commitment to Dr. King’s dream for America.
+Applicants must be high school seniors in Champaign---Urbana who will graduate during the current school year. Students must show financial need for this scholarship, based upon the same certification used by public schools for free or reduced---price cafeteria meals, which also is the system used in determining eligibility for state and federal financial aid programs.
+Application deadline is December 1. Application requires your school counselor complete a portion of the application. Please notify your counselor of your intent to apply for scholarship no later than November 24.
+<br> 
+<br> Award Criteria:
+<br> 1. Academic excellence.
+<br> 2. The quality of an essay of how the applicant’s educational and career goals are consistent with Dr. King’s dream.
+<br> 3. Demonstrated commitment to Dr. King’s dream.
+<br> 4. Demonstrated positive influence on others.
+<br> 
+<br> 1. The amount of the award will be $1,000 for 4 years, based upon satisfactory academic performance.
+<br> 2. If an award winner cannot accept the award, it will go to the next qualified candidate in order of merit.
+<br> 3. The candidate will be notified by mail of any award and the methods and terms of payment.
+<br> 4. Recipients of the  award will be recognized at the annual Dr. Martin Luther King celebration in January.
+
+<hr>
+<h2>Ang Current Use Fund</h2>
+The Ang Current Use Fund is being used for any appropriate faculty professional development, such as attending or presenting at conferences.  The fund will have approximately $6500 total in it each year.  Applications are evaluated by the Administrative Team.<br>
+
+<a href="Fund Applications.pdf">Ang Current Use Fund Application</a><p><hr>
+
+<h2>Uni Endowment Fund</h2>
+The Uni Endowment Fund is being used for any appropriate “special projects designed to enrich the teaching programs and enhance the quality of instruction at the University High School.”  The fund will have approximately $4000 total in it each year.  In addition to special projects, professional memberships will be appropriate for this fund.  Applications are evaluated by the Administrative Team, which consults with PFO leadership.<br>
+
+<a href="Fund Applications.pdf">Uni Endowment Fund Application</a><p><hr>
+
+<h2>Innovations in Learning
+</h2>
+The portion of the Innovations in Learning fund that supports professional development is designated for projects and professional development tied to active learning and to technology.   Variable amounts according to the quality and quantity of applications will be available each year. Applications are evaluated by the Administrative Team.<br>
+
+<a href="Fund Applications.pdf">Innovations in Learning Application</a><p><hr>
+
+
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

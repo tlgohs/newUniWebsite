@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">BOYS SOCCER (GOALS)</div>
+				<div id="image"><img src="/images/athletics/pollock pass.jpg"></img></div>
+				<div id="section-content">
+				
+
+
+
+
+
+   <table width="100%" class="formatted">
+<tr class="header">
+<td><strong>Goals</strong></td>
+<td><strong>Record Holder</strong></td>
+<td><strong>Year</strong></td>
+</tr>
+<tr class="even">
+<td>36</td>
+<td>Al Renner</td>
+<td>2005</td>
+</tr>
+<tr class="odd">
+<td>32</td>
+<td>Patrick Wong</td>
+<td>2010</td>
+</tr>
+<tr class="even">
+<td>32</td>
+<td>Tyson Masar</td>
+<td>1999</td>
+</tr>
+<tr class="odd">
+<td>31</td>
+<td>Dan Lilly</td>
+<td>2009
+<td>
+        </td></td></tr>
+<tr class="even">
+<td>30</td>
+<td>Dan Lilly</td>
+<td>2008</td>
+</tr>
+<tr class="odd">
+<td>30</td>
+<td>Michael Belmont</td>
+<td>2006</td>
+</tr>
+<tr class="odd">
+<td>29</td>
+<td>Rahi Miraftab-Salo</td>
+<td>2016</td>
+</tr>
+<tr class="odd">
+<td>28</td>
+<td>Panos Voulgaris</td>
+<td>2015</td>
+</tr>
+<tr class="odd">
+<td>27</td>
+<td>Patrick Wong</td>
+<td>2012</td>
+</tr>
+<tr class="even">
+<td>26</td>
+<td>Patrick Wong</td>
+<td>2011</td>
+</tr>
+<tr class="odd">
+<td>25</td>
+<td>Tarik Koric</td>
+<td>2011</td>
+</tr>
+<tr class="even">
+<td>24</td>
+<td>Al Renner</td>
+<td>2004</td>
+</tr>
+
+
+</table>
+<p>
+<table width="100%" class="formatted">
+<tr class="header">
+<td><strong>Goals</strong></td>
+<td><strong>Record Holder</strong></td>
+<td><strong>Year</strong></td>
+</tr>
+<tr class="even">
+<td>99</td>
+<td>Patrick Wong</td>
+<td>2009-2012</td>
+</tr>
+</tr>
+<tr class="odd">
+<td>73</td>
+<td>Dan Lilly</td>
+<td>2006-2009<br />
+<td/>
+<tr class="odd">
+<td>62</td>
+<td>Tyson Masar</td>
+<td>1997-00</td>
+</tr>
+<tr class="even">
+<td>60</td>
+<td>Tarik Koric</td>
+<td>2009-2012</td>
+<tr class="even">
+<td>60</td>
+<td>Alex Renner</td>
+<td>2004-2005</td>
+</tr>
+<tr class="odd">
+<td>54</td>
+<td>Michael Belmont</td>
+<td>2003-2007</td>
+</tr>
+<tr class="even">
+<td>52</td>
+<td>Joe Ciolli</td>
+<td>1998-01</td>
+</tr>
+<tr class="odd">
+<td>47</td>
+<td>Jeff Thorn</td>
+<td>1991-93</td>
+</tr>
+<tr class="even">
+<td>44</td>
+<td>George Voulgaris</td>
+<td>2010-2012</td>
+<tr class="odd">
+<td>37</td>
+<td>Steve Thorn</td>
+<td>1989, 91-92</td>
+</tr>
+<tr class="even">
+<td>35</td>
+<td>Henry Pollock</td>
+<td>2002-04</td>
+</tr>
+<tr class="odd">
+<td>33</td>
+<td>Justin Park</td>
+<td>2003-2005</td>
+</tr>
+<tr class="even">
+<td>32</td>
+<td>PaulSeeley</td>
+<td>2009-2012</td>
+</tr>
+<tr class="even">
+<td>31</td>
+<td>Jacob Seeley</td>
+<td>2004-2008</td>
+</tr>
+
+<tr class="odd">
+<td>25</td>
+<td>Avi Porton</td>
+<td>1987-90</td>
+</tr>
+</tr>
+<tr class="odd">
+<td>24</td>
+<td>Mark Paci</td>
+<td>1986-87</td>
+</tr>
+<tr class="even">
+<td>23</td>
+<td>Jeff Kang</td>
+<td>1994-96</td>
+</tr>
+<tr class="odd">
+<td>22</td>
+<td>Dave Borgeson</td>
+<td>1989-91</td>
+</tr>
+<tr class="even">
+<td>22</td>
+<td>Martin Granick</td>
+<td>2004-2007</td>
+</tr>
+<tr class="odd">
+<td>20</td>
+<td>Ryan Hedgepeth</td>
+<td>1986-88</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>Andy Seth</td>
+<td>2002-03</td>
+</tr>
+</tr></td/></td></tr></table><p>
+<table width="100%" class="formatted">
+<tr class="header">
+<td><strong>Assists</strong></td>
+<td><strong>Record Holder</strong></td>
+<td><strong>Year</strong></td>
+</tr>
+<tr class="even">
+<td>7</td>
+<td>Dan Lilly</td>
+<td>Aug 2009 vs. St. Joseph</td>
+<tr class="odd">
+<td>7</td>
+<td>Tyson Masar</td>
+<td>Sep 1999 vs. Lovington</td>
+</tr></tr></table>
+</div>
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

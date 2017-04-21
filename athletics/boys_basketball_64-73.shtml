@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">GIRLS BASKETBALL RESULTS</div>
+
+				<div id="section-content">
+			
+			<h1>1964-73 Results</h1>
+	<h3>1963-64: Coach Mike Berger (7-15)</h3>	
+	<img src="/images/athletics/1964boys.jpg">		
+		<ul>
+			<li>Brocton</li>
+				<ul>
+					<li>69-79</li>
+				</ul>
+				<p>
+			<li>Armstrong</li>
+				<ul>
+					<li>52-46</li>
+				</ul>
+				<p>
+			<li>Henning</li>
+				<ul>
+					<li>56-58 (OT)</li>
+				</ul>
+				<p>
+			<li>Bismarck</li>
+				<ul>
+					<li>50-70</li>
+				</ul>
+				<p>
+			<li>Jamaica</li>
+				<ul>
+					<li>65-85</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>57-54</li>
+				</ul>
+				<p>
+			<li>East Lynn</li>
+				<ul>
+					<li>51-63</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>52-53 (OT)</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>43-57</li>
+				</ul>
+				<p>
+			<li>Wellington</li>
+				<ul>
+					<li>52-60</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>79-63</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>60-73</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>43-57</li>
+				</ul>
+				<p>
+			<li>Young America</li>
+				<ul>
+					<li>74-56</li>
+				</ul>
+				<p>
+			<li>Henning</li>
+				<ul>
+					<li>58-38</li>
+				</ul>
+				<p>
+			<li>Buckley Loda</li>
+				<ul>
+					<li>64-65</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>64-66</li>
+				</ul>
+				<p>
+			<li>Mahomet-Seymour</li>
+				<ul>
+					<li>69-67</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>63-49</li>
+				</ul>
+				<p>
+			<li>St. Joe-Ogden</li>
+				<ul>
+					<li>54-74</li>
+				</ul>
+				<p>
+			<li>ABL</li>
+				<ul>
+					<li>57-66</li>
+				</ul>
+				<p>
+			<li>Champaign</li>
+				<ul>
+					<li>40-57</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1964-65: Coach Mike Berger (7-14)</h3>
+	<img src="/images/athletics/1965boys.jpg">		
+		<ul>
+			<li>Brocton-Redmon</li>
+				<ul>
+					<li>54-51</li>
+				</ul>
+				<p>
+			<li>Armstrong</li>
+				<ul>
+					<li>67-82</li>
+				</ul>
+				<p>
+			<li>Potomac</li>
+				<ul>
+					<li>58-72</li>
+				</ul>
+				<p>
+			<li>Bismarck</li>
+				<ul>
+					<li>74-49</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>58-56</li>
+				</ul>
+				<p>
+			<li>East Lynn</li>
+				<ul>
+					<li>45-62</li>
+				</ul>
+				<p>
+			<li>Jamaica</li>
+				<ul>
+					<li>37-52</li>
+				</ul>
+				<p>
+			<li>Mt. Zion</li>
+				<ul>
+					<li>62-75</li>
+				</ul>
+				<p>
+			<li>Lovington</li>
+				<ul>
+					<li>52-54</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>81-64</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>43-51</li>
+				</ul>
+				<p>
+			<li>Wellington</li>
+				<ul>
+					<li>61-73</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>79-59</li>
+				</ul>
+				<p>
+			<li>Young America</li>
+				<ul>
+					<li>73-97</li>
+				</ul>
+				<p>
+			<li>Buckley-Loda</li>
+				<ul>
+					<li>58-72</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>85-48</li>
+				</ul>
+				<p>
+			<li>Mahomet-Seymour</li>
+				<ul>
+					<li>47-80</li>
+				</ul>
+				<p>
+			<li>Unity</li>
+				<ul>
+					<li>52-72</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>55-75</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1965-66: Coach Mike Berger (7-14)</h3>
+	<img src="/images/athletics/1966boys.jpg">		
+		<ul>
+			<li>Brocton-Redmon</li>
+				<ul>
+					<li>68-73</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>91-58</li>
+				</ul>
+				<p>
+			<li>Farmer City</li>
+				<ul>
+					<li>64-77</li>
+				</ul>
+				<p>
+			<li>Potomac</li>
+				<ul>
+					<li>68-80</li>
+				</ul>
+				<p>
+			<li>Buckley Loda</li>
+				<ul>
+					<li>68-52</li>
+				</ul>
+				<p>
+			<li>East Lynn</li>
+				<ul>
+					<li>66-66</li>
+				</ul>
+				<p>
+			<li>Beason</li>
+				<ul>
+					<li>72-71</li>
+				</ul>
+				<p>
+			<li>Mt. Zion</li>
+				<ul>
+					<li>83-84</li>
+				</ul>
+				<p>
+			<li>Moweaqua</li>
+				<ul>
+					<li>79-87</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>77-51</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>54-49</li>
+				</ul>
+				<p>
+			<li>Armstrong</li>
+				<ul>
+					<li>48-86</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>73-69</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>43-53</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>50-62</li>
+				</ul>
+				<p>
+			<li>Buckley Loda</li>
+				<ul>
+					<li>58-72</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>60-73</li>
+				</ul>
+				<p>
+			<li>Mahomet-Seymour</li>
+				<ul>
+					<li>51-65</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>53-63</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>59-51</li>
+				</ul>
+				<p>
+			<li>Urbana</li>
+				<ul>
+					<li>58-105</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1966-1967: Coach Arden Crawford (4-15)</h3>
+	<img src="/images/athletics/1967boys.jpg">		
+		<ul>
+			<li>Brocton</li>
+				<ul>
+					<li>44-46</li>
+				</ul>
+				<p>
+			<li>Potomac</li>
+				<ul>
+					<li>52-66</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>81-62</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>54-51</li>
+				</ul>
+				<p>
+			<li>Farmer City</li>
+				<ul>
+					<li>48-80</li>
+				</ul>
+				<p>
+			<li>East Lynn</li>
+				<ul>
+					<li>72-92</li>
+				</ul>
+				<p>
+			<li>Brocton-Redmon</li>
+				<ul>
+					<li>41-56</li>
+				</ul>
+				<p>
+			<li>Cerro-Gordo</li>
+				<ul>
+					<li>54-58</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>46-51</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>68-72 (OT)</li>
+				</ul>
+				<p>
+			<li>Armstrong</li>
+				<ul>
+					<li>53-92</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>53-62</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>53-64</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>58-80</li>
+				</ul>
+				<p>
+			<li>Brocton-Redmon</li>
+				<ul>
+					<li>51-74</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>50-42</li>
+				</ul>
+				<p>
+			<li>Buckley Loda</li>
+				<ul>
+					<li>71-51</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>54-79</li>
+				</ul>
+				<p>
+			<li>Saybrook</li>
+				<ul>
+					<li>56-87</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1967-68: Coach Arden Crawford (5-14)</h3>
+	<img src="/images/athletics/1968boys.jpg">		
+		<ul>
+			<li>Potomac</li>
+				<ul>
+					<li>60-61</li>
+				</ul>
+				<p>
+			<li>Brocton-Redmon</li>
+				<ul>
+					<li>60-56</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>38-36</li>
+				</ul>
+				<p>
+			<li>Farmer City</li>
+				<ul>
+					<li>67-57</li>
+				</ul>
+				<p>
+			<li>East Lynn</li>
+				<ul>
+					<li>54-87</li>
+				</ul>
+				<p>
+			<li>Cerro-Gordo</li>
+				<ul>
+					<li>48-84</li>
+				</ul>
+				<p>
+			<li>Mt. Pulaski</li>
+				<ul>
+					<li>45-72</li>
+				</ul>
+				<p>
+			<li>Armstrong</li>
+				<ul>
+					<li>67-71</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>60-65</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>64-76</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>60-86</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>74-68</li>
+				</ul>
+				<p>
+			<li>St. Joe-Ogden</li>
+				<ul>
+					<li>28-44</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>55-57 (OT)</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>58-72</li>
+				</ul>
+				<p>
+			<li>Mahomet-Seymour</li>
+				<ul>
+					<li>61-79</li>
+				</ul>
+				<p>
+			<li>Unity</li>
+				<ul>
+					<li>62-81</li>
+				</ul>
+				<p>
+			<li>Farmer City</li>
+				<ul>
+					<li>50-40</li>
+				</ul>
+				<p>
+			<li>Deland Weldon</li>
+				<ul>
+					<li>49-84</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1968-1969: Coach James Reed (2-14)</h3>
+	<img src="/images/athletics/1969boys.jpg">		
+		<ul>
+			<li>Potomac</li>
+				<ul>
+					<li>55-89</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>45-62</li>
+				</ul>
+				<p>
+			<li>East Lynn</li>
+				<ul>
+					<li>53-63</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>52-69</li>
+				</ul>
+				<p>
+			<li>Catlin</li>
+				<ul>
+					<li>68-90</li>
+				</ul>
+				<p>
+			<li>St. Joe-Ogden</li>
+				<ul>
+					<li>45-77</li>
+				</ul>
+				<p>
+			<li>Armstrong</li>
+				<ul>
+					<li>57-79</li>
+				</ul>
+				<p>
+			<li>Farmer City</li>
+				<ul>
+					<li>57-40</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>51-71</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>49-82</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>52-63</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>52-66</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>58-51</li>
+				</ul>
+				<p>
+			<li>Mahomet-Seymour</li>
+				<ul>
+					<li>53-61</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>51-79</li>
+				</ul>
+				<p>
+			<li>Saybrook</li>
+				<ul>
+					<li>50-59</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1969-70: Coach Charles Davis (0-16)</h3>
+	<img src="/images/athletics/1970boys.jpg">		
+		<ul>
+			<li>Potomac</li>
+				<ul>
+					<li>31-94</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>27-68</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>25-90</li>
+				</ul>
+				<p>
+			<li>Arcola</li>
+				<ul>
+					<li>35-79</li>
+				</ul>
+				<p>
+			<li>East Lynn</li>
+				<ul>
+					<li>29-103</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>40-72</li>
+				</ul>
+				<p>
+			<li>St. Joe-Ogden</li>
+				<ul>
+					<li>23-93</li>
+				</ul>
+				<p>
+			<li>Gilman</li>
+				<ul>
+					<li>37-89</li>
+				</ul>
+				<p>
+			<li>Piper City</li>
+				<ul>
+					<li>48-79</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>39-102</li>
+				</ul>
+				<p>
+			<li>Catlin</li>
+				<ul>
+					<li>27-61</li>
+				</ul>
+				<p>
+			<li>Mansfield</li>
+				<ul>
+					<li>42-61</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>31-69</li>
+				</ul>
+				<p>
+			<li>Mahomet-Seymour</li>
+				<ul>
+					<li>41-79</li>
+				</ul>
+				<p>
+			<li>St. Joe-Ogden</li>
+				<ul>
+					<li>31-107</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>68-85</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1970-1971: Coach Ashenfelter (1-17)</h3>
+	<img src="/images/athletics/1971boysdark.jpg">		
+		<ul>
+			<li>N/A<li>
+		</ul>
+	<h3>1971-1972: Coach Carl Brown (2-20)</h3>
+	<img src="/images/athletics/1972boys.jpg">		
+		<ul>
+			<li>N/A<li>
+		</ul>
+	<h3>1972-1973: Coach Ray Scott, Assistant Coach Rich Kinder (6-13)</h3>
+	<img src="/images/athletics/1973boys.jpg">		
+		<ul>
+			<li>East Lynn</li>
+				<ul>
+					<li>64-68</li>
+				</ul>
+				<p>
+			<li>Wellington</li>
+				<ul>
+					<li>76-82</li>
+				</ul>
+				<p>
+			<li>Westfield</li>
+				<ul>
+					<li>57-56</li>
+				</ul>
+				<p>
+			<li>Mahomet-Seymour</li>
+				<ul>
+					<li>60-64</li>
+				</ul>
+				<p>
+			<li>Hinkley Big Rock</li>
+				<ul>
+					<li>50-56</li>
+				</ul>
+				<p>
+			<li>Piper City</li>
+				<ul>
+					<li>38-58</li>
+				</ul>
+				<p>
+			<li>Rossville</li>
+				<ul>
+					<li>56-73</li>
+				</ul>
+				<p>
+			<li>Gibson City</li>
+				<ul>
+					<li>26-90</li>
+				</ul>
+				<p>
+			<li>Hersher</li>
+				<ul>
+					<li>53-74</li>
+				</ul>
+				<p>
+			<li>Fairbury</li>
+				<ul>
+					<li>63-65</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>85-77</li>
+				</ul>
+				<p>
+			<li>Lovington</li>
+				<ul>
+					<li>62-57</li>
+				</ul>
+				<p>
+			<li>Beason</li>
+				<ul>
+					<li>70-50</li>
+				</ul>
+				<p>
+			<li>Elkart</li>
+				<ul>
+					<li>57-59</li>
+				</ul>
+				<p>
+			<li>Piper City</li>
+				<ul>
+					<li>41-62</li>
+				</ul>
+				<p>
+			<li>Catlin</li>
+				<ul>
+					<li>62-79</li>
+				</ul>
+				<p>
+			<li>Buckley Loda</li>
+				<ul>
+					<li>58-49</li>
+				</ul>
+				<p>
+			<li>Westfield</li>
+				<ul>
+					<li>76-57</li>
+				</ul>
+				<p>
+			<li>Ridge Farm</li>
+				<ul>
+					<li>61-78</li>
+				</ul>
+				<p>
+		</ul>
+				
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

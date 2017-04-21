@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Groth & Associates Scholarship Opportunity</div>
+
+				<div id="section-content">
+				
+<strong>DUE: July 31, 2017</strong>
+
+The Lawyers here at Groth & Associates are proud to offer a generous $1,000.00 scholarship for any individuals who qualify. To qualify for this scholarship:<br>
+<ol><li>Must have a G.P.A. of 3.0+</li>
+<li>Fill out the form with your contact information</li>
+<li>Attach school transcript to verify enrollment or submit any document to help us know you are currently enrolled or have been accepted to a college or university in the United States.</li>
+<li>Attach a 500-word essay about difficulties or hardships you have had to personally overcome</li></ol>
+ 
+<a href="http://www.grothlaw.com/scholarship/">Qualifying students can apply here</a>
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

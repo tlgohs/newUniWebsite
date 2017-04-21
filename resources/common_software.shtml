@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">UNI HIGH COMMON SOFTWARE</div>
+
+				<div id="section-content">
+				
+<p> Below is a list of the free software that is installed on all school computers and laptops that are leased through the school. Also provided are links to make installation easier for students that elect to bring their personal laptops to school.</p>
+<p>Please report any broken links or issues to <a href="mailto:unihighhelp@illinois.edu">unihighhelp@illinois.edu</a></p>
+
+<ul><li><a href="https://getfirefox.com/">Mozilla Firefox</a></li>
+<li><a href="https://www.google.com/chrome/browser/desktop/index.html">Google Chrome</a></li>
+<li><a href="https://get.adobe.com/reader/otherversions/">Adobe Reader</a></li>
+<li><a href="https://get.adobe.com/flashplayer/otherversions/">Adobe Flash Player</a></li>
+<li><a href="https://java.com/en/download/">Java</a></li>
+<li><a href="https://www.geogebra.org/download">GeoGebra</a></li>
+<li><a href="http://www.finalemusic.com/products/finale-notepad/resources/">Finale NotePad</a></li>
+<li><a href="https://cyberduck.io/?l=en">CyberDuck</a></li>
+<li><a href="http://www.7-zip.org/">7zip</a></li>
+<li><a href="https://sites.box.com/sync4/">Box Sync</a></li>
+<li><a href="https://www.arduino.cc/en/Main/Software">Arduino</a></li>
+<li><a href="http://sourceforge.net/projects/audacity/">Audacity</a></li>
+<li><a href="https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx#">Microsoft Visual Studio</a></li>
+<li><a href="http://avogadro.cc/wiki/Main_Page">Avogadro</a></li>
+<li><a href="http://www.expresspcb.com/expresspcb/">ExpressPCB</a></li>
+<li><a href="https://www.google.com/earth/download/ge/agree.html">Google Earth</a></li>
+<li><a href="https://scratch.mit.edu/scratch2download/">Scratch</a></li>
+<li><a href="http://mw.concord.org/modeler/download-mw.html#nosub">Molecular Workbench</a></li>
+<li><a href="https://ccl.northwestern.edu/netlogo/5.2/">NetLogo</a></li>
+<li><a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">PuTTY</a></li>
+<li><a href="http://www.silhouetteamerica.com/software/silhouette-studio">SilhouetteStudio</a></li>
+<li><a href="http://www.sketchup.com/download">SketchUp</a></li>
+<li><a href="http://www.silhouetteamerica.com/software/silhouette-studio">SilhouetteStudio</a></li>
+<li><a href="https://education.ti.com/en/us/products/computer_software/connectivity-software/ti-connect-software/tabs/overview">TI-Connect</a></li>
+<li><a href="https://www.cites.illinois.edu/vpn/download-install.html">Cisco AnyConnect VPN</a></li>
+<li><a href="http://www.videolan.org/vlc/index.html#download">VLC Media Player</a></li>
+<li><a href="http://www.chemdoodle.com/free-trial/">ChemDoodle</a>&nbsp;&nbsp;&nbsp;&nbsp; NOTE: You must receive your activation code using your @illinois.edu email address <a href="http://www.chemdoodle.com/support/request-site-code/">here</a>.</li>
+<li><a href="http://ftp.ussg.iu.edu/CRAN/">The R Project</a></li>
+<li><a href="https://www.rstudio.com/products/RStudio/">R-Studio</a></li>
+<li><a href="http://www.stellarium.org/">Stellarium</a></li>
+<li><a href="http://support.xyzprinting.com/us_en/Help/download/f10aio?productName=da%20Vinci%201.0%20AiO">XYZprinting</a></li>
+<li><a href="https://www.lulzbot.com/cura">Lulzbot Cura</a></li></ul>
+
+<p>
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

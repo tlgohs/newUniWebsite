@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">BOYS BASKETBALL RESULTS</div>
+
+				<div id="section-content">
+				
+<h1>2014-Present Results</h1>
+
+	<h3>2013-14: Coach Scott Easton (5-18)</h3>	
+	<img src="/images/athletics/2014boys.jpg">		
+		<ul>
+			<li>Atwood-Hammond</li>
+				<ul>
+					<li>L 40-41</li>
+				</ul>
+				<p>
+			<li>Hoopeston</li>
+				<ul>
+					<li>L 35-56</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>L 55-58</li>
+				</ul>
+				<p>
+			<li>Georgetown Notre Dame</li>
+				<ul>
+					<li>L 48-75</li>
+				</ul>
+				<p>
+			<li>Arcola</li>
+				<ul>
+					<li>L 37-70</li>
+				</ul>
+				<p>
+			<li>Villa Grove</li>
+				<ul>
+					<li>L 44-75</li>
+				</ul>
+				<p>
+			<li>Arthur Okaw</li>
+				<ul>
+					<li>W 57-52</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>L 39-49</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 61-56</li>
+				</ul>
+				<p>
+			<li>PBL</li>
+				<ul>
+					<li>L 45-71</li>
+				</ul>
+				<p>
+			<li>Decatur Lutheran</li>
+				<ul>
+					<li>L 50-70</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 67-64</li>
+				</ul>
+				<p>
+			<li>Shiloh</li>
+				<ul>
+					<li>L 35-83</li>
+				</ul>
+				<p>
+			<li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 58-40</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 94-19</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>L 45-58</li>
+				</ul>
+				<p>
+			<li>Georgetown Notre Dame</li>
+				<ul>
+					<li>L 55-61</li>
+				</ul>
+				<p>
+			<li>Cornerstone Christian</li>
+				<ul>
+					<li>L 44-52</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>L 45-59</li>
+				</ul>
+				<p>
+			<li>Cornerstone Christian</li>
+				<ul>
+					<li>L 38-63</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>L 43-50</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>L 48-61</li>
+				</ul>
+				<p>
+                <li>Fisher</li>
+				<ul>
+					<li>L 42-54</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2014-15: Coach Scott Easton (10-15)</h3>
+	<img src="/images/athletics/2015boys.jpg">		
+		<ul>
+			<li>Tri-County</li>
+				<ul>
+					<li>L 40-52</li>
+				</ul>
+				<p>
+			<li>Martinsville</li>
+				<ul>
+					<li>W 52-41</li>
+				</ul>
+				<p>
+			<li>Georgetown-Ridge Farm</li>
+				<ul>
+					<li>W 50-40</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>L 30-62</li>
+				</ul>
+				<p>
+			<li>Heritage-Villa Grove</li>
+				<ul>
+					<li>L 58-79</li>
+				</ul>
+				<p>
+			<li>Heritage-Villa Grove</li>
+				<ul>
+					<li>L 78-87</li>
+				</ul>
+				<p>
+			<li>Hoopeston</li>
+				<ul>
+					<li>W 45-38</li>
+				</ul>
+				<p>
+			<li>Georgetown Notre-Dame</li>
+				<ul>
+					<li>L 50-59</li>
+				</ul>
+				<p>
+			<li>Tuscola</li>
+				<ul>
+					<li>L 29-50</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>L 31-62</li>
+				</ul>
+				<p>
+			<li>Cornerstone</li>
+				<ul>
+					<li>L 37-45</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 58-28</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>L 41-44</li>
+				</ul>
+				<p>
+			<li>PBL</li>
+				<ul>
+					<li>L 41-72</li>
+				</ul>
+				<p>
+			<li>Arthur Okaw</li>
+				<ul>
+					<li>L 44-54</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>L 68-75</li>
+				</ul>
+				<p>
+			<li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 78-44</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 82-37</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>L 39-73</li>
+				</ul>
+				<p>
+                <li>Fisher</li>
+				<ul>
+					<li>L 44-50</li>
+				</ul>
+				<p>
+                <li>Arcola</li>
+				<ul>
+					<li>W 61-57</li>
+				</ul>
+				<p>
+                <li>Decatur Christian (ECIC)</li>
+				<ul>
+					<li>W 64-34</li>
+				</ul>
+				<p>
+                <li>Normal Calvary (ECIC)</li>
+				<ul>
+					<li>W 52-44</li>
+				</ul>
+				<p>
+                <li>Cornerstone (ECIC Final)</li>
+				<ul>
+					<li>W 42-32</li>
+				</ul>
+				<p>
+                <li>Judah Christian (Regionals)</li>
+				<ul>
+					<li>L 71-83</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2015-16: Coach Darin O' Connell(7-14)</h3>
+	<img src="/images/athletics/2016boys.jpg" >		
+		<ul>
+			<li>Tri-County</li>
+				<ul>
+					<li>L 37-39</li>
+				</ul>
+				<p>
+			<li>Martinsville</li>
+				<ul>
+					<li>W 67-45</li>
+				</ul>
+				<p>
+			<li>Danville Schlarman</li>
+				<ul>
+					<li>L 39-55</li>
+				</ul>
+				<p>
+			<li>Georgetown-Ridge Farm</li>
+				<ul>
+					<li>L 58-60</li>
+				</ul>
+				<p>
+			<li>Villa Grove-Heritage</li>
+				<ul>
+					<li>W 57-48</li>
+				</ul>
+				<p>
+			<li>Hoopeston Area</li>
+				<ul>
+					<li>W 54-53</li>
+				</ul>
+				<p>
+			<li>Georgetown Notre Dame</li>
+				<ul>
+					<li>L 39-72</li>
+				</ul>
+				<p>
+			<li>Tuscola</li>
+				<ul>
+					<li>W 54-53</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>W 42-36</li>
+				</ul>
+				<p>
+			<li>Martinsville</li>
+				<ul>
+					<li>W 72-49</li>
+				</ul>
+				<p>
+			<li>Arcola</li>
+				<ul>
+					<li>L 46-66</li>
+				</ul>
+				<p>
+			<li>Cornerstone</li>
+				<ul>
+					<li>L 55-56</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 57-21</li>
+				</ul>
+				<p>
+			<li>Calvary Christian</li>
+				<ul>
+					<li>W 60-29</li>
+				</ul>
+				<p>
+			<li>Arthur Christian</li>
+				<ul>
+					<li>W 59-46</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 56-32</li>
+				</ul>
+				<p>
+			<li>Blue Ridge</li>
+				<ul>
+					<li>L 63-81</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 70-38</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>L 43-77</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>L 49-60</li>
+				</ul>
+				<p>
+			<li>Villa Grove-Heritage</li>
+				<ul>
+					<li>L 59-71</li>
+				</ul>
+				<p>
+                <li>Georgetown Notre Dame</li>
+				<ul>
+					<li>L 40-69</li>
+				</ul>
+				<p>
+                <li>Decatur Christian</li>
+				<ul>
+					<li>W 53-22</li>
+				</ul>
+				<p>
+                <li>Cornerstone</li>
+				<ul>
+					<li>W 60-59</li>
+				</ul>
+				<p>
+                <li>Judah Christian (Regionals)</li>
+				<ul>
+					<li>L 52-53</li>
+				</ul>
+				<p>
+		</ul>
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

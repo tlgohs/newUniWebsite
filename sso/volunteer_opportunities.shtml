@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">VOLUNTEER OPPORTUNITIES</div>
+
+				<div id="section-content">
+				
+<ul>
+	<li><strong>Children’s Program Volunteer</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=1105">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=1105</a><br>
+		Play with children/teens at the Center for Women in Transition Tuesdays and Thursdays. Though children can be as old as 18, they can be as young as newborn, so high school volunteers will probably be welcome. A 30-60 min. interview is required, and you must be 16 to volunteer. Training January 18, 2005.</li>
+	<li><strong>Assist Non-Profit with Websites</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=176">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=176</a><br>
+		Prairienet is always looking for experienced, community-minded Webheads and graphic designers to work on projects for local community service organizations. If interested, ask Ariel to see the email prairienet sent me with their concerns (I think they underestimate your maturity).</li>
+	<li><strong>Web Graphic Design for Community Organizations</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=395">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=395</a><br>
+		Work with area community service organizations to provide graphic design for web sites. Must apply with sample of work. Again, ask Ariel for the email.</li>
+	<li><strong>Cat Socializing</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=833">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=833</a><br>
+		Cuddle adoptable cats at the Champaign County Humane Society any day of the week. Application and Orientation/Training necessary.</li>
+	<li><strong>Dog Walking</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=832">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=832</a><br>
+		Walk adoptable dogs at the Champaign County Humane Society any day of the week. Application and Orientation/Training necessary</li>
+	<li><strong>Virginia Theatre Volunteer</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=1159">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=1159</a><br>
+		All the joys of working at a theatre without getting paid ^_~ Great for those passionate in theatre, and shows are generally in the evening (good for us full-time students). Take tickets, work concession and usher, and see some free shows when the work is done. Must fill out application.</li>
+	<li><strong>Champaign Park District</strong><br>
+		<a href="http://www.champaignparkdistrict.com/volunt.htm">http://www.champaignparkdistrict.com/volunt.htm</a><br>
+		Apply for the teen volunteer team. Must be 13 or older. Teen volunteers may work no more than 25 hours a week.</li>
+	<li><strong>Champaign Public Library Volunteer</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=1338">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=1338</a><br>
+		Shelf books any time the library is open.</li>
+	<li><strong>The Reading Group general assistant</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=740">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=740</a><br>
+		“the perfect ‘after-school’ or weekend commitment for a youth interested in gaining volunteer experience.” Keep the Reading Group clean and tidy. Application/Interview process required.</li>
+	<li><strong>Provena Covenant Medical Center</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=944">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=944</a><br>
+		Apply to volunteer during the summer session for Medical/Surgical Unit or Cardiac Services, Gift Shop Assistant, Engineering, Emergency Medical Services, or Senior Services/VIP Program. For high school Juniors and Seniors.</li>
+	<li><strong>Early American Museum Junior Counselor</strong><br>
+		<a href="http://www.cuvolunteer.org/find/opp_profile.phtml?oid=1432">http://www.cuvolunteer.org/find/opp_profile.phtml?oid=1432</a><br>
+		Looking for volunteers age 12-18 to help with summer and scout programs held 9am-noon on Wednesdays for younger children. Application required.</li>
+</ul>
+<h1>Activist Organizations</h1>
+<ul>
+	<li><strong>Food Not Bombs</strong><br>
+		<a href="http://www.foodnotbombs.net">www.foodnotbombs.net</a><br>
+		C-U Contact: foodnotbombs@prairienet.org Food Not Bombs provides free vegetarian meals to the hungry and protests war and poverty.</li>
+	<li><strong>Champaign County Health Care Consumers (CCHCC)</strong><br>
+		<a href="http://www.healthcareconsumers.org/">http://www.healthcareconsumers.org/</a><br>
+		cchcc@healthcareconsumers.org<br>
+		Brooke Anderson: brooke@shout.net<br>
+		CCHCC is a grassroots organization striving for health care reform through the participation of consumers. It carries out its mission through consumer education, advocacy, and community organizing.</li>
+	<li><strong>Activism at UIUC</strong><br>
+		<a href="http://www.campusactivism.org/displayschool-7097.htm">http://www.campusactivism.org/displayschool-7097.htm</a><br>
+		Links to activist groups right here on our campus</li>
+	<li><strong>UIUC Progressive Resource/Action Cooperative</strong><br>
+		<a href="http://www.prarienet.org/prc/">http://www.prairienet.org/prc/</a><br>
+		Go here to check out upcoming rallies on campus organized by this group.</li>
+	<li><strong>Illinois Disciples Foundation</strong><br>
+		<a href="http://www.prarienet.org/idf/">http://www.prairienet.org/idf/</a><br>
+		Committed to bringing peace with Justice, IDF hosts programs like PRC (above).</li>
+</ul>
+</div>
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

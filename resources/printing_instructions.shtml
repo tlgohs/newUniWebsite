@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=5;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">UNI HIGH PRINTING INSTRUCTIONS</div>
+
+				<div id="section-content">
+				
+<style>
+p {
+color: black;
+}
+</style>
+<h2>Introduction</h2>
+<p>You can print to the Uni High lab printers from anywhere -- whether from a Uni High lab or from your personal desktop, laptop computer or mobile device at any location. When you send a print job to a Uni High printer, the job is queued until you come to the lab and release it from the printer by entering your NetID and password.</p>
+
+<em>Note: If printing from off-campus please connect using the VPN client. More information about configuring the Tech Services VPN is available at:</em> <a href="http://techservices.illinois.edu/services/virtual-private-networking-vpn">http://techservices.illinois.edu/services/virtual-private-networking-vpn</a> <br>  
+<br> 
+<h2>Web Print</h2>
+
+<p>Web Print is a service to provide printing from laptops without the need to install print drivers. This feature is available in the Uni High computer labs and library. Visit <a href="https://papercut.ics.illinois.edu">https://papercut.ics.illinois.edu</a> and select Web Print on the left-hand side to upload the file and select the desired printer. Your print job is then sent to the print release station.</p>
+<br> 
+<h2>Installing iPrint</h2>
+
+<ul><li>First, install the printer client or configure Internet Printing Protocol depending on your operating system. Follow the instructions below.</li>
+<ul><li><a href="printing_instructions_osx.shtml">Mac OS X</a></li>
+<li><a href="printing_instructions_windows.shtml">Windows</a></li></ul>
+<h4 style="font-weight:normal;"><li>Next, make the campus printers available to your computer by <a href="printing_instructions_add_printer.shtml">adding the printers you want.</a></li>
+<li>Finally, go to the Uni High printer and <a href="print_release_job.shtml">approve your print job so that that it will be released from the queue and printed.</a></li></ul></h4></p>
+
+<h2>iOS Printing</h2>
+You can print to the Uni High lab printers from your Apple mobile devices (iPads and iPhones) by following the instructions below:
+
+<br>1. Install the configuration profile:
+<br><a href="https://www.ics.uiuc.edu/m/unihigh-airprint.mobileconfig">https://www.ics.uiuc.edu/m/unihigh-airprint.mobileconfig</a>
+<br>2. When connected to IllinoisNet, the printers should now appear in the iOS print dialog.
+<br>3. Print your document.
+<br>4. Launch the "CITES PaperCut" iOS application.
+<ul>
+<li>Authenticate with your NetID and password.</li>
+<li>Wait for your print job to appear at the print release station, then release your print job at the print release station.</li></ul>
+
+
+<h2>Printing options and prices</h2>
+<p>Both of the Uni High computer labs are equipped with monochrome and color laser printers. All printing at Uni High is free of charge. However, printing at other locations on campus will result in charges to your University account. Black and white print jobs cost $0.10 per page. Color print jobs cost $0.40 per page.</p>
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

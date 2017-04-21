@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">ACORN EQUALITY FUND SCHOLARSHIP</div>
+<div id="image"><img src="/images/athletics/girls_track_record.jpg"></img></div>
+				<div id="section-content">
+				
+<strong>DUE: September 25, 2015</strong>
+
+<p>The Acorn Equality Fund has four (4) scholarships ranging from $1,000-5,000 for gay, lesbian, bisexual or transgendered students, allies or the children of gay, lesbian, bisexual, or transgendered parents. Students can apply for more than one of the scholarships, but can only be awarded one. </p>
+ 
+<p>Student must complete two (2) essays for each of the scholarships he or she is applying for. Applications and all supporting documents must be postmarked by Friday, September 25, 2015.</p>
+ 
+<p>More information about the scholarships, and the application, can be found at:
+<a href="http://www.acornequalityfund.org/files/102862761.pdf">www.acornequalityfund.org/files/102862761.pdf</a></p>
+
+<hr>
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

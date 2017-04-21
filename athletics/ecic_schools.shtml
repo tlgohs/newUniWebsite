@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=3;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">ECIC MEMBER SCHOOLS</div>
+				<div id="image"><img src="/images/NewECICgreen.jpg"></img></div>
+				<div id="section-content">
+				
+<h3>Arthur Christian School</h3>
+<table>
+	<tbody>
+		<tr valign="top">
+			<td width="200px"><img alt="" src="/images/athletics/ecic/arthur_okaw.jpg" height="251" width="200"></td>
+			<td width="20px">&nbsp;</td>
+			<td width="420px">
+				<div>1710 Illinois Rt. 133 Arthur, IL 61911</div>
+				<div>Phone: 217-543-2397</div>
+				<div>Conference: East Central Illinois</div>
+				<div>Boys Nickname: Conquering Riders</div>
+				<div>Girls Nickname: Conquering Riders</div>
+				<div>Colors: Navy/Red</div>
+				<div>Website: <a href="http://www.arthurchristian.org">www.arthurchristian.org</a></div>
+				<div><strong>Sports Offered:</strong></div>
+				<div>Boys' and Girls' Basketball</div>
+				<div>Volleball</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h3>Cornerstone Christian Academy</h3>
+<table>
+	<tbody>
+		<tr valign="top">
+			<td width="200px"><img alt="" src="/images/athletics/ecic/cornerstonesm.jpg" height="204" width="200"></td>
+			<td width="20px">&nbsp;</td>
+			<td width="420px">
+				<div>PO Box 1608 Bloomington, IL 61702-1608</div>
+				<div>Phone: 309-662-9900</div>
+				<div>Fax: 309-662-9904</div>
+				<div>Boys Nickname: Cyclones</div>
+				<div>Girls Nickname: Cyclones</div>
+				<div>Colors: Green/White</div>
+				<div>Web Site: www.cornerstonechristian.com</div>
+				<div><strong>Sports Offered:</strong></div>
+				<div>Boys' and Girls' Basketball</div>
+				<div>Boys' and Girls' Cross Country</div>
+				<div>Boys' and Girls' Swimming</div>
+				<div>Boys' and Girls' Track</div>
+				<div>Volleyball</div>
+				<div>Boys' Tennis</div>
+				<div>Boys' Golf</div>
+				<div><a href="http://maps.yahoo.com/broadband/#mvt=m&amp;lat=40.485151&amp;lon=-88.892797&amp;mag=6&amp;zoom=13&amp;q1=40.456944%252C-88.8425">Yahoo! map</a></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h3>Buckley Christ Lutheran</h3>
+<table>
+	<tbody>
+		<tr valign="top">
+			<td width="200px"><img alt="" src="/images/athletics/ecic/bclknight.jpg" height="281" width="200"></td>
+			<td width="20px">&nbsp;</td>
+			<td width="420px">
+				<div>PO Box 8 Buckley, IL 60918-0008</div>
+				<div>Phone: 217-394-2547</div>
+				<div>Fax: 217-394-2097</div>
+				<div>Boys Nickname: Crusaders</div>
+				<div>Girls Nickname: Crusaders</div>
+				<div>Colors: Purple/White</div>
+				<div>Web Site: www.christlutheranbuckley.com</div>
+				<div><strong>Sports Offered:</strong></div>
+				<div>Volleyball</div>
+				<div>Boys' and Girls' Basketball</div>
+				<div><a href="http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&amp;lat=40.59787&amp;lon=-88.040989&amp;zoom=17&amp;q1=201%20West%20Lincoln%2C%20Buckley%2C%20Illinois">Yahoo! map</a></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Decatur Christian</h3>
+<table>
+	<tbody>
+		<tr valign="top">
+			<td width="200px"><img alt="" src="/images/athletics/ecic/decatur_christian.jpg" height="200" width="200"></td>
+			<td width="20px">&nbsp;</td>
+			<td width="420px">
+				<div>137 Grant St. Decatur, IL 62526</div>
+				<div>Phone: 217-877-5636</div>
+				<div>Conference: East Central Ilinois</div>
+				<div>Boys Nickname: Warriors</div>
+				<div>Girls Nickname: Warriors</div>
+				<div>Colors: Blue, Yellow, White</div>
+				<div>Website: <a href="http://decaturchristian.net/">http://decaturchristian.net/</a></div>
+				<div><strong>Sports Offered:</strong></div>
+				<div>Boys' and Girls' Basketball</div>
+				<div>Boys' and Girls' Soccer</div>
+				<div>Baseball</div>
+				<div>Volleyball</div>
+				<div><a href="http://maps.yahoo.com/py/maps.py?Pyt=Tmap&amp;addr=3475%20N.%20Maple&amp;city=Decatur&amp;state=IL&amp;slt=39.89055&amp;sln=-88.95422&amp;zip=62526&amp;mag=8&amp;cs=9&amp;map.x=200&amp;map.y=200">Yahoo! map</a></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h3>Uni High</h3>
+<table>
+	<tbody>
+		<tr valign="top">
+			<td width="200px"><img alt="" src="/images/athletics/ecic/unihigh_logo.jpg" height="200" width="200"></td>
+			<td width="20px">&nbsp;</td>
+			<td width="420px">
+				<div>Urbana, IL 61801</div>
+				<div>Phone: 217-333-2870</div>
+				<div>Fax: 217-244-9627</div>
+				<div>Boys Nickname: Illineks</div>
+				<div>Girls Nickname: Illineks</div>
+				<div>Colors: Royal Blue/White/Orange</div>
+				<div>Website: www.uni.uiuc.edu</div>
+				<div><strong>Sports Offered:</strong></div>
+				<div>Boys' and Girls' Basketball</div>
+				<div>Boys' and Girls' Soccer</div>
+				<div>Boys' and Girls' Cross Country</div>
+				<div>Girls' Swimming</div>
+				<div>Boys' and Girls' Track and Field</div>
+				<div>Girls' Volleyball</div>
+				<div><a href="http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&amp;lat=40.59787&amp;lon=-88.040989&amp;zoom=16&amp;q1=201%20West%20Lincoln%2C%20Buckley%2C%20Illinois">Yahoo! map</a></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h3>Judah Christian</h3>
+<table>
+	<tbody>
+		<tr valign="top">
+			<td width="200px"><img alt="" src="/images/athletics/ecic/judah.jpg" height="247" width="192"></td>
+			<td width="20px">&nbsp;</td>
+			<td width="420px">
+				<div>Champaign, IL 61820</div>
+				<div>Phone: 217-359-1701</div>
+				<div>Fax: 217-359-0214</div>
+				<div>Boys Nickname: The Tribe</div>
+				<div>Girls Nickname: The Tribe</div>
+				<div>Colors: Purple/Gold School</div>
+				<div>Web Site: www.judah.org</div>
+				<div><strong>Sports Offered:</strong></div>
+				<div>Boys' and Girls' Basketball</div>
+				<div>Boys' and Girls' Soccer</div>
+				<div>Boys' Golf Boys' Baseball</div>
+				<div>Girls' Volleyball</div>
+				<div>Boys' and Girls' Cross Country</div>
+				<div>Cheerleading</div>
+				<div><a href="http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&amp;lat=40.124611&amp;lon=-88.257866&amp;zoom=17&amp;q1=908%20N.%20Prospect%20Ave.%2C%20Champaign%2C%20Illinois&amp;gid1=17550474">Yahoo! map</a></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h3>Deland-Weldon</h3>
+<table>
+	<tbody>
+		<tr valign="top">
+			<td width="200px"><img alt="" src="/images/athletics/ecic/eagle1.jpg" height="160" width="200"></td>
+			<td width="20px">&nbsp;</td>
+			<td width="420px">
+				<div>DeLand, IL 61839-7060</div>
+				<div>Phone: 217-736-2311</div>
+				<div>Fax: 217-736-2654</div>
+				<div>Boys Nickname: Eagles</div>
+				<div>Girls Nickname: Eagles</div>
+				<div>Colors: Maroon/Gray</div>
+				<div>Website: http://www.delwel.k12.il.us/</div>
+				<div><strong>Sports Offered:</strong></div>
+				<div>Boys' and Girls' Basketball</div>
+				<div>Boys' and Girls' Golf</div>
+				<div>Baseball</div>
+				<div>Softball</div>
+				<div>Boys' and Girls' Track</div>
+				<div>Boys' Cross Country</div>
+				<div>Boys' Football</div>
+				<div><a href="http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&amp;lat=39.953317&amp;lon=-88.895073&amp;zoom=9&amp;q1=304%20E.%20Illinois%2C%20Ill.%20Rt.%2010">Yahoo! map</a></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h3>Normal Calvary Christian</h3>
+<table>
+	<tbody>
+		<tr valign="top">
+			<td width="200px"><img alt="" src="/images/athletics/ecic/knightsnew.jpg" height="223" width="200"></td>
+			<td width="20px">&nbsp;</td>
+			<td width="420px">
+				<div>Normal, IL 61761</div>
+				<div>Phone: 309-452-7912</div>
+				<div>Boys Nickname: Knights</div>
+				<div>Girls Nickname: Knights</div>
+				<div>Colors: Red, White and Blue</div>
+				<div>Website: http://www.ccanormal.org</div>
+				<div><strong>Sports Offered:</strong></div>
+				<div>Boys' Soccer</div>
+				<div>Boys and Girls' basketball</div>
+				<div>Baseball</div>
+				<div>Volleyball</div>
+				<div>Boys' Golf</div>
+				<div><a href="http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&amp;lat=40.523359&amp;lon=-88.990104&amp;zoom=17&amp;q1=1017%20North%20School%20Street%20%2C%20Normal%2C%20Illinois">Yahoo! map</a></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div></div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

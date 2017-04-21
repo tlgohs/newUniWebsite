@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Champaign County Extension Education Foundation Scholarship</div>
+
+				<div id="section-content">
+				
+<strong>DUE: Monday, April 17, 2017</strong><p>
+
+ 
+<strong>Scholarship Amount:</strong>  $1000<p>
+ 
+<strong>Conditions:</strong>
+<ul><li>Resident of Champaign County
+<li>Financial consideration and academic motivation demonstrated
+<li>Good academic standing
+<li>Maintain satisfactory and continuous progress towards the educational objective</ul>
+ 
+<strong>Criteria:</strong>
+<ol><li>Statement of your educational and career goals
+<li>Two letters of recommendation
+<li>Statement of service activities
+<li>Statement of applicant and/or family involvement in Extension programming
+<li>Academic record
+<li>Signed Application Form (applicant & counselor signatures required)</ol>
+ 
+The application is attached to this email.  If you have additional questions, please contact the Champaign County Extension Education Foundation directly at 217-333-7672.<p>
+ 
+Application Deadline:  Monday, April 17, 2017, received by 4:30 PM in the Extension Office.  No late applications will be accepted.<p>
+ 
+<strong>Return Applications to:</strong>  <br>Champaign County Extension Education Foundation<br>
+                                      801 North Country Fair Dr., Suite D<br>
+                                      Champaign, IL 61821<br>
+ 
+
+
+<hr>
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

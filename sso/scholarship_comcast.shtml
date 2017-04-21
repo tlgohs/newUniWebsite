@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">The Comcast Leaders and Achievers Scholarship Program</div>
+
+				<div id="section-content">
+				
+<p>Uni will nominate one high school senior to be considered for this scholarship.</p>
+<strong>DUE:  September 30, 2015</strong>
+
+<p>
+
+<ul>Requirements:
+	<li>2.8 GPA or Higher</li>
+	<li>Full-time High School Senior</li>
+	<li>Plans to attend College, University, or Vocational or Technical School in the U.S.</li>
+	<li>Demonstrated Leadership Abilities</li>
+	<li>Commitment to Community Service</li>
+</ul>
+ 
+<p>If you are interested in applying for this scholarship, please submit a short personal statement to Ms. Bandy (kbandy2@illinois.edu) by September 30, 2015.  The short personal statement should explain why Uni should nominate you as a Comcast Leader and Achiever.  Please explain what activities/clubs you have been involved with and how you have shown leadership in these extracurricular activities, as well as in the classroom.  Additionally, please share what community service/volunteer opportunities you have already participated in and how you anticipate getting involved with community service in the future.
+ 
+If more than one candidate applies, the scholarship committee will select which Uni student to nominate for the Comcast Leaders and Achievers Scholarship.  If selected by Comcast, the scholarship amount awarded is $1,000.  Please contact your counselor if you have any questions or concerns.</p>
+
+<hr>
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">GIRLS BASKETBALL RESULTS</div>
+
+				<div id="section-content">
+				
+<h1>1984-93 Results</h1>
+
+
+	<h3>1983-84: Coach Greg Walters (0-24)</h3>	
+	<img src="/images/athletics/1984boys.jpg">		
+		<p>
+        <ul>
+			<li>N/A</li>
+				<p>
+			
+		</ul>
+	<h3>1984-85: Coach Alex Takacs (1-23)</h3>
+	<img src="/images/athletics/1985boys.jpg">		
+		<p>
+        <ul>
+			<li>N/A</li>
+				<p>
+			
+		</ul>
+	<h3>1965-66: Coach Alex Takacs (4-16)</h3>
+	<img src="/images/athletics/1986boys.jpg">		
+		<ul>
+			<li>N/A</li>
+				<p>
+			
+		</ul>
+			<p>
+	<h3>1986-87: Coach Tom Scott (3-18)</h3>
+	<img src="/images/athletics/1987boys.jpg">		
+		<ul>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 55-53</li>
+				</ul>
+				<p>
+			<li>Melvin-Sibley</li>
+				<ul>
+					<li>L 31-56</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>L 30-56</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 31-54</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>L 36-58</li>
+				</ul>
+				<p>
+			<li>Oakland</li>
+				<ul>
+					<li>L 36-60</li>
+				</ul>
+				<p>
+			<li>Melvin-Sibley</li>
+				<ul>
+					<li>L 38-54</li>
+				</ul>
+				<p>
+			<li>Georgetown RF</li>
+				<ul>
+					<li>L 25-72</li>
+				</ul>
+				<p>
+			<li>Rossville-Alvin</li>
+				<ul>
+					<li>L 40-67</li>
+				</ul>
+				<p>
+			<li>Oakland</li>
+				<ul>
+					<li>L 44-66</li>
+				</ul>
+				<p>
+			<li>Kankakee Trinity</li>
+				<ul>
+					<li>W 45-35</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 42-41</li>
+				</ul>
+				<p>
+			<li>ABL</li>
+				<ul>
+					<li>L 44-66</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 49-56</li>
+				</ul>
+				<p>
+			<li>Potomac</li>
+				<ul>
+					<li>L 29-66</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 29-56</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 34-68</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>L 51-80</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>L 46-82</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>
+    
+    
+    1987-88: Coach Tom Scott (9-13)</h3>
+	<img src="/images/athletics/1988boys.jpg">		
+		<ul>
+			<li>Kankakee Trinity</li>
+				<ul>
+					<li>W 89-73</li>
+				</ul>
+				<p>
+			<li>Melvin-Sibley</li>
+				<ul>
+					<li>W 57-43</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>W 52-51</li>
+				</ul>
+				<p>
+			<li>Rossville-Alvin</li>
+				<ul>
+					<li>L 65-73</li>
+				</ul>
+				<p>
+			<li>Deland Weldon</li>
+				<ul>
+					<li>W 70-53</li>
+				</ul>
+				<p>
+			<li>Oakland</li>
+				<ul>
+					<li>L 44-60</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 44-51</li>
+				</ul>
+				<p>
+			<li>Hoopeston-EL</li>
+				<ul>
+					<li>L 33-86</li>
+				</ul>
+				<p>
+			<li>Paxton</li>
+				<ul>
+					<li>L 62-74</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 74-60</li>
+				</ul>
+				<p>
+			<li>Newman</li>
+				<ul>
+					<li>L 58-69</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>L 54-57</li>
+				</ul>
+				<p>
+			<li>Potomac</li>
+				<ul>
+					<li>W 53-51</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 67-69</li>
+				</ul>
+				<p>
+			<li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 67-71</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>L 53-68</li>
+				</ul>
+				<p>
+			<li>Homer</li>
+				<ul>
+					<li>W 90-71</li>
+				</ul>
+				<p>
+			<li>Armstrong</li>
+				<ul>
+					<li>L 69-87</li>
+				</ul>
+				<p>
+			<li>ABL</li>
+				<ul>
+					<li>L 53-71</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1988-89: Coach Tom Scott (5-16)</h3>
+	<img src="/images/athletics/1989boys.jpg">		
+		<ul>
+			<li>Kankakee Trinity</li>
+				<ul>
+					<li>W 84-40</li>
+				</ul>
+				<p>
+			<li>Melvin-Sibley</li>
+				<ul>
+					<li>L 43-58</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>L 46-68</li>
+				</ul>
+				<p>
+			<li>Rossville-Alvin</li>
+				<ul>
+					<li>L 42-69</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>L 43-64</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 49-60</li>
+				</ul>
+				<p>
+			<li>Milford</li>
+				<ul>
+					<li>L 57-92</li>
+				</ul>
+				<p>
+			<li>Potomac</li>
+				<ul>
+					<li>L 53-70</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 72-55</li>
+				</ul>
+				<p>
+			<li>ABL</li>
+				<ul>
+					<li>W 56-55</li>
+				</ul>
+				<p>
+			<li>Oakland</li>
+				<ul>
+					<li>L 40-59</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>W 68-50</li>
+				</ul>
+				<p>
+			<li>ABL</li>
+				<ul>
+					<li>L 55-66</li>
+				</ul>
+				<p>
+			<li>Newman</li>
+				<ul>
+					<li>L 49-82</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>W 66-55</li>
+				</ul>
+				<p>
+			<li>Oakland</li>
+				<ul>
+					<li>L 53-70</li>
+				</ul>
+				<p>
+                <li>Tri-Valley</li>
+				<ul>
+					<li>L 44-60</li>
+				</ul>
+				<p>
+                <li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 51-55</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>L 48-49</li>
+				</ul>
+				<p>
+                <li>Deland-Weldon</li>
+				<ul>
+					<li>L 46-59</li>
+				</ul>
+				<p>
+                <li>Armstrong</li>
+				<ul>
+					<li>W 61-58</li>
+				</ul>
+				<p>
+                <li>Unity</li>
+				<ul>
+					<li>L 66-69</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1989-90: Coach Tom Scott (15-7)</h3>
+	<img src="/images/athletics/1990boys.jpg">		
+		<ul>
+			<li>Armstrong</li>
+				<ul>
+					<li>W 57-45</li>
+				</ul>
+				<p>
+			<li>Danville Baptist</li>
+				<ul>
+					<li>W 62-53</li>
+				</ul>
+				<p>
+			<li>Melvin-Sibley</li>
+				<ul>
+					<li>W 59-48</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>L 47-52</li>
+				</ul>
+				<p>
+			<li>Rossville-Alvin</li>
+				<ul>
+					<li>W 88-81</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 63-58</li>
+				</ul>
+				<p>
+			<li>Beecher</li>
+				<ul>
+					<li>L 61-65</li>
+				</ul>
+				<p>
+			<li>Sheldon</li>
+				<ul>
+					<li>L 76-78</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>W 52-50</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 52-58</li>
+				</ul>
+				<p>
+			<li>Oakland</li>
+				<ul>
+					<li>W 61-42</li>
+				</ul>
+				<p>
+			<li>Jacksonville ISD</li>
+				<ul>
+					<li>W 58-56</li>
+				</ul>
+				<p>
+			<li>Peoria Christian</li>
+				<ul>
+					<li>W 67-61</li>
+				</ul>
+				<p>
+			<li>IMSA</li>
+				<ul>
+					<li>L 47-69</li>
+				</ul>
+				<p>
+			<li>Newman</li>
+				<ul>
+					<li>L 58-62</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>W 63-52</li>
+				</ul>
+				<p>
+                <li>Normal Calvary</li>
+				<ul>
+					<li>W 39-37</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>W 71-32</li>
+				</ul>
+				<p>
+                <li>Deland-Weldon</li>
+				<ul>
+					<li>W 58-48</li>
+				</ul>
+				<p>
+                <li>Heritage</li>
+				<ul>
+					<li>W 81-54</li>
+				</ul>
+				<p>
+                <li>St. Joseph Ogden</li>
+				<ul>
+					<li>L 39-60</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1990-91: Tom Scott (10-15)</h3>
+	<img src="/images/athletics/1991boys.jpg">		
+		<ul>
+			<li>Armstrong-Potomac</li>
+				<ul>
+					<li>L 64-81</li>
+				</ul>
+				<p><li>Melvin-Sibley</li>
+				<ul>
+					<li>L 45-56</li>
+				</ul>
+				<p><li>Rossville Alvin</li>
+				<ul>
+					<li>W 69-37</li>
+				</ul>
+				<p><li>Jamaica</li>
+				<ul>
+					<li>L 70-75</li>
+				</ul>
+				<p><li>Deland-Weldon</li>
+				<ul>
+					<li>L 54-65</li>
+				</ul>
+				<p><li>Judah Christian</li>
+				<ul>
+					<li>W 66-35</li>
+				</ul>
+				<p><li>Grant Park</li>
+				<ul>
+					<li>L 36-46</li>
+				</ul>
+				<p><li>Reed-Custer</li>
+				<ul>
+					<li>L 46-64</li>
+				</ul>
+				<p><li>Wilmington</li>
+				<ul>
+					<li>L 53-55</li>
+				</ul>
+				<p><li>Wapella</li>
+				<ul>
+					<li>W 56-51</li>
+				</ul>
+				<p><li>Oakland</li>
+				<ul>
+					<li>L 55-61</li>
+				</ul>
+				<p><li>Goreville</li>
+				<ul>
+					<li>L 54-65</li>
+				</ul>
+				<p><li>IMSA</li>
+				<ul>
+					<li>L 51-54</li>
+				</ul>
+				<p><li>ISD</li>
+				<ul>
+					<li>L 60-69</li>
+				</ul>
+				<p>
+                <p><li>Normal Calvary</li>
+				<ul>
+					<li>W 73-60</li>
+				</ul>
+				<p>
+                <p><li>Newman</li>
+				<ul>
+					<li>L 57-59</li>
+				</ul>
+				<p>
+                <p><li>Normal Calvary</li>
+				<ul>
+					<li>W 57-44</li>
+				</ul>
+				<p>
+                <p><li>Chrisman</li>
+				<ul>
+					<li>L 60-74</li>
+				</ul>
+				<p>
+                <p><li>Heritage</li>
+				<ul>
+					<li>W 83-62</li>
+				</ul>
+				<p>
+                <p><li>Oakland</li>
+				<ul>
+					<li>W 69-66</li>
+				</ul>
+				<p>
+                <p><li>Cissna Park</li>
+				<ul>
+					<li>L 63-82</li>
+				</ul>
+				<p>
+                <p><li>Judah Christian</li>
+				<ul>
+					<li>W 79-56</li>
+				</ul>
+				<p>
+                <p><li>Deland-Weldon</li>
+				<ul>
+					<li>W 65-50</li>
+				</ul>
+				<p>
+                <p><li>Danville Baptist</li>
+				<ul>
+					<li>W 85-63</li>
+				</ul>
+				<p>
+                <p><li>Villa Grove</li>
+				<ul>
+					<li>L 54-76</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1991-92: Coach Tom Scott (5-16)</h3>
+	<img src="/images/athletics/1992boys.jpg">		
+		<ul>
+			<li>Armstrong-Potomac</li>
+				<ul>
+					<li>L 47-79</li>
+				</ul>
+				<p><li>Melvin-Sibley</li>
+				<ul>
+					<li>L 33-34</li>
+				</ul>
+				<p><li>Normal Calvary</li>
+				<ul>
+					<li>L 56-85</li>
+				</ul>
+				<p><li>Rossville-Alvin</li>
+				<ul>
+					<li>L 73-76</li>
+				</ul>
+				<p><li>Jacksonville ISD</li>
+				<ul>
+					<li>L 38-48</li>
+				</ul>
+				<p><li>Wapella</li>
+				<ul>
+					<li>L 54-56</li>
+				</ul>
+				<p><li>Cissna Park</li>
+				<ul>
+					<li>L 31-84</li>
+				</ul>
+				<p><li>Danville Baptist</li>
+				<ul>
+					<li>W 61-53</li>
+				</ul>
+				<p><li>Newman</li>
+				<ul>
+					<li>L 66-74</li>
+				</ul>
+				<p><li>Deland-Weldon</li>
+				<ul>
+					<li>L 49-73</li>
+				</ul>
+				<p><li>Oakland</li>
+				<ul>
+					<li>L 55-64</li>
+				</ul>
+				<p><li>Judah</li>
+				<ul>
+					<li>W 49-43</li>
+				</ul>
+				<p><li>Chrisman</li>
+				<ul>
+					<li>L 47-48</li>
+				</ul>
+				<p><li>Kansas</li>
+				<ul>
+					<li>W 66-64</li>
+				</ul>
+				<p>
+                <p><li>Deland-Weldon</li>
+				<ul>
+					<li>L 60-74</li>
+				</ul>
+				<p>
+                <p><li>Normal Calvary</li>
+				<ul>
+					<li>L 56-66</li>
+				</ul>
+				<p>
+                <p><li>Danville Baptist</li>
+				<ul>
+					<li>W 71-59</li>
+				</ul>
+				<p>
+                <p><li>Jamaica</li>
+				<ul>
+					<li>L 60-76</li>
+				</ul>
+				<p>
+                <p><li>Judah</li>
+				<ul>
+					<li>W 70-56</li>
+				</ul>
+				<p>
+                <p><li>Decatur Christian</li>
+				<ul>
+					<li>W 55-48</li>
+				</ul>
+				<p>
+                
+		</ul>
+	<h3>1992-93: Coach Tom Scott (10-13)</h3>
+	<img src="/images/athletics/1993boys.jpg">		
+		<ul>
+			<li>N/A</li>
+				<p>
+			
+		</ul>
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

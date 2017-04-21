@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">P.E.O  (Philanthropic Education Organization) Star Scholarship for a Senior GIRL</div>
+<div id="image"><img src="/images/athletics/#"></img></div>
+				<div id="section-content">
+				
+<strong>DUE: September 10, 2015</strong>
+
+<p>PEO  is a Philanthropic Education Organization that invests in the education of women.  PEO has a scholarship for young women entering college.  A local PEO chapter would love to recommend a young woman from Uni High  for this scholarship.</p> 
+ 
+<p>Please see the <a href="star-info.pdf">attached flyer</a> for more information.</p>
+ 
+<p>If you are interested in being considered for the scholarship, please complete the following prompts and return them to Kristi Bandy, Uni High School Counselor by 9/10/15 (11:59pm) via email.</p>
+ 
+<p>If more than one senior girl submits responses to the prompts below, Uni's scholarship/awards committee will read and select the senior girl who will be forwarded to PEO for further consideration.</p>
+ 
+ 
+<p>DUE TO KRISTI BANDY, School Counselor,  BY:  9/10/15 (11:59pm) via email kbandy2@illinois.edu)</p>
+ <ol>
+<li> How has your service experience shaped your college and career plans?</li>
+<li> What have you learned in your leadership positions and what impact have you made?</li>
+<li> Why makes you uniquely qualified to represent young women who have academic, service, leadership qualities; in other words, why do you stand out?</li>
+<li>What are your current educational goals?</li></p>
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="ssoSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

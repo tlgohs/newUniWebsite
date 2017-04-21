@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">GIRLS BASKETBALL RESULTS</div>
+
+				<div id="section-content">
+		
+		<h1>1974-83 Results</h1>
+	<h3>1973-74: Coach Gene Merdian (6-16)</h3>	
+	<img src="/images/athletics/1974boys.jpg"/>		
+		
+	<h3>1974-75: Coach Rick Tadelman (0-17)</h3>
+	<img src="/images/athletics/1975boys.jpg">		
+		<ul>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 61-86</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>L 32-112</li>
+				</ul>
+				<p>
+			<li>Hinckley-Big Rock</li>
+				<ul>
+					<li>L 55-104</li>
+				</ul>
+				<p>
+			<li>Westfield</li>
+				<ul>
+					<li>L 63-93</li>
+				</ul>
+				<p>
+			<li>Rossville</li>
+				<ul>
+					<li>L 45-93</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>L 45-68</li>
+				</ul>
+				<p>
+			<li>Lovington</li>
+				<ul>
+					<li>L 45-99</li>
+				</ul>
+				<p>
+			<li>Buckley-Loda</li>
+				<ul>
+					<li>L 38-78</li>
+				</ul>
+				<p>
+			<li>Beason</li>
+				<ul>
+					<li>L 50-101</li>
+				</ul>
+				<p>
+			<li>Cerro Gordo</li>
+				<ul>
+					<li>L 28-87</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 39-51</li>
+				</ul>
+				<p>
+			<li>Rankin</li>
+				<ul>
+					<li>L 37-86</li>
+				</ul>
+				<p>
+			<li>Buckley-Loda</li>
+				<ul>
+					<li>L 48-100</li>
+				</ul>
+				<p>
+			<li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 48-86</li>
+				</ul>
+				<p>
+			<li>Ridgefarm</li>
+				<ul>
+					<li>L 49-92</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1975-76: Coach Randy Model (0-20)</h3>
+	<img src="/images/athletics/1976boys2.jpg">		
+	
+	<h3>1976-77: Coach Randy Model (0-21)</h3>
+	<img src="/images/athletics/1977boys.jpg">		
+		<ul>
+			<li>Westfield</li>
+				<ul>
+					<li>L 20-88</li>
+				</ul>
+				<p>
+			<li>Buckley-Loda</li>
+				<ul>
+					<li>L 47-106</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 48-66</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 45-103</li>
+				</ul>
+				<p>
+			<li>Ill. School for the Deaf</li>
+				<ul>
+					<li>L 32-90</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>L 41-81</li>
+				</ul>
+				<p>
+			<li>Rankin</li>
+				<ul>
+					<li>L 53-98</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 32-69</li>
+				</ul>
+				<p>
+			<li>Ridgefarm</li>
+				<ul>
+					<li>L 35-95</li>
+				</ul>
+				<p>
+			<li>Kansas</li>
+				<ul>
+					<li>L 31-88</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 38-74</li>
+				</ul>
+				<p>
+			<li>Westfield</li>
+				<ul>
+					<li>L 36-66</li>
+				</ul>
+				<p>
+			<li>Unity</li>
+				<ul>
+					<li>L 39-103</li>
+				</ul>
+				<p>
+			
+		</ul>
+	<h3>1977-78: Coach Tom Ball (0-16)</h3>
+	<img src="/images/athletics/1978boys.jpg">		
+		<ul>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 21-56</li>
+				</ul>
+				<p>
+			<li>Ill. School for the Deaf</li>
+				<ul>
+					<li>L 23-63</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 30-71</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>L 31-55</li>
+				</ul>
+				<p>
+			<li>Potomac</li>
+				<ul>
+					<li>L 43-52</li>
+				</ul>
+				<p>
+			<li>Rankin</li>
+				<ul>
+					<li>L 32-62</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 37-82</li>
+				</ul>
+				<p>
+			<li>Melvin-Sibley</li>
+				<ul>
+					<li>L 44-61</li>
+				</ul>
+				<p>
+			<li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 26-78</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>37-81</li>
+				</ul>
+				<p>
+			<li>Rossville</li>
+				<ul>
+					<li>L 44-71</li>
+				</ul>
+				<p>
+			<li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 21-90</li>
+				</ul>
+				<p>
+                
+			<li>Westfield</li>
+				<ul>
+					<li>L 35-65</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>L 28-71</li>
+				</ul>
+				<p>
+			<li>Ridgefarm</li>
+				<ul>
+					<li>L 46-55</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1978-79: Coach Tom Ball (0-18)</h3>
+	<img src="/images/athletics/1979boys.jpg">		
+		<ul>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 58-72</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>L 45-78</li>
+				</ul>
+				<p>
+			<li>ISD</li>
+				<ul>
+					<li>L 33-59</li>
+				</ul>
+				<p>
+			<li>Rossville</li>
+				<ul>
+					<li>L 46-72</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 32-33</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>L 39-73</li>
+				</ul>
+				<p>
+			<li>Rankin</li>
+				<ul>
+					<li>L 25-36</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 31-73</li>
+				</ul>
+				<p>
+			<li>Deland Weldon</li>
+				<ul>
+					<li>L 25-53</li>
+				</ul>
+				<p>
+			<li>Farmer City-Mansfield</li>
+				<ul>
+					<li>L 36-53</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 53-65</li>
+				</ul>
+				<p>
+			<li>Melvin-Sibley</li>
+				<ul>
+					<li>L 43-59</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 35-56</li>
+				</ul>
+				<p>
+			<li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 57-86</li>
+				</ul>
+				<p>
+			<li>St. James</li>
+				<ul>
+					<li>L 34-81</li>
+				</ul>
+				<p>
+			<li>Ridgefarm</li>
+				<ul>
+					<li>L 32-74</li>
+				</ul>
+				<p>
+            <li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 33-85</li>
+				</ul>
+				<p>
+                
+            <li>Unity</li>
+				<ul>
+					<li>L 42-86</li>
+				</ul>
+				<p>    
+             
+		</ul>
+	<h3>1979-80: Coach Tom Ball (5-15)</h3>
+	<img src="/images/athletics/1980boys.jpg">		
+		<ul>
+			<li>Oakland</li>
+				<ul>
+					<li>L 48-50</li>
+				</ul>
+				<p>
+			<li>Ridgefarm</li>
+				<ul>
+					<li>L 50-53</li>
+				</ul>
+				<p>
+			<li>Tower Hills</li>
+				<ul>
+					<li>L 31-51</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>W 46-40</li>
+				</ul>
+				<p>
+			<li>Ill. School for the Deaf</li>
+				<ul>
+					<li>W 68-66</li>
+				</ul>
+				<p>
+			<li>Saybrook-Arrowsimth</li>
+				<ul>
+					<li>L 51-99</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>L 46-60</li>
+				</ul>
+				<p>
+			<li>R-A</li>
+				<ul>
+					<li>L 42-83</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 45-59</li>
+				</ul>
+				<p>
+			<li>ABL</li>
+				<ul>
+					<li>L 48-50</li>
+				</ul>
+				<p>
+               
+			<li>Shiloh</li>
+				<ul>
+					<li>L 53-71</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>W 70-59</li>
+				</ul>
+				<p>
+			<li>Rankin</li>
+				<ul>
+					<li>W 62-43</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>W 63-56</li>
+				</ul>
+				<p>
+			<li>Ridgefarm</li>
+				<ul>
+					<li>L 39-41</li>
+				</ul>
+				<p>
+			<li>Melvin-Sibley</li>
+				<ul>
+					<li>L 40-47</li>
+				</ul>
+				<p>
+                <li>ABL</li>
+				<ul>
+					<li>L 52-58</li>
+				</ul>
+				<p>
+                <li>Tri-Valley</li>
+				<ul>
+					<li>L 40-64</li>
+				</ul>
+				<p>
+                <li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 47-72</li>
+				</ul>
+				<p>
+            
+		</ul>
+	<h3>1980-81: Coach Mike Lindemann (7-17)</h3>
+	<img src="/images/athletics/1981boys.jpg">		
+		<ul>
+      
+			<ul>
+			<li>Oakland</li>
+				<ul>
+					<li>W 49-47</li>
+				</ul>
+				<p>
+                <ul>
+			<li>Tower Hill</li>
+				<ul>
+					<li>L 45-61</li>
+				</ul>
+				<p>
+                <ul>
+			<li>Ridgefarm</li>
+				<ul>
+					<li>L 51-60</li>
+				</ul>
+				<p>
+                <li>Bellflower</li>
+				<ul>
+					<li>W 63-47</li>
+				</ul>
+				<p>
+                <li>ISD</li>
+				<ul>
+					<li>L 49-66</li>
+				</ul>
+				<p>
+                <li>Wapella</li>
+				<ul>
+					<li>L 44-45</li>
+				</ul>
+				<p>
+                <li>Rossvile-Alvin</li>
+				<ul>
+					<li>L 48-68</li>
+				</ul>
+				<p>
+                <li>Tri-Valley</li>
+				<ul>
+					<li>L 62-83</li>
+				</ul>
+				<p>
+                <li>Westfield</li>
+				<ul>
+					<li>L 52-73</li>
+				</ul>
+				<p>
+                <li>Moweaqua</li>
+				<ul>
+					<li>W 51-48</li>
+				</ul>
+				<p>
+                <li>Arcola</li>
+				<ul>
+					<li>L 28-39</li>
+				</ul>
+				<p>
+                <li>Rankin</li>
+				<ul>
+					<li>L 55-60</li>
+				</ul>
+				<p>
+                <li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>W 55-53</li>
+				</ul>
+				<p>
+                <li>Tri-Valley</li>
+				<ul>
+					<li>L 40-54</li>
+				</ul>
+				<p>
+                <li>Ridgefarm</li>
+				<ul>
+					<li>L 47-64</li>
+				</ul>
+				<p>
+                <li>Melvin-Sibley</li>
+				<ul>
+					<li>L 50-53</li>
+				</ul>
+				<p>
+                <li>Wapella</li>
+				<ul>
+					<li>L 63-67</li>
+				</ul>
+				<p>
+                <li>ABL</li>
+				<ul>
+					<li>W 63-61</li>
+				</ul>
+				<p>
+                <li>Homer</li>
+				<ul>
+					<li>L 52-57</li>
+				</ul>
+				<p>
+                <li>Cornell</li>
+				<ul>
+					<li>W 65-52</li>
+				</ul>
+				<p>
+                <li>Bellflower</li>
+				<ul>
+					<li>W 53-49</li>
+				</ul>
+				<p>
+                <li>Newman</li>
+				<ul>
+					<li>L 48-71</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1981-82: Coach Mike Lindemann (6-13)</h3>
+	<img src="/images/athletics/1982boys.jpg">		
+		<ul>
+			<li>Unity</li>
+				<ul>
+					<li>L 35-71</li>
+				</ul>
+				<p>
+                <li>Deland-Weldon</li>
+				<ul>
+					<li>L 32-45</li>
+				</ul>
+				<p>
+                <li>Oakland</li>
+				<ul>
+					<li>L 48-52</li>
+				</ul>
+				<p>
+                <li>Lovington</li>
+				<ul>
+					<li>W 55-54</li>
+				</ul>
+				<p>
+                <li>Bellflower</li>
+				<ul>
+					<li>W 48-45</li>
+				</ul>
+				<p>
+                 <li>Rossville-Alvin</li>
+				<ul>
+					<li>L 44-59</li>
+				</ul>
+				<p>
+                 <li>Wapella</li>
+				<ul>
+					<li>L 45-62</li>
+				</ul>
+				<p>
+                 <li>Tri-Valley</li>
+				<ul>
+					<li>W 58-41</li>
+				</ul>
+				<p>
+                 <li>Rankin</li>
+				<ul>
+					<li>L 47-67</li>
+				</ul>
+				<p>
+                 <li>Tri-Valley</li>
+				<ul>
+					<li>W 56-40</li>
+				</ul>
+				<p>
+                 <li>Melvin-Sibley</li>
+				<ul>
+					<li>L 59-62</li>
+				</ul>
+				<p>
+                 <li>ABL</li>
+				<ul>
+					<li>L 45-56</li>
+				</ul>
+				<p>
+                 <li>Wapella</li>
+				<ul>
+					<li>L 46-49</li>
+				</ul>
+				<p>
+                 <li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 58-63</li>
+				</ul>
+				<p>
+                 <li>Newman</li>
+				<ul>
+					<li>W 77-49</li>
+				</ul>
+				<p>
+                 <li>Cornell</li>
+				<ul>
+					<li>L 65-66</li>
+				</ul>
+				<p>
+                 <li>Bellflower</li>
+				<ul>
+					<li>W 68-52</li>
+				</ul>
+				<p>
+                 <li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 60-76</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1982-83: Coach Mike Lindemann (1-19)</h3>
+	<img src="/images/athletics/1983boys.jpg">		
+		<ul>
+			<li>Unity</li>
+				<ul>
+					<li>L 46-85</li>
+				</ul>
+				<p>
+			<li>Mowequa</li>
+				<ul>
+					<li>L 38-64</li>
+				</ul>
+				<p>
+			<li>Oakland</li>
+				<ul>
+					<li>L 46-73</li>
+				</ul>
+				<p>
+			<li>Lovington</li>
+				<ul>
+					<li>L 46-65</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>L 45-76</li>
+				</ul>
+				<p>
+			<li>Rossvillle-Alvin</li>
+				<ul>
+					<li>L 48-50</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 47-50</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 49-77</li>
+				</ul>
+				<p>
+			<li>Rankin</li>
+				<ul>
+					<li>L 57-79</li>
+				</ul>
+				<p>
+			<li>Saybrook-Arrowsmith</li>
+				<ul>
+					<li>L 43-64</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 49-60</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 46-44</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>L 33-67</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 25-41</li>
+				</ul>
+				<p>
+			<li>Wapella</li>
+				<ul>
+					<li>L 34-68</li>
+				</ul>
+				<p>
+			<li>Newman</li>
+				<ul>
+					<li>L 50-67</li>
+				</ul>
+				<p>
+			<li>Leroy</li>
+				<ul>
+					<li>L 31-77</li>
+				</ul>
+				<p>
+			<li>Bellflower</li>
+				<ul>
+					<li>L 64-87</li>
+				</ul>
+				<p>
+			
+		</ul>
+		
+				
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

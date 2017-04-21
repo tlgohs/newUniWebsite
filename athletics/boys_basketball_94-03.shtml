@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">GIRLS BASKETBALL RESULTS</div>
+
+				<div id="section-content">
+		
+		
+		<h1>1994-03 Results</h1>
+
+
+	<h3>1993-94: Coach Ray Driskell (8-14) </h3>	
+	<img src="/images/athletics/1994boys.jpg">		
+		<ul>
+			<li>N/A</li>
+				
+				<p>
+		
+		</ul>
+	<h3>1994-95: Coach Ray Driskell (10-15)</h3>
+	<img src="/images/athletics/1995boys.jpg">		
+		<ul>
+			<li>N/A</li>
+				
+				<p>
+			
+		</ul>
+	<h3>1995-96: Coach Joel Beesley (2-23)</h3>
+	<img src="/images/athletics/1996boys.jpg">		
+		<ul>
+			<li>N/A</li>
+				
+				<p>
+			
+		</ul>
+	<h3>1996-97: Coach Joel Beesley (8-16)</h3>
+	<img src="/images/athletics/1997boys.jpg">		
+		<ul>
+			<li>N/A</li>
+				
+				<p>
+			
+		</ul>
+	<h3>1997-98: Coach Joel Beesley (4-19)</h3>
+	<img src="/images/athletics/1998boys.jpg">		
+		<ul>
+			<li>N/A</li>
+				
+				<p>
+			
+		</ul>
+	<h3>1998-99: Coach Joel Beesley (11-12)</h3>
+	<img src="/images/athletics/1999boys2.jpg">		
+		<ul>
+			<li>Atwood Hammond</li>
+				<ul>
+					<li>L 46-51</li>
+				</ul>
+				<p>
+			<li>Oakland</li>
+				<ul>
+					<li>L 29-49</li>
+				</ul>
+				<p>
+			<li>Iliopolis</li>
+				<ul>
+					<li>W 58-47</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 36-49</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>L 48-50</li>
+				</ul>
+				<p>
+			<li>GCMS</li>
+				<ul>
+					<li>L 46-59</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>W 53-50</li>
+				</ul>
+				<p>
+			<li>Blue Ridge</li>
+				<ul>
+					<li>W 58-51</li>
+				</ul>
+				<p>
+			<li>Watseka</li>
+				<ul>
+					<li>L 44-57</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 53-49</li>
+				</ul>
+				<p>
+			<li>Milford</li>
+				<ul>
+					<li>L 43-50</li>
+				</ul>
+				<p>
+			<li>Hoopeston</li>
+				<ul>
+					<li>W 73-63</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 65-55</li>
+				</ul>
+				<p>
+			<li>PBL</li>
+				<ul>
+					<li>L 66-76</li>
+				</ul>
+				<p>
+			<li>Iroquois West</li>
+				<ul>
+					<li>W 47-42</li>
+				</ul>
+				<p>
+			<li>Rossville Alvin</li>
+				<ul>
+					<li>L 47-55</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>W 48-39</li>
+				</ul>
+				<p>
+                <li>Tri-Valley</li>
+				<ul>
+					<li>W 54-48</li>
+				</ul>
+				<p>
+                <li>LeRoy</li>
+				<ul>
+					<li>L 53-72</li>
+				</ul>
+				<p>
+                <li>Fisher</li>
+				<ul>
+					<li>L 42-52</li>
+				</ul>
+				<p>
+                <li>GCMS</li>
+				<ul>
+					<li>W 57-34</li>
+				</ul>
+				<p>
+                <li>Blue Ridge</li>
+				<ul>
+					<li>W 52-50</li>
+				</ul>
+				<p>
+                <li>PBL (Regional)</li>
+				<ul>
+					<li>L 70-71</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>1999-00: Coach Joel Beesley (10-13)</h3>
+	<img src="/images/athletics/2000boys2.jpg">		
+		<ul>
+			<li>N/A</li>
+				
+				<p>
+			
+		</ul>
+	<h3>2000-01: Coach Joel Beesley (7-17)</h3>
+	<img src="/images/athletics/2001boys.jpg">		
+		<ul>
+			<li>N/A<li>
+		</ul>
+	<h3>2001-02: Coach Joel Beesley (7-18)</h3>
+	<img src="/images/athletics/2002boys.jpg">		
+		<ul>
+			<li>N/A<li>
+		</ul>
+	<h3>2002-03: Coach Joel Beesley (9-17)</h3>
+	<img src="/images/athletics/2003boys.jpg">		
+		<ul>
+			<li>Bement</li>
+				<ul>
+					<li>L 40-46</li>
+				</ul>
+				<p>
+			<li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 67-19</li>
+				</ul>
+				<p>
+			<li>St. Thomas More</li>
+				<ul>
+					<li>L 34-60</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 62-47</li>
+				</ul>
+				<p>
+			<li>GCMS</li>
+				<ul>
+					<li>L 65-75</li>
+				</ul>
+				<p>
+			<li>Hoopeston Area</li>
+				<ul>
+					<li>L 31-60</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>L 41-76</li>
+				</ul>
+				<p>
+			<li>Watseka</li>
+				<ul>
+					<li>L 52-60</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 62-53</li>
+				</ul>
+				<p>
+			<li>Danville Baptist</li>
+				<ul>
+					<li>W 73-62</li>
+				</ul>
+				<p>
+			<li>Blue Ridge</li>
+				<ul>
+					<li>L 46-65</li>
+				</ul>
+				<p>
+			<li>Armstrong-Potomac</li>
+				<ul>
+					<li>L 20-69</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 69-47</li>
+				</ul>
+				<p>
+			<li>Iroqouis West</li>
+				<ul>
+					<li>L 37-72</li>
+				</ul>
+				<p>
+			<li>CPCI</li>
+				<ul>
+					<li>L 42-75</li>
+				</ul>
+				<p>
+			<li>Tri-Valley</li>
+				<ul>
+					<li>L 34-63</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 63-56</li>
+				</ul>
+				<p>
+			<li>LeRoy (SVC Tournament)</li>
+				<ul>
+					<li>L 39-61</li>
+				</ul>
+				<p>
+			<li>Rossville-Alvin (SVC)</li>
+				<ul>
+					<li>W 60-51</li>
+				</ul>
+				<p>
+                <li>Blue Ridge (SVC)</li>
+				<ul>
+					<li>L 43-58</li>
+				</ul>
+				<p>
+                <li>PBL</li>
+				<ul>
+					<li>L 22-78</li>
+				</ul>
+				<p>
+                 <li>Rossville-Alvin</li>
+				<ul>
+					<li>W 41-35</li>
+				</ul>
+				<p>
+                 <li>Fisher</li>
+				<ul>
+					<li>L 52-60</li>
+				</ul>
+				<p>
+                 <li>St. Thomas Moore</li>
+				<ul>
+					<li>L 44-47</li>
+				</ul>
+				<p>
+                 <li>Milford</li>
+				<ul>
+					<li>W 61-53</li>
+				</ul>
+				<p>
+                 <li>Villa Grove (Regionals)</li>
+				<ul>
+					<li>L 24-52</li>
+				</ul>
+				<p>
+		</ul>		
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

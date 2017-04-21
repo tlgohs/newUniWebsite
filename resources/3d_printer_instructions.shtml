@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=4;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">3D PRINTER INSTRUCTIONS</div>
+
+				<div id="section-content">
+				
+<p><h3>Tips, Guidelines, and Information:</h3>
+<ul>
+<li>Don’t use more than 3000 mm of filament on a print without permission.</li>
+<li>No prints past the end of school without permission.</li>
+<li>Long prints must be periodically checked.</li>
+<li>Make sure that the extruder and print beds are clean before printing.</li>
+<li>Don’t touch the extruder, print bed, or product during printing.</li>
+<li>Don't cancel a print without permission from the user or a teacher.</li>
+<li>Completed prints may be removed from print beds and carefully placed on the counter.</li>
+<li>The desktop SimpleMaker and the two Lulzbots use different types of filament.</li>
+</ul>
+</p>
+
+<p> <img src="../images/resources/Printer1.png"/></p>
+
+			
+<p>
+<h3>Changing Filament for desktop SimpleMaker:</h3>
+<ol>
+<li>Open Repetier-Host.</li>
+<li>Raise the Extruder 1 temperature slider to 210 degrees Celsius.</li>
+<li>Press down on the left end of the lever above the gears (A).</li>
+<li>Pull up on the filament until it comes out.</li>
+<li>Push the new filament into the hole (B). Keep pushing for 10-20 seconds.</li>
+<li>Release the lever.</li>
+<li>Lower extruder temperature or begin printing.</li>
+<li>Some of the old color may come out before the new color works its way through.</li>
+</ol>
+</p>
+<p><img src="../images/resources/Printer2.png"></p>
+<p><h3>For TAZ Lulzbot and Lulzbot Mini:</h3>
+<ol>
+<li>Open Cura.</li>
+<li>Load any model to Cura.</li>
+<li>Click “control” and then “connect”</li>
+<li>Set extruder temperature to 210 degrees Celsius</li>
+<li>Squeeze the left end of the assembly above the gears (A) and pull up.</li>
+<li>Pull filament out, then remove the spool from the rack.</li>
+<li>Place the new spool on the rack and feed the filament into the hole (B).</li>
+<li>Push the filament into the hole for 10-20 seconds.</li>
+<li>Squeeze the same part as in step 5 and push down and left so that it clamps around the gears and the gears (C) clamp on the filament.</li>
+<li>Lower extruder temperature or begin printing.</li>
+<li>Some of the old color may come out before the new color works its way through.</li>
+</ol>
+</p>
+<p><h3>for Desktop 3D Printer:</h3>
+Pre-steps:
+<ul>
+<li>Make sure printing bed is empty and covered in painter's tape.</li>
+<li>Make sure that the color filament you want is correctly connected to the extruder.</li>
+</ul>
+Steps:
+<ol>  
+<li>Open Repetier-Host (the Repetier-Host icon is a cube with R’s on its faces and it is located on the toolbar).</li>
+<li>Click File at the top left and load your model (make sure that your file is saved as an .stl).</li>
+<li>Click slicer tab on the right side.</li>
+<li>Click “slice with slicer”. </li>
+</ol>
+<ul>
+<li>If you do not like how the model was sliced, you can attempt to slice with either “Slicer”, “Cura engine”, or “Slic3r”.</li>
+</ul>
+<ol start="5">
+<li>Click preview, then click on “object placement” and click the icon with the triangle without any arrows (scale object). </li>
+<li>Change the x value. x<1 to make the model smaller and x>1 to make it larger.<br>
+Once you scale the object to the desired size, repeat steps 3 and 4. </li>
+<li>Next click “connect” in the top left corner. Wait until the icon turns green. </li>
+<li>Click “Manual Control” and click on the three house-shaped icons with the letters x, y, and z.</li>
+<li>Set the settings as follows: Extruder Heat: 200, Feedrate: 100, Fan: 100, Flow Rate: 100. </li>
+<li>Click “Start Print,” located at the top left corner. Allow the printer several minutes to start printing.</li>
+<li>Increase the feed rate to 200 after the first layer of print has completed. (this will decrease the amount of time required but lower the precision of the print.)</li>
+<li>Wait for the object to cool down before removing it. </li>
+</ol>
+</p>
+<P><h3>TAZ LULZBOT 3D Printer:</h3>
+
+Pre-steps:
+<ul>
+<li>Make sure that the filament connected to the printer has the color that you want.</li>
+<li>Make sure that the filament is correctly connected to the printer.</li>
+</ul>
+Steps:
+<ol>
+<li>Save your 3d model on the laptop as an .stl file, then load it by using right click to select Cura (If this does not work, then open Cura first then load your model using File-->Load Model.)</li>
+<li>Once the model is loaded, check the left bar labeled “Material ease of use:” and make sure that the settings are on “Beginner”, “HIPS (eSUN)”, and “Standard”.</li>
+<li>Next, scale your model: click on the model, click “Scale” in the bottom left corner, then adjust Scale X. Do not use more than 3 meters of filament.</li>
+<li>Click on “Control” at the top left corner and a small window should pop up. In that window, click on the top left corner where it says “Connect”.</li>
+<li>Once the printer is finished connecting, click on the green house shaped figure near the bottom left of the small window.</li> 
+<li>Make sure that there are no remaining pieces of plastic or filament from previous prints on the printer bed and on the tip of the extruder. If there are, remove them using scrapers or other tools that are available on the desk. </li>
+<li>Next, set the Temperature at 210 C and the Bed Temperature at 100 C.</li>
+<li>Wait for the printer to reach the desired temperature (it should show the current temperature at the top of the window), then click Print. (It is normal for the printer to rise in temperature, then drop. Eventually the printer will reach the temperature it needs).</li>
+<li>The printer will print an outline before printing the model itself. After the first layer, you may change the setting on the “Material ease of use:” bar to High Speed or High Detail, depending on your needs. </li>
+	<li>After printing, let the model cool for 5-10 minutes before removing it.</li>
+</ol>
+**Note: If the model is not sticking to the surface of the bed during the print, this means that the bed must be cleaned. Make sure that you ask a teacher to clean the surface of the bed as specific materials are required for proper cleaning. 
+
+</p>
+
+<p>
+<h3>LULZBOT MINI 3D printer:</h3>
+Pre-steps:
+<ul>
+<li>Make sure that the filament connected to the printer has the color that you want</li>
+</ul>
+Steps:
+<ol>
+<li>Save your 3d model on the laptop as an .stl file, then load it by using right click to select Cura (If this does not work, then open Cura first then load your model using File-->Load Model.)</li>
+<li>Once the model is loaded, check the left bar labeled “Material ease of use:” and make sure that the settings are on “Beginner”, “HIPS (eSUN)”, and “Standard”.</li>
+<li>Next, scale your model: click on the model, click “Scale” in the bottom left corner, then adjust Scale X. Do not use more than 3 meters of filament.</li>
+<li>Click on “Control” at the top left corner and a small window should pop up. In that window, click on the top left corner where it says “Connect”.</li>
+<li>Once the printer is finished connecting, click on the green house shaped figure near the bottom left of the small window. </li>
+<li>Next set the Temperature at 210 C and the Bed Temperature at 100 C.</li>
+<li>Wait for the printer to reach the desired temperature (it should show the current temperature at the top of the window), then click Print. (It is normal for the printer to rise in temperature, then drop. Eventually the printer will reach the temperature it needs).</li>
+<li>The printer will print an outline before printing the model itself. After the first layer, you may change the setting on the “Material ease of use:” bar to High Speed or High Detail, depending on your needs. </li>
+<li>After printing, let the model cool for 5-10 minutes before removing it. </li>
+</ol>
+
+**Note: If the model is not sticking to the surface of the bed during the print, this means that the bed must be cleaned. Make sure that you ask a teacher to clean the surface of the bed as specific materials are required for proper cleaning. 
+
+
+
+</p>
+			
+<p>
+<h3>AiO 3D Printer</h3>
+<ul>
+ <li>Filament feed is internal. Only change it with assistance of a teacher (it only works with a certain type of filament).</li>
+</ul>
+<ol>
+<li>Connect the laptop to the printer using the white USB cable. Plug the flat, rectangular USB end into the laptop and the other end into the printer.</li>
+<li>Open XYZware*. Click on the downward pointing arrow (circled in purple).</li>
+</ol>
+<img src="../images/resources/Printer3.png"/>
+<ol start="3">
+<li>Open the file that you would like to print. It should be a .stl file to be compatible with the XYZware program*. </li>
+</ol>
+<img src="../images/resources/Printer4.png"/>
+<ol start="4">
+<li>Click on the square on the left side of the page with four arrows pointing in opposite directions. Center the object on the printing platform. Click “Land” (the option just below the sliders) to ensure the object is flat on the platform.</li>
+</ol>
+<img src="../images/resources/Printer5.png"/>
+<ol start="5">
+<li>Click on the fourth option in the top bar, circled in purple below. Check to make sure that everything looks all right. The quality should say "Good"</li>
+<img src="../images/resources/Printer6.1.png"/><br>
+<img src="../images/resources/Printer6.png"/>
+<li> Retrieve the green glue stick. Open the printer door. Glide a thin layer of glue onto the area of the platform that the extruder will print on. Close the printer door firmly when you are done.</li>
+<li>Return to your laptop and click print. The program will complete the slicing of the object. You may have to wait a couple of minutes.</li>
+<li>The screen should return to an image of the object on the printer platform when slicing is complete. Wait for the extruder to begin moving on its own.</li> 
+<li>Check the screen on the printer for an estimate of how long your project will take to complete*. Wait for your project to finish.</li>
+<li>Wait for the platform to cool once your project has finished. The screen on the printer will indicate when it is at a safe temperature. Loosen the object from the printer bed with tweezers.</li>
+ <li>Gently lift your object off the platform.</li>
+*Items to Note:<br>
+-Click “cancel” if XYZware asks if you would like to update the software. Update after you are done with your project. <br> 
+-Thingiverse.com has great, free, pre-programmed models that you can download and save onto your computer as .stl files <br>
+-Do not print anything that is over 3,000 millimeters if it is not for a specific school project.<br>
+-Check your project every hour to make sure that everything is working properly, especially if your printing job will take more than a couple of hours,. <br>
+-To kill your printing job, go to the screen on the printer and click the button labeled “Ok.” A list will come up with “pause” and “cancel” as your options. Click cancel and wait for the printer to respond. 
+
+</p>
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

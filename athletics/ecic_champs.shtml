@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=4;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">EAST CENTRAL ILLINOIS CONFERENCE CHAMPIONS</div>
+				<div id="image"><img src="/images/NewECICgreen.jpg"></img></div>
+				<div id="section-content">
+				
+<h1> ECIC Season and Tournament Champions </h1>
+<p>Unless otherwise stated, conference champions are the same as the tournament champions.</p>
+
+	<p><h2>Boys Basketball</h2></p>
+	    <ul>
+	        <li>07: Uni</li>
+	        <li>09: Normal Calvary Baptist & Uni</li>
+	        <li>10: Uni & Judah Christian</li>
+	        <li>11: Decatur Christian & Judah Christian [Tourney Champs: Judah Christian]</li>
+	        <li>13: Judah Christian [Tourney Champs: Decatur Lutheran]</li>
+	        <li>14: Judah Christian [Tourney Champs: Decatur Lutheran]</li>
+	        <li>15: Arthur Okaw Christian [Tourney Champs: Uni]</li>
+	   </ul>
+	   <p><h2>Boys Soccer</h2></p>
+	    <ul>
+	        <li>07: Judah Christian</li>
+	        <li>08: Uni</li>
+	   </ul>
+	   <p><h2>Boys Baseball</h2></p>
+	    <ul>
+	        <li>12: Bloomington Cornerstone Christian, Decatur Christian, Decatur Lutheran</li>
+	   </ul>
+	   <p><h2>Girls Soccer</h2></p>
+	    <ul>
+	        <li>07: Uni</li>
+	        <li>08: Decatur Lutheran</li>
+	        <li>10: Uni</li>
+	        <li>11: Decatur Lutheran</li>
+	        <li>12: Decatur Lutheran</li>
+	   </ul>
+	<p><h2>Girls Volleyball</h2></p>
+	    <ul>
+	    	<li>07: Decatur Lutheran</li>
+	        <li>08: Decatur Lutheran</li>
+	        <li>09: Decatur Lutheran</li>
+	    	<li>10: Decatur Lutheran</li>
+	    	<li>11: Deland Weldon [Tourney Champs: Decatur Lutheran]</li>
+        	<li>12: Deland Weldon</li>
+	       	<li>13: Deland Weldon</li>
+	    </ul> 
+	<p><h2>Girls Basketball</h2></p>
+	    <ul>
+	    	<li>07: Decatur Lutheran</li>
+	        <li>09: Decatur Lutheran</li>
+	    	<li>10: Decatur Lutheran</li>
+	    	<li>11: Judah Christian & Uni [Tourney Champs: Decatur Christian]</li>
+        	<li>12: Decatur Lutheran</li>
+	       	<li>14: Decatur Lutheran</li>
+	       	<li>15: Uni [Tourney: Normal Calvary Christian]</li>
+	    </ul>   	  	
+</div>
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

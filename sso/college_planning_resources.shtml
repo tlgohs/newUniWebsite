@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">COLLEGE PLANNING RESOURCESiv>
+
+				<div id="section-content">
+				
+<p><p><strong>Resource and Description</strong></p>
+<ul>
+	<li><strong>ACT, Inc</strong><br>
+		<a href="http://www.act.org">www.act.org</a><br>
+		Managed by the ACT test makers, this site allows you to practice and register for the ACT test.</li>
+	<li><strong>College Board</strong><br>
+		<a href="http://www.collegeboard.com">www.collegeboard.com</a><br>
+		Managed by the makers of the SAT, this site allows you to practice and register for the SAT I &amp; II tests. You can also fill out a CSS/Profile online and submit it for financial aid.</li>
+	<li><strong>The Princeton Review</strong><br>
+		<a href="http://www.princetonreview.com">www.princetonreview.com</a><br>
+		The web site contains free online courses for the ACT and SAT. You can also research colleges here; the web site has a nifty college search tool (called the Counselor-o-matic) that takes your needs and wants and sorts a list of colleges into safety, target, and reach schools. This web site is PCC recommended!</li>
+	<li><strong>Kaplan Educational Centers</strong><br>
+		<a href="http://www.kaplan.com">www.kaplan.com</a><br>
+		The web site contains links to Kaplan's courses. Course subjects include the SAT I &amp; II and the ACT.</li>
+	<li><strong>American Universities</strong><br>
+		<a href="http://www.clas.ufl.edu/au">http://www.clas.ufl.edu/au</a><br>
+		The web site contains a large list of links to American universities, listed in alphabetical order. The links all lead to their respective univerisity home pages.</li>
+	<li><strong>The Common Application</strong><br>
+		<a href="http://www.commonapp.org">www.commonapp.org</a><br>
+		The web site dedicated to the Common Application. The Common Application is an application that you can submit to any one of 241 universities. (Be sure to check whether the college you are applying to accepts the Common Application.) You can either complete the application online, or download it and print it out via pdf files.</li>
+	<li><strong>National Collegiate Athletic Association</strong><br>
+		<a href="http://www.ncaa.org">www.ncaa.org</a><br>
+		This is the home page of the NCAA. If you plan on participating in college athletics, this web site may contain some useful information.</li>
+	<li><strong>College Zone</strong><br>
+		<a href="http://www.collegezone.com">www.collegezone.com</a><br>
+		This web site is managed by the Illinois Student Assistance Commission (ISAC). The web site contains general information and advice on what to look for in a college.</li>
+	<li><strong>FastWEB Scholarship Search</strong><br>
+		<a href="http://www.fastweb.com">www.fastweb.com</a><br>
+		The web site searches an extensive database of scholarships based on your interests and talents. This place has one of the largest listings of scholarships on the web, so if you have just started looking for scholarships, this is a good place to start. www.fastweb.com</li>
+	<li><strong>US Department of Education</strong><br>
+		<a href="http://www.ed.gov">www.ed.gov</a><br>
+		You can find information on federal student aid here. There is also an online FAFSA form that can be filled out and submitted.</li>
+	<li><strong>FAFSA Completion</strong><br>
+		<a href="http://www.fafsa.ed.gov">www.fafsa.ed.gov</a><br>
+		This is the US Department of Education web site dedicated specifically for the Free Application for Federal Student Aid (FAFSA). You can fill out and submit the FAFSA online and later check status, make corrections to a processed FAFSA and get other information.</li>
+	<li><strong>Financial Aid Info</strong> The web site is a guide to the various forms of financial aid available.</li>
+</ul>
+</p></div>
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

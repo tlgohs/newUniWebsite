@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">SWIM RECORDS</div>
+				<div id="image"><img src="/images/athletics/swim_record.jpg"></img></div>
+				<div id="section-content">
+				
+<table class="formatted" width="100%"><tbody>
+<tr><td>200 Medley Relay</td><td>Claire Dickerson, Ema Rajic, Lauren Monahan, Sarah Lee</td><td>1:52.11</td><td>2015</td></tr>
+<tr><td>200 Freestyle</td><td>Ema Rajic</td><td>1:53.48</td><td>2016</td></tr>
+<tr><td>200 IM</td><td>Ema Rajic</td><td>2:00.23</td><td>2016</td></tr>
+<tr><td>50 Freestyle</td><td>Ema Rajic</td><td>24:18</td><td>2016</td></tr>
+<tr><td>6 Dives</td><td>Betsy Ruckman</td><td>147.75</td><td>2016</td></tr>
+<tr><td>11 Dives</td><td>Betsy Ruckman</td><td>252.80</td><td>2016</td></tr>
+<tr><td>100 Butterfly</td><td>Ema Rajic</td><td>56.93</td><td>2016</td></tr>
+<tr><td>100 Freestyle</td><td>Lisa Boyce</td><td>52.14</td><td>2008</td></tr>
+<tr><td>500 Freestyle</td><td>Megan Flynn</td><td>5:01.50</td><td>1994</td></tr>
+<tr><td>200 Freestyle Relay</td><td>Claire Michael, Claire Dickerson, Maddie Nelson, Ema Rajic</td><td>1:40.53</td><td>2014</td></tr>
+<tr><td>100 Backstroke</td><td>Lisa Boyce</td><td>56.47</td><td>2008</td></tr>
+<tr><td>100 Breastroke</td><td>Ema Rajic</td><td>1:00.77</td><td>2016</td></tr>
+<tr><td>400 Freestyle</td><td>Sarah Lee, Lauren Monahan, Maddie Nelson, Ema Rajic</td><td>3:42.23</td><td>2015</td></tr>
+</tbody></table>
+
+
+</div>
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=3;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">EAST CENTRAL ILLINOIS CONFERENCE (ECIC)</div>
+				<div id="image"><img src="/images/NewECICgreen.jpg"></img></div>
+				<div id="section-content">
+				<p>The East Central Illinois Conference member schools have formed this athletic conference based on equity of competition and proximity of location. All activities shall be conducted with the knowledge that we are a conference of different missions and we will always be respectful of our differences and will strive to maintain a comfortable atmosphere for all of our visitors. Communication is essential to the existence of any partnership therefore, the ECIC recognizes the importance of good communication between member schools.</p>
+
+<p>The following are the sports offered by the East Central Illinois Conference:</p>
+<h3>Fall Sports</h3>
+<ul><li>Boys Soccer</li>
+<li>Girls Volleyball</li></ul>
+<h3>Winter Sports</h3>
+<ul><li>Boys Basketball</li>
+<li>Girls Basketball</li></ul>
+<h3>Spring Sports</h3>
+<ul><li>Baseball</li>
+<li>Girls Soccer</li></ul>
+
+</div>
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

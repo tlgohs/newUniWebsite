@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">SSO STAFF</div>
+<div id="image"><img src="/images/sso/#"></img></div>
+				<div id="section-content">
+				
+
+<img src="../images/sso/micele lisa.jpg">
+<h2>Lisa Micele - Director of College Counseling</h2>
+<p>Lisa Micele (<a href="mailto:lmicele@illinois.edu">lmicele</a>) serves as the Director of College Counseling -- overseeing the formal college college process for juniors and seniors.
+She also serves as the Head of Counseling of the Student Services Office and coordinates/ supervises the Peer College Counseling program. 
+Lisa actively participates in professional organizations and college visitation programs to further enhance not only her knowledge of various college campuses but also 
+the professional visibility of University Laboratory High School nationwide. She is an active member in IACAC (Illinois Association for College Admission Counseling) and 
+NACAC (National Association for College Admission Counseling) -- and regularly presents at regional, state and national conferences. She serves on various state &amp; national advisory 
+/ scholarship selection committees, and is currently a "college counselor advisor" to the national Fiske College Guide series. 
+She serves as an instructor for the Principals Scholars Program on the University of Illinois campus -- instructing students and their families (from surrounding high schools) 
+on the college selection &amp; application process. Lisa joined Uni High in 1993. While at Uni, she has received the "Teacher of the Year" award in 1995, the Yearbook Dedication in 1997,
+and was asked to give the commencement address for the Class of 1994. In 2000, Lisa received the CAPE (Chancellor's Academic Professional for Excellence) Award on the University of Illinois campus
+-- nominated for her work contributions, personal contributions, and professional contributions as an academic professional on campus. 
+The Illinois Association for College Admission Counseling awarded Mrs. Micele the "Newcomer Award" in 1997, and the "President's Service Recognition Award" for strong and consistent 
+leadership to IACAC in 2003. Lisa received both her B.S. and M.Ed. degrees from the University of Illinois at Urbana-Champaign, and completed a second M.A. degree in School Counseling 
+from Lewis University. She holds a Type 73 endorsement -- earning School Counselor Certification in the state of Illinois.</p>
+<hr><br>
+
+<img src="../images/sso/bandy kristi.jpg">
+<h2>Kristi Bandy - School Counselor </h2>
+<p>Kristi Bandy (<a href="mailto:kbandy2@illinois.edu">kbandy2</a>) is a big Illinois sports fan! She is a University of Illinois alumna, receiving her Bachelor of Science in Psychology in 2009.  Kristi then received her Master of Social Work in 2011 from Loyola University Chicago with a specialization in schools and concentration in children and family studies.  She has experience working with students K-12 as a school social worker and as a school crisis counselor.  She is a previous coach who enjoys sharing her love for the game by reinforcing fundamental skills, hard work ethic, sportsmanship, and teamwork.  Most recently, Kristi has been exploring medical social work and has been employed by Carle Foundation Hospital for the last 2 years.  Through this time, she has discovered her true passion is working with students in an educational setting and helping them reach/work towards personal and professional goals.  Kristi completed her first half marathon this spring and enjoys playing recreational sports, such as sand volleyball.</p>
+<hr><br>
+
+<img src="../images/sso/rodriguez janai.jpg">
+<h2>Janai Rodriguez - School Counselor</h2>
+<p>Janai Rodriguez (<a href="mailto:jaharri4@illinois.edu">jaharri4</a>) received her Master’s in Social Work from the University of Illinois in 2013. A proud native of California, she has worked in school systems both in California as well as the Champaign/Urbana school districts. She has also worked in mental health and has an extensive background volunteering for many social service agencies through her alma mater, UC Santa Barbara, her church, and Danville State Correctional Facility.   Janai enjoys cooking, relaxing on the beach, and spending time with her family.</p>
+<hr><br>
+
+<img src="../images/sso/mahannah kari.jpg">
+<h2>Kari Mahannah - Registrar &amp; Office Manager</h2>
+<p>Kari Mahannah (<a href="mailto:kmhannah.illinois.edu">kmhannah@illinois.edu</a>) enjoys working in her garden and relaxing in her backyard with her rescue dog. She shares her heart with ten nieces and nephews between the ages of seven and sixteen (and their parents and grandparents) and twenty orphans in Peru with whom she has spent four weeks over the past two summers. This former kindergarten and reading teacher earned her BS and MS Ed from Illinois State University and joins the SSO team ready to support the students, families, faculty and staff of Uni.</p>
+<hr>
+<p> SSO Phone: 217-333-2873 </p>
+<hr>
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="ssoSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

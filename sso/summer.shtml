@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Exploring Summer Opportunities</div>
+<div id="image"><img src="/images/athletics/#"></img></div>
+				<div id="section-content">
+				
+<p>If you are interested in exploring summer camps / college programs for HS students and volunteer opportunities, now is the time to begin your search.  While we do not endorse any particular program, we are providing you with links and resources to help you with your search.  
+ 
+Keep in mind that attending a summer camp on a college campus is *not* the only option during the summer months.  Seeking employment; volunteering, career exploration via job shadowing / internships, and talking with professionals about their career path / informational interviewing are all great things to do over the summer.  We are in a resource rich community -- take advantage of it!  :-)   
+
+Talk with the SSO counseling staff about ways to explore your interests.  All of these suggestions should compliment a fun & relaxing summer filled with time for family & friends too .  Balance is key!  
+ Happy hunting! Please do not hesitate to contact us.  As always, tap into your teachers at Uni too -- to inquire about subject specific camps and ways to explore your passions,
+ </p>
+
+<hr>
+ 
+
+
+<h3>Resources For You</h3>   
+ 
+
+<br>GREAT site to search for Summer Programs (along with great blogs about summer experiences):
+<a href = "http://summerprogramfinder.com">http://summerprogramfinder.com</a>
+
+
+<br><h3>Academic Summer Programs  (site maintained by Johns Hopkins Center for Talented Youth)</h3>
+Whether you are seeking enrichment or acceleration, whether physics or poetry is your passion, and whether you want to stay close to home or travel to a college on the other side of the country, there is a summer program for you. Here are some possibilities to explore:
+<ul>
+	<li><a href = "http://cty.jhu.edu/imagine/resources/summer_programs/talent_searches.html">Talent Search Programs</a></li>
+	<li><a href = "http://cty.jhu.edu/imagine/resources/summer_programs/talent_searches.html#usponsored">University Precollege Programs</a></li>
+	<li><a href = "http://cty.jhu.edu/imagine/resources/summer_programs/language.html">Foreign Language & Study Abroad</a></li>
+  	<li><a href = "http://cty.jhu.edu/imagine/resources/summer_programs/history.html">History & Archaeology</a></li>
+   	<li><a href = "http://cty.jhu.edu/imagine/resources/summer_programs/math.html">Mathematics & Computer Science</a></li>
+   	<li><a href = "http://cty.jhu.edu/imagine/resources/summer_programs/politics.html">Politics & Leadership</a></li>
+	<li><a href = "http://cty.jhu.edu/imagine/resources/summer_programs/science.html">Science</a></li>
+	<li><a href = "http://cty.jhu.edu/imagine/resources/summer_programs/arts.html">Visual & Performing Arts</a></li>
+	<li><a href = "http://cty.jhu.edu/imagine/resources/summer_programs/writing.html">Writing</a></li>
+	<li><a href = "http://publish.illinois.edu/summerlanguageprogram">Summer Intensive Arabic Course for High School Students at UIUC</a></li>
+</ul>
+
+
+<p>UIUC Summer Opportunities 
+<br><a href = "http://admissions.illinois.edu/early/explore/summer_programs.html">http://admissions.illinois.edu/early/explore/summer_programs.html</a>
+
+
+<p>UIUC Public  Engagement Calendar – Summer Opportunities
+<br><a href = "http://engage.illinois.edu/filter/SummerCamps">http://engage.illinois.edu/filter/SummerCamps</a>
+
+
+<p>Volunteering in Champaign-Urbana
+<br><a href = "http://cuvolunteer.org">http://cuvolunteer.org</a>
+
+
+<p>National Volunteer Database (in case you are traveling / living elsewhere this summer)
+<br><a href = "http://www.volunteermatch.com">http://www.volunteermatch.com</a>
+ 
+ 
+ 
+<h3>Reasons to participate in summer college programs for high school students…</h3>
+<ul>
+ 	<li>Take a proactive step in your academic future</li>
+ 	<li>Experience the excitement of college life</li>
+ 	<li>Explore various careers and majors</li>
+ 	<li>Take classes similar to those in college</li>
+ 	<li>Gain experience outside the classroom through hands-on activities</li>
+ 	<li>Study a subject in which you're interested in pursuing in college – Learn to investigate and navigate a college campus</li>
+ 	<li>Interact with world-renowned and expert faculty</li>
+ 	<li>Develop a talent or interest in a topic, field, or discipline</li>
+ 	<li>Cultivate personal skills and characteristics, such as leadership and intelligence</li>
+ 	<li>Form friendships with fellow students and future classmates</li>
+ 	<li>Discover new things and learn about yourself and the world</li>
+</ul>
+
+<h3><p>Before selecting a summer program, think about your goals.</h3>
+<ol>
+  <li>What do you want to gain from a summer program? Keep in mind what your goals are and what you want to learn during a program.</li>
+  <li>What type of summer program would be the most appropriate format in order to achieve your goal? What type of summer program would provide the best experience for you? Take into account your learning style.</li>
+  <li>How much time do you want to invest in a summer program? Summer programs can range in length from a few days, weeks, or months.</li>
+  <li>Do you want to travel to a different location and live on the college campus? There are some summer programs that are residential, which includes living in dorms with other students. Other programs have options where students can commute from home.</li>
+  <li>Do you want to get high school or college credit for the summer programs?</li>
+  <li>How much can you and your family spend on summer programs? Summer programs range in prices, including some free programs.</li>
+  <li>Talk to your high school counseling office about the summer programs you're interested in. Discuss your options and ask for their advice.</li>
+</ol>
+
+
+
+<p>Posted by:
+Lisa R. Micele
+Director of College Counseling | University of Illinois Laboratory High School
+Student Services Office | 1212 W. Springfield Avenue | Urbana, IL 61801
+P: 217-333-2873  |  FAX: 217-333-4064  |  CEEB: 144-180  |  EMAIL: lmicele@illinois.edu
+
+
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="ssoSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

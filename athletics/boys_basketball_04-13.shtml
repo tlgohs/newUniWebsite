@@ -1,0 +1,1237 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">GIRLS BASKETBALL RESULTS</div>
+
+				<div id="section-content">
+				
+<h1>2004-13 Results</h1>
+
+
+	<h3>2003-04: Coach Joel Beesley (15-9) </h3>	
+	<img src="/images/athletics/2004boys.jpg">		
+		<ul>
+			<li>Bement</li>
+				<ul>
+					<li>W 52-50</li>
+				</ul>
+				<p>
+			<li>Rossville-Alvin</li>
+				<ul>
+					<li>W 58-43</li>
+				</ul>
+				<p>
+			<li>St. Thomas More</li>
+				<ul>
+					<li>L 34-61</li>
+				</ul>
+				<p>
+			<li>Atwood-Hammond</li>
+				<ul>
+					<li>L 44-48</li>
+				</ul>
+				<p>
+			<li>GCMS</li>
+				<ul>
+					<li>L 40-49/li>
+				</ul>
+				<p>
+			<li>Hoopeston Area</li>
+				<ul>
+					<li>W 63-45</li>
+				</ul>
+				<p>
+			<li>St. Thomas More</li>
+				<ul>
+					<li>L 43-67</li>
+				</ul>
+				<p>
+			<li>LeRoy</li>
+				<ul>
+					<li>L 56-66</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 71-59</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>L 54-56</li>
+				</ul>
+				<p>
+			<li>Decatur Lutheran</li>
+				<ul>
+					<li>W 46-44</li>
+				</ul>
+				<p>
+			<li>BCL</li>
+				<ul>
+					<li>W 71-31</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 58-45</li>
+				</ul>
+				<p>
+			<li>PBL</li>
+				<ul>
+					<li>L 50-71</li>
+				</ul>
+				<p>
+			<li>Normal Calvary Baptist</li>
+				<ul>
+					<li>W 66-55</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>L 54-67</li>
+				</ul>
+				<p>
+			<li>Danville Baptist</li>
+				<ul>
+					<li>W 55-36</li>
+				</ul>
+				<p>
+			<li>Decatur Lutheran</li>
+				<ul>
+					<li>W 61-56</li>
+				</ul>
+				<p>
+			<li>BCL</li>
+				<ul>
+					<li>W 77-53</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 76-52</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 75-42</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>W 55-54</li>
+				</ul>
+				<p>
+                <li>Normal Calvary Baptist</li>
+				<ul>
+					<li>W 62-48</li>
+				</ul>
+				<p>
+                <li>Fisher</li>
+				<ul>
+					<li>L 47-50</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2004-05: Coach Joel Beesley (23-5)</h3>
+	<img src="/images/athletics/2005boys.jpg">		
+		<ul>
+			<li>Rossville-Alvin</li>
+				<ul>
+					<li>W 52-26</li>
+				</ul>
+				<p>
+			<li>Bement</li>
+				<ul>
+					<li>W 48-36</li>
+				</ul>
+				<p>
+			<li>St. Thomas More</li>
+				<ul>
+					<li>W 44-43</li>
+				</ul>
+				<p>
+			<li>Atwood Hammond</li>
+				<ul>
+					<li>W 57-43</li>
+				</ul>
+				<p>
+			<li>GCMS</li>
+				<ul>
+					<li>L 82-84(OT)</li>
+				</ul>
+				<p>
+			<li>Normal Calvary Baptist</li>
+				<ul>
+					<li>W 52-15</li>
+				</ul>
+				<p>
+			<li>St. Thomas More</li>
+				<ul>
+					<li>W 48-43</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>W 58-51</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>W 70-45</li>
+				</ul>
+				<p>
+			<li>St. Joe</li>
+				<ul>
+					<li>L 51-67</li>
+				</ul>
+				<p>
+			<li>Meridian</li>
+				<ul>
+					<li>L 39-69</li>
+				</ul>
+				<p>
+			<li>Ridgeview</li>
+				<ul>
+					<li>L 41-73</li>
+				</ul>
+				<p>
+			<li>Okaw Valley</li>
+				<ul>
+					<li>W 67-36</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 76-66</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 82-70</li>
+				</ul>
+				<p>
+			<li>Decatur Lutheran</li>
+				<ul>
+					<li>W 73-47</li>
+				</ul>
+				<p>
+			<li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 60-46</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 89-41</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>W 49-44</li>
+				</ul>
+				<p>
+                <li>Deland-Weldon (Regionals)</li>
+				<ul>
+					<li>W 87-62</li>
+				</ul>
+				<p>
+                <li>Blue Ridge (Regionals)</li>
+				<ul>
+					<li>L 60-62</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2005-06: Coach Joel Beesley (22-6)</h3>
+	<img src="/images/athletics/2006boys.jpg">		
+		<ul>
+			<li>Anna-Jonesboro</li>
+				<ul>
+					<li>L 45-61</li>
+				</ul>
+				<p>
+			<li>Bement</li>
+				<ul>
+					<li>W 63-29</li>
+				</ul>
+				<p>
+			<li>St. Thomas More</li>
+				<ul>
+					<li>L 60-69</li>
+				</ul>
+				<p>
+			<li>Decatur Lutheran</li>
+				<ul>
+					<li>W 67-42</li>
+				</ul>
+				<p>
+			<li>GCMS</li>
+				<ul>
+					<li>W 75-58</li>
+				</ul>
+				<p>
+			<li>St. Thomas More</li>
+				<ul>
+					<li>W 67-58</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>W 61-50</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>W 72-48</li>
+				</ul>
+				<p>
+			<li>Casey-Westfield</li>
+				<ul>
+					<li>L 73-92</li>
+				</ul>
+				<p>
+			<li>Monticello</li>
+				<ul>
+					<li>L 60-68</li>
+				</ul>
+				<p>
+			<li>Ridgeview</li>
+				<ul>
+					<li>L 49-54</li>
+				</ul>
+				<p>
+			<li>Tri-Point</li>
+				<ul>
+					<li>W 58-45</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 86-34</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 63-38</li>
+				</ul>
+				<p>
+			<li>Donovan</li>
+				<ul>
+					<li>W 49-46</li>
+				</ul>
+				<p>
+			<li>Buckley Lutheran</li>
+				<ul>
+					<li>W 70-52</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 68-49</li>
+				</ul>
+				<p>
+			<li>Kankakee Baptist</li>
+				<ul>
+					<li>W 80-43</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>W 85-62</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>W 75-41</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 82-34</li>
+				</ul>
+				<p>
+                <li>Decatur Lutheran</li>
+				<ul>
+					<li>W 72-59</li>
+				</ul>
+				<p>
+                <li>Buckley Lutheran</li>
+				<ul>
+					<li>W 74-54</li>
+				</ul>
+				<p>
+                <li>Springfield Calvary</li>
+				<ul>
+					<li>W 56-54</li>
+				</ul>
+				<p>
+                <li>Unity</li>
+				<ul>
+					<li>W 58-49(OT)</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>W 68-29</li>
+				</ul>
+				<p>
+                <li>Judah (Regionals)</li>
+				<ul>
+					<li>W 66-50</li>
+				</ul>
+				<p>
+                <li>Armstrong (Regionals)</li>
+				<ul>
+					<li>L 67-75</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2006-07: Coach Joel Beesley (15-13)</h3>
+	<img src="/images/athletics/2007boys.jpg">		
+		<ul>
+			<li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 50-44</li>
+				</ul>
+				<p>
+			<li>Mahomet JV</li>
+				<ul>
+					<li>W 58-53</li>
+				</ul>
+				<p>
+			<li>Bement</li>
+				<ul>
+					<li>L 46-54</li>
+				</ul>
+				<p>
+			<li>Martinsville</li>
+				<ul>
+					<li>L 48-51</li>
+				</ul>
+				<p>
+			<li>Shiloh</li>
+				<ul>
+					<li>W 55-46</li>
+				</ul>
+				<p>
+			<li>St. Thomas More</li>
+				<ul>
+					<li>L 32-54</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>L 39-53</li>
+				</ul>
+				<p>
+			<li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 79-51</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>L 61-74</li>
+				</ul>
+				<p>
+			<li>Shiloh</li>
+				<ul>
+					<li>L 61-65</li>
+				</ul>
+				<p>
+			<li>Salt Fork</li>
+				<ul>
+					<li>L 32-53</li>
+				</ul>
+				<p>
+			<li>Heritage</li>
+				<ul>
+					<li>L 48-62</li>
+				</ul>
+				<p>
+			<li>Atwood-Hammond</li>
+				<ul>
+					<li>W 62-51</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>L 50-52 (OT)</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 66-52</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>L 36-51</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 79-43</li>
+				</ul>
+				<p>
+			<li>PBL</li>
+				<ul>
+					<li>L 60-69</li>
+				</ul>
+				<p>
+			<li>Decatur Lutheran</li>
+				<ul>
+					<li>W 62-56</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>W 65-52</li>
+				</ul>
+				<p>
+                <li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 62-55</li>
+				</ul>
+				<p>
+                <li>Lexington</li>
+				<ul>
+					<li>L 37-68</li>
+				</ul>
+				<p>
+                <li>Decatur Christian</li>
+				<ul>
+					<li>W 59-38</li>
+				</ul>
+				<p>
+                <li>Normal Calvary</li>
+				<ul>
+					<li>W 58-55</li>
+				</ul>
+				<p>
+                <li>Deland-Weldon</li>
+				<ul>
+					<li>W 78-36</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>W 63-61(OT)</li>
+				</ul>
+				<p>
+                <li>PBL (Regionals)</li>
+				<ul>
+					<li>L 48-60</li>
+				</ul>
+				<p>
+                <li>Decatur Lutheran</li>
+				<ul>
+					<li>W 71-42</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2007-08: Coach Joel Beesley (21-7)</h3>
+	<img src="/images/athletics/2008boys.jpg">		
+		<ul>
+			<li>Shiloh</li>
+				<ul>
+					<li>W 80-32</li>
+				</ul>
+				<p>
+			<li>BCL</li>
+				<ul>
+					<li>W 69-17</li>
+				</ul>
+				<p>
+			<li>Bement</li>
+				<ul>
+					<li>W 73-59</li>
+				</ul>
+				<p>
+			<li>Martinsville</li>
+				<ul>
+					<li>W 74-43</li>
+				</ul>
+				<p>
+			<li>Shiloh</li>
+				<ul>
+					<li>W 72-23</li>
+				</ul>
+				<p>
+			<li>St. Thomas More</li>
+				<ul>
+					<li>W 63-45</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>L 54-67</li>
+				</ul>
+				<p>
+			<li>Heritage</li>
+				<ul>
+					<li>W 67-32</li>
+				</ul>
+				<p>
+			<li>Georgetown-Ridgefarm</li>
+				<ul>
+					<li>W 63-41</li>
+				</ul>
+				<p>
+			<li>Salt Fork</li>
+				<ul>
+					<li>L 64-71</li>
+				</ul>
+				<p>
+			<li>Atwood-Hammond</li>
+				<ul>
+					<li>W 59-42</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>L 42-60</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>L 60-63</li>
+				</ul>
+				<p>
+			<li>Lexington</li>
+				<ul>
+					<li>L 48-51</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>W 68-53</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 70-21</li>
+				</ul>
+				<p>
+			<li>Georgetown Notre Dame</li>
+				<ul>
+					<li>W 81-52</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>W 68-53</li>
+				</ul>
+				<p>
+			<li>Deland Weldon</li>
+				<ul>
+					<li>W 70-21</li>
+				</ul>
+				<p>
+                <li>Georgetown Notre Dame</li>
+				<ul>
+					<li>W 66-44</li>
+				</ul>
+				<p>
+                <li>Decatur Lutheran</li>
+				<ul>
+					<li>W 59-52</li>
+				</ul>
+				<p>
+                <li>Decatur Christian</li>
+				<ul>
+					<li>L 38-58</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>W 46-37</li>
+				</ul>
+				<p>
+                <li>Monticello (Regionals)</li>
+				<ul>
+					<li>L 55-76</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2008-2009: Coach Joel Beesley (16-8)</h3>
+	<img src="/images/athletics/2009boys.jpg">		
+		<ul>
+			<li>LeRoy</li>
+				<ul>
+					<li>L 45-56</li>
+				</ul>
+				<p>
+			<li>Shiloh</li>
+				<ul>
+					<li>W 40-35</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>L 42-47</li>
+				</ul>
+				<p>
+			<li>Georgetown NDL</li>
+				<ul>
+					<li>L 45-53</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>W 82-58</li>
+				</ul>
+				<p>
+			<li>Buckley Lutheran</li>
+				<ul>
+					<li>W 64-33</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 58-32</li>
+				</ul>
+				<p>
+			<li>Lexington</li>
+				<ul>
+					<li>L 40-64</li>
+				</ul>
+				<p>
+			<li>Normal Calvary Baptist</li>
+				<ul>
+					<li>L 41-67</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 67-37</li>
+				</ul>
+				<p>
+			<li>Arthur-Okaw</li>
+				<ul>
+					<li>W 52-50(OT)</li>
+				</ul>
+				<p>
+			<li>Decatur Lutheran</li>
+				<ul>
+					<li>L 41-50</li>
+				</ul>
+				<p>
+			<li>PBL</li>
+				<ul>
+					<li>L 32-65</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>W 65-38</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 65-39</li>
+				</ul>
+				<p>
+			<li>Normal Calvary Baptist</li>
+				<ul>
+					<li>W 61-48(OT)</li>
+				</ul>
+				<p>
+                <li>Deland-Weldon</li>
+				<ul>
+					<li>W 71-36</li>
+				</ul>
+				<p>
+                <li>Decatur Lutheran</li>
+				<ul>
+					<li>W 71-50</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>W 65-54</li>
+				</ul>
+				<p>
+                <li>St. Thomas More (Regionals)</li>
+				<ul>
+					<li>L 37-63</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2009-10: Coach Joel Beesley (18-8)</h3>
+	<img src="/images/athletics/2010boys.jpg">		
+		<ul>
+			<li>Shiloh</li>
+				<ul>
+					<li>W 62-30</li>
+				</ul>
+				<p>
+			<li>Mahomet-Seymour JV</li>
+				<ul>
+					<li>W 60-57</li>
+				</ul>
+				<p>
+			<li>Bement</li>
+				<ul>
+					<li>L 42-43</li>
+				</ul>
+				<p>
+			<li>Huntsville-Palestine</li>
+				<ul>
+					<li>L 40-42</li>
+				</ul>
+				<p>
+			<li>Arthur Okaw Christian</li>
+				<ul>
+					<li>L 46-61</li>
+				</ul>
+				<p>
+			<li>Shiloh</li>
+				<ul>
+					<li>W 59-39</li>
+				</ul>
+				<p>
+			<li>Arcola</li>
+				<ul>
+					<li>W 52-50</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>L 53-54</li>
+				</ul>
+				<p>
+			<li>Villa Grove</li>
+				<ul>
+					<li>W 74-45</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>W 64-56</li>
+				</ul>
+				<p>
+			<li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 78-57</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>W 58-30</li>
+				</ul>
+				<p>
+			<li>Normal Calvary Baptist</li>
+				<ul>
+					<li>W 59-55</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 64-30</li>
+				</ul>
+				<p>
+			<li>Georgetown Notre Dame</li>
+				<ul>
+					<li>W 62-43</li>
+				</ul>
+				<p>
+			<li>Decatur Lutheran</li>
+				<ul>
+					<li>L 44-53</li>
+				</ul>
+				<p>
+                <li>PBL</li>
+				<ul>
+					<li>L 47-71</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>W 52-45</li>
+				</ul>
+				<p>
+                <li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 69-39</li>
+				</ul>
+				<p>
+                <li>Decatur Christian</li>
+				<ul>
+					<li>W 49-24</li>
+				</ul>
+				<p>
+                <li>Normal Calvary Baptist</li>
+				<ul>
+					<li>W 66-45</li>
+				</ul>
+				<p>
+                <li>LeRoy</li>
+				<ul>
+					<li>L 37-54</li>
+				</ul>
+				<p>
+                <li>Decatur Lutheran</li>
+				<ul>
+					<li>W 44-40</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>L 29-41</li>
+				</ul>
+				<p>
+                <li>St. Joseph-Ogden</li>
+				<ul>
+					<li>W 49-46</li>
+				</ul>
+				<p>
+                <li>Tolono Unity (Regionals)</li>
+				<ul>
+					<li>L 17-55</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2010-11: Coaches Dave Walsh and Jake Kalnitz (15-12)</h3>
+	<img src="/images/athletics/2011boys.jpg">		
+		<ul>
+			<li>Bement</li>
+				<ul>
+					<li>W 57-45</li>
+				</ul>
+				<p>
+                <li>Normal Calvary</li>
+				<ul>
+					<li>W 69-55</li>
+				</ul>
+				<p><li>Shiloh</li>
+				<ul>
+					<li>W 47-45</li>
+				</ul>
+				<p><li>Atwood-Hammond</li>
+				<ul>
+					<li>L 91-94</li>
+				</ul>
+				<p><li>Arthur Okaw</li>
+				<ul>
+					<li>L 53-58</li>
+				</ul>
+				<p><li>Shiloh</li>
+				<ul>
+					<li>L 38-39</li>
+				</ul>
+				<p>
+                <li>Georgetown LaSalette</li>
+				<ul>
+					<li>W 39-29</li>
+				</ul>
+				<p><li>Arcola</li>
+				<ul>
+					<li>L 36-51</li>
+				</ul>
+				<p><li>Fisher</li>
+				<ul>
+					<li>L 44-52</li>
+				</ul>
+				<p><li>Decatur Lutheran</li>
+				<ul>
+					<li>W 54-32</li>
+				</ul>
+				<p><li>Decatur Lutheran</li>
+				<ul>
+					<li>L 44-53</li>
+				</ul>
+				<p><li>Oakwood</li>
+				<ul>
+					<li>L 30-52</li>
+				</ul>
+				<p>
+                <li>Cornerstone Christian</li>
+				<ul>
+					<li>W 43-41</li>
+				</ul>
+				<p><li>PBL</li>
+				<ul>
+					<li>L 34-63</li>
+				</ul>
+				<p><li>Normal Calvary</li>
+				<ul>
+					<li>W 49-44</li>
+				</ul>
+				<p><li>Decatur Lutheran</li>
+				<ul>
+					<li>W 45-37</li>
+				</ul>
+				<p><li>Judah Christian</li>
+				<ul>
+					<li>L 42-43</li>
+				</ul>
+				<p><li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 66-52</li>
+				</ul>
+				<p>
+                <li>Decatur Christian</li>
+				<ul>
+					<li>W 41-39</li>
+				</ul>
+				<p><li>Normal Calvary</li>
+				<ul>
+					<li>W 48-42</li>
+				</ul>
+				<p><li>Deland Weldon</li>
+				<ul>
+					<li>W 48-32</li>
+				</ul>
+				<p><li>Cornerstone Christian</li>
+				<ul>
+					<li>W 38-25</li>
+				</ul>
+				<p><li>Judah Christian</li>
+				<ul>
+					<li>L 31-49</li>
+				</ul>
+				<p><li>Sullivan (Regionals)</li>
+				<ul>
+					<li>W 49-46</li>
+				</ul>
+				<p><li>Monticello (Regionals)</li>
+				<ul>
+					<li>L 32-57</li>
+				</ul>
+				<p>
+		</ul>
+	<h3>2011-12: Coach Al Renner (19-8)</h3>
+	<img src="/images/athletics/2012boys.jpg">		
+		<ul>
+			<li>Arthurt Okaw</li>
+				<ul>
+					<li>L 41-47</li>
+				</ul>
+				<p>
+                <li>Shiloh</li>
+				<ul>
+					<li>W 41-30</li>
+				</ul>
+				<p><li>Georgetown Notre Dame</li>
+				<ul>
+					<li>L 23-44</li>
+				</ul>
+				<p><li>Arcola</li>
+				<ul>
+					<li>W 48-47</li>
+				</ul>
+				<p><li>Fisher</li>
+				<ul>
+					<li>L 39-52</li>
+				</ul>
+				<p><li>Villa Grove</li>
+				<ul>
+					<li>W 63-54</li>
+				</ul>
+				<p>
+                <li>Oakwood</li>
+				<ul>
+					<li>L 52-60</li>
+				</ul>
+				<p><li>Cornerstone</li>
+				<ul>
+					<li>W 55-47</li>
+				</ul>
+				<p><li>PBL</li>
+				<ul>
+					<li>W 45-40</li>
+				</ul>
+				<p><li>Deland-Weldon</li>
+				<ul>
+					<li>W 66-34</li>
+				</ul>
+				<p><li>Normal Calvary</li>
+				<ul>
+					<li>W 63-40</li>
+				</ul>
+				<p><li>Decatur Lutheran</li>
+				<ul>
+					<li>W 66-65</li>
+				</ul>
+				<p>
+                <li>Judah Christian</li>
+				<ul>
+					<li>L 48-51</li>
+				</ul>
+				<p><li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 66-18</li>
+				</ul>
+				<p><li>Decatur Christian</li>
+				<ul>
+					<li>L 51-62</li>
+				</ul>
+				<p><li>LeRoy</li>
+				<ul>
+					<li>W 70-62</li>
+				</ul>
+				<p><li>Normal Calvary</li>
+				<ul>
+					<li>W 72-53</li>
+				</ul>
+				<p><li>Georgetown Notre Dame</li>
+				<ul>
+					<li>W 59-53</li>
+				</ul>
+				<p>
+                <li>Normal Calvary</li>
+				<ul>
+					<li>W 60-42</li>
+				</ul>
+				<p><li>Heritage (Regionals)</li>
+				<ul>
+					<li>W 67-66</li>
+				</ul>
+				<p><li>Judah (Regionals)</li>
+				<ul>
+					<li>W 47-38</li>
+				</ul>
+				<p><li>Fisher (Regional Final)</li>
+				<ul>
+					<li>L 24-39</li>
+				</ul>
+				
+		</ul>
+	<h3>2012-13: Coach Al Renner (8-17)</h3>
+	<img src="/images/athletics/2013boys.jpg">		
+		<ul>
+			<li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 74-24</li>
+				</ul>
+				<p>
+			<li>Atwood-Hammond</li>
+				<ul>
+					<li>W 49-48</li>
+				</ul>
+				<p>
+			<li>Bement</li>
+				<ul>
+					<li>W 65-61</li>
+				</ul>
+				<p>
+			<li>Arthur Okaw</li>
+				<ul>
+					<li>L 39-52</li>
+				</ul>
+				<p>
+			<li>Shiloh</li>
+				<ul>
+					<li>L 38-65</li>
+				</ul>
+				<p>
+			<li>Arcola</li>
+				<ul>
+					<li>L 58-59</li>
+				</ul>
+				<p>
+			<li>Fisher</li>
+				<ul>
+					<li>W 57-55</li>
+				</ul>
+				<p>
+			<li>Oakwood</li>
+				<ul>
+					<li>L 52-65</li>
+				</ul>
+				<p>
+			<li>Georgetown</li>
+				<ul>
+					<li>L 44-60</li>
+				</ul>
+				<p>
+			<li>Villa Grove</li>
+				<ul>
+					<li>L 54-63</li>
+				</ul>
+				<p>
+			<li>Cornerstone</li>
+				<ul>
+					<li>L 19-60</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>L 28-57</li>
+				</ul>
+				<p>
+			<li>Normal Calvary</li>
+				<ul>
+					<li>L49-56</li>
+				</ul>
+				<p>
+			<li>PBL</li>
+				<ul>
+					<li>L 46-68</li>
+				</ul>
+				<p>
+			<li>Decatur Lutheran</li>
+				<ul>
+					<li>L 36-81</li>
+				</ul>
+				<p>
+			<li>Judah Christian</li>
+				<ul>
+					<li>L 26-58</li>
+				</ul>
+				<p>
+			<li>Buckley Christ Lutheran</li>
+				<ul>
+					<li>W 54-21</li>
+				</ul>
+				<p>
+			<li>Decatur Christian</li>
+				<ul>
+					<li>L 37-72</li>
+				</ul>
+				<p>
+			<li>Deland-Weldon</li>
+				<ul>
+					<li>W 42-34</li>
+				</ul>
+				<p>
+                <li>Normal Calvary</li>
+				<ul>
+					<li>W 53-49</li>
+				</ul>
+				<p>
+                <li>Heritage (Regionals)</li>
+				<ul>
+					<li>L 43-63</li>
+				</ul>
+				<p>
+		</ul>
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

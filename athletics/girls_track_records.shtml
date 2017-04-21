@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">GIRLS TRACK RECORDS</div>
+				<div id="image"><img src="/images/athletics/girls_track_record.jpg"></img></div>
+				<div id="section-content">
+				
+<table class="formatted" width="100%"><tbody>
+<tr class="even"><td>100M</td><td>Monique Brown</td><td>12.1</td><td>1986</td></tr>
+<tr class="odd"><td>200M</td><td>Monique Brown</td><td>25.1</td><td>1986</td></tr>
+<tr class="even"><td>400M</td><td>Bridget O'Connor</td><td>58.7</td><td>1989</td></tr>
+<tr class="odd"><td>800M</td><td>Arielle Summitt</td><td>2:12.29</td><td>2016</td></tr>
+<tr class="even"><td>1600M</td><td>Ella Schoenberg</td><td>5:08</td><td>1985</td></tr>
+<tr class="odd"><td>3200M</td><td>Andrea Talley</td><td>11:03.3</td><td>1981</td></tr>
+<tr class="even"><td>110HH</td><td>Ella Schoenberg</td><td>16.6</td><td>1983</td></tr>
+<tr class="odd"><td>300LH</td><td>Sara Medendorp</td><td>48.32</td><td>2000</td></tr>
+<tr class="even"><td>Long Jump</td><td>Cindy Wang</td><td>16-1</td><td>1992</td></tr>
+<tr class="odd"><td>Triple Jump</td><td>Paige Martin</td><td>32-6</td><td>2007</td></tr>
+<tr class="even"><td>High Jump</td><td>Nadine Nicholson</td><td>5-2</td><td>1993</td></tr>
+<tr class="odd"><td>Discus</td><td>Emma Hoyer</td><td>113-10</td><td>2013</td></tr>
+<tr class="odd"><td>Shot Put</td><td>Emma Hoyer</td><td>33-9</td><td>2013</td></tr>
+<tr class="even"><td>Pole Vault</td><td>Paige Martin</td><td>10-6</td><td>2007</td></tr>
+<tr class="odd"><td>400 Relay</td><td>C. Wang, M. Shoemaker, N. Nicholson, E. Jassim</td><td>50.3</td><td>1992</td></tr>
+<tr class="even"><td>800 Relay</td><td>A. Wickens, E. Jassim, C. Liebovich, B. O'Connor</td><td>1:51.2</td><td>1991</td></tr>
+<tr class="even"><td>800 Medley</td><td>S. Johnson, N. Nicholson, E. Jassim, N. Nicholson</td><td>1:49.9</td><td>1992</td></tr>
+<tr class="odd"><td>1600 Relay</td><td>A. Parker, E. Jassim, T. Huang, N. Nicholson</td><td>4:03.8</td><td>1991</td></tr>
+<tr class="even"><td>3200 Relay</td><td>M. Brown, T. Huang, E. Wheeler, T. Shapiro</td><td>9:48.0</td><td>1989</td></tr>
+</tbody></table>
+
+
+
+</div>
+			</div>
+			<!--#include virtual="athleticsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

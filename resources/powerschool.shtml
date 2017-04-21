@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=-1;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">PowerSchool Parent/Student Access</div>
+<div id="image"><img src="/images/resources/#"></img></div>
+				<div id="section-content">
+				
+
+<h3>PowerSchool Overview</h3>
+<p>PowerSchool is University High School's student information system, used to record and track student records, including grades and attendance. It also allows us to share attendance and grade information with our parents. This guide details how to use the ‘Parent Access’ of PowerSchool.</p>
+
+<img src="../images/resources/signin.png">
+
+<h3>PowerSchool Single Sign-on</h3>
+<p>Parents: You must create a Single Sign-On account to log into PowerSchool.  You may have received, or will be receiving a letter listing an ID and password.  These credentials are for linking your student(s) to your Single Sign-On account.<p>
+<img src="parent_signin.png">
+<p>Steps to signing on:</p>
+<ul><li>Launch a web browser</li>
+<li>If this is your first time to the login screen, select Create Account Tab to set up your new Parent Account</li>
+<li>If you have already created an account, enter your user name and password and click on the Sign in Button</li>
+<li>Connect URL:<a href="https://unihigh.powerschool.com/public"> https://unihigh.powerschool.com/public</a></ul>
+
+<p><img src="../images/resources/create.png"><p>
+
+<p>NOTE: The Access ID and Access Password for your student should be protected.  Only provide this information to individuals who need to monitor your student's progress.</p>
+
+
+<h3>LOGGING ON</h3>
+<p>To access the login screen, click here to proceed to the login page. Bookmark this page in your browser for future access.</p>
+
+<p>If you encounter problems logging in, or have forgotten your password, please contact Mr. Greg Smith, Uni High's PowerSchool technical support.  If you have already created a single sign on account, please follow the prompts on the login screen to retrieve your password.</p>
+
+
+<h3>ATTENDANCE AND GRADES</h3>
+<p>The first thing you will see upon logging into our system is the “Attendance and Grades” at-a-glance page. This provides easy access to recent grades, and classroom attendance. At Uni, attendance is taken for each period, and this class-by-class attendance is available for parents to see.</p>
+
+<p>The “current” grade, or standing in the class, are listed under the appropriate semester (S1=semester 1), and clicking on this link will bring up a detail page for grades in that class. Clicking on the teacher name will activate a link so you can easily e-mail the teacher.</p>
+
+<p>Along the top of the page are icons to lead you to different areas of the Parent Access. </p>
+
+
+<h3>ATTENDANCE DETAIL</h3>        
+<p>The detail for attendance will show a reasonable span of time around the current date. You will be able to see absences, tardies and other codes.   A clear space indicates the student was present.</p>
+
+<p>A legend for this screen is available at the bottom of the page.</p>
+
+
+<h3>CLASS SCORE DETAIL</h3>
+<p>If you click on the score for a class, you will then see the Class Score Detail screen, outlining assignments. Different teachers will provide different levels of detail for each assignment and category.</p>
+
+
+<h3>TEACHER COMMENTS</h3>
+<p>The Teacher Comments screen provides information via each teacher and course. Teachers have the optional ability to provide a comment, but comments will most likely be added at interim and at the end of marking periods. If a teacher does have a comment for your child, it can be accessed by clicking the “Teacher Comments” icon along the top toolbar within the Parent Access.</p>
+
+
+<h3>E-MAIL NOTIFICATION</h3>
+<p>You can ask PowerSchool to send you periodic e-mail detailing information about your child’s progress in school.</p>
+
+<p>This screen requests what you want to know in each e-mail, and how frequently you wish to receive the e-mails. We recommend a weekly report over a daily report, but the frequency of when you receive e-mails is up to you. If you ever need to change the address where e-mails are sent, you can change it from this screen at a future date.</p>
+
+
+
+
+
+
+
+
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

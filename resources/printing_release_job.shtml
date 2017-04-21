@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=5;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Approving and Releasing Your Print Job</div>
+
+				<div id="section-content">
+				
+
+<h2>Introduction</h2>
+<p>When you print to a Uni High printer, your print job is held in a queue until released. The print job will be deleted if it is not released within an hour.</p>
+
+<h2>Where to Release Print Jobs</h2>
+<p>You can release print jobs from the Print Release station for that printer. The Print Release station is a dedicated computer next to the printers in every computer lab. Its screen will look like this:</p>
+<img src="../images/resources/printrelease.jpg">
+<p>When a job has been sent from a remote location (e.g. your personal computer), the NetID will be <b>"(unknown)"</b>. You can identify your job by its <b>Job Name</b>. The Job Name will usually be descriptive and contain the name of your document. When you have located your print job on the Print Release station, check the box next to it and then click <b>"Select Jobs"</b>. The next screen will look like this:</p>
+<img src="../images/resources/printrelease2.jpg">
+<p>Enter your NetID, password, and click <b>"Release"</b>. Your document will be printed.</p>
+<p>
+</div>
+</body>
+
+
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>

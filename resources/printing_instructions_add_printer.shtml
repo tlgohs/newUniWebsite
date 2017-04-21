@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/third-level/third-level.css">
+		<script>
+			var menuSpot=5;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">ADDING UNI PRINTERS</div>
+
+				<div id="section-content">
+				
+<p>Below is a table of the UniHigh printers. Click the link that corresponds to the printer you would like to use. When asked if you want to install the printer, click "OK" (Mac OS X) or "Yes" (Windows). iPrint will then install the ICS printer on your personal computer.</p>
+
+<p><b>Select a printer to install here:</b>
+ <table border="1" style="width:100%">
+  <tr>
+    <th>Room</th>
+    <th>Black & White</th>
+    <th>Color</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Computer Lab</b> (Rm 314)</td>
+    <td align="center"><a href="https://iprint1.ics.illinois.edu/ippdocs/isinstf.htm?ippPrinterURL=ipp://iprint1.ics.illinois.edu/ipp/uhs-314-bw&onInstalled=alert&onNotInstalled=install">uhs-314-bw</a></li></ul></p></td>
+    <td align="center"><a href="https://iprint1.ics.illinois.edu/ippdocs/isinstf.htm?ippPrinterURL=ipp://iprint1.ics.illinois.edu/ipp/uhs-314-color&onInstalled=alert&onNotInstalled=install">uhs-314-color</a></td>
+    <tr>
+    <td align="center"><b>Library</b> (Rm 201)</td>
+    <td align="center"><a href="https://iprint1.ics.illinois.edu/ippdocs/isinstf.htm?ippPrinterURL=ipp://iprint1.ics.illinois.edu/ipp/uhs-201-bw&onInstalled=alert&onNotInstalled=install">uhs-201-bw</a></td>
+     <td align="center">----</td>
+  </tr>
+    </tr>
+    <tr>
+    <td align="center"><b>Kitchen</b> (Rm 116)</td>
+    <td align="center"><a href="https://iprint1.ics.illinois.edu/ippdocs/isinstf.htm?ippPrinterURL=ipp://iprint1.ics.illinois.edu/ipp/uhs-116-bw&onInstalled=alert&onNotInstalled=install">uhs-116-bw</a></td>
+     <td align="center">----</td>
+  </tr>
+</table></p>
+
+<b><i>Note: You must have iPrint already installed to add any of these printers to your computer. If you have not already installed iPrint, please visit the <a href="../resources/printing_instructions.shtml">Uni High Printing Instructions page</a> for instructions.</b></i>
+
+
+</div>
+				
+				
+				
+
+			</div>
+			<!--#include virtual="resourcesSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="../footer.html" -->
+    </body>
+</html>
