@@ -16,9 +16,9 @@
                 <div id="section-title">FOREIGN LANGUAGES</div>
                 <div id="image"><img src="/images/academics/3dprint.jpg"></div>
                 <div id="section-content">
-                
                     <p>
-                        The Foreign Languages curriculum offers a four-year sequential program in French, German, Japanese, Spanish, and Latin. Two years of one foreign language are required for all students. Although only two are required, the vast majority of students complete four years of study in one language and many begin a second language. One may begin a second foreign language after completing two years of a first language.</p>
+                        The Foreign Languages curriculum offers a four-year sequential program in French, German, Japanese, Spanish, and Latin. Two years of one foreign language are required for all students. Although only two are required, the vast majority of students complete four years of study in one language and many begin a second language. One may begin a second foreign language after completing two years of a first language.
+                    </p>
                     <p>
                         The primary goal of the Foreign Languages curriculum is to help students develop proficiency skills in listening, reading, writing and speaking. It is also the goal of the department to provide students an opportunity to travel abroad during their course of study. Trips are conducted in the following languages: German, Japanese, French, Latin, and Spanish. The curriculum's purpose is to increase the student's knowledge and appreciation of diverse cultures of the countries whose languages they are learning. Perhaps the best summations of our department’s goals are made by the proposed National Foreign Language Goals and Standards:  
                     </p>
@@ -26,11 +26,9 @@
                     <p>
                         <u>Communication in Languages Other Than English</u>
                         <ul>
-                            <li>Students engage in conversations, provide and obtain information, express feelings and emotions, and
-                            exchange opinions.</li>
+                            <li>Students engage in conversations, provide and obtain information, express feelings and emotions, and exchange opinions.</li>
                             <li>Students understand and interpret written and spoken language on a variety of topics.</li>
-                            <li>Students present information, concepts, and ideas to an audience of listeners or readers on a variety of
-                            topics.</li>
+                            <li>Students present information, concepts, and ideas to an audience of listeners or readers on a variety of topics.</li>
                         </ul>
                     </p>
 
@@ -45,7 +43,8 @@
                     <p>
                         <u>Connect With Other Disciplines and Acquire Information</u>
                         <ul>
-                            <li>Students reinforce and further their knowledge of other disciplines through the foreign language.</li> <li>Students acquire information and recognize the distinctive viewpoints that are only available through the foreign language and its cultures.</li>
+                            <li>Students reinforce and further their knowledge of other disciplines through the foreign language.</li>
+                            <li>Students acquire information and recognize the distinctive viewpoints that are only available through the foreign language and its cultures.</li>
                         </ul>
                     </p>
 
@@ -69,9 +68,7 @@
                     <p>
                         <u>Subfreshmen Placement</u><br>
                         <ul>
-                            <li>Subfreshman students will be assigned to a Level 1 language class. Levels 1 and 2 in the assigned
-                            language must be completed before switching to a new language. This assignment will be indicated on
-                            class schedules.</li>
+                            <li>Subfreshman students will be assigned to a Level 1 language class. Levels 1 and 2 in the assigned language must be completed before switching to a new language. This assignment will be indicated on class schedules.</li>
                         </ul>
                     </p>
                     <p>
@@ -80,7 +77,6 @@
                     <p>
                         <u>Current Students</u> -- Placement of students taking language instruction outside of University High School will be done on an individual basis. (Consultation with language instructor and department chair)
                     </p>
-                
                 </div>
             </div>
             <!--#include virtual="/academics/foreign_languages/sidebar.html" -->

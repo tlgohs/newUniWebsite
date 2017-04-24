@@ -16,7 +16,6 @@
                 <div id="section-title">FOREIGN LANGUAGES: FACULTY</div>
                 <div id="image"><img src="/images/academics/3dprint.jpg"></div>
                 <div id="section-content">
-                
                     <p>
                         <b>John Garvey</b><a href="mailto:jbgarvey@illinois.edu"> (jbgarvey)</a> teaches French 1 and 2, and is on the Technology team for Computer Literacy 1 and 2. He co-sponsors the French Club and co-directs the biannual French Trip. He earned his B.A. at Frostburg State College and his M.S. at the University of Illinois.
                     </p>
@@ -40,7 +39,6 @@
                     <p>
                         <b>Paul Weilmuenster</b><a href="mailto:weilmuen@illinois.edu"> (weilmuen) </a> teaches German 1, 2, 3 and 4. He earned his B.A. at Eastern Illinois University and his M.A. at the University of Illinois.
                     </p>
-                
                 </div>
             </div>
             <!--#include virtual="/academics/foreign_languages/sidebar.html" -->
