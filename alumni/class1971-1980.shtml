@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+		<script>
+			menuSpot=3;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Uni Graduating Classes 1971-1980</div>
+				<div id="section-content">
+					<p><strong>Class of 1971:</strong>
+
+<br>Emma Francis (Anderson) Hunt
+<br>James Othel Austin
+<br>Margaret Babcock
+<br>Marie Terrie Barrette
+<br>Martin Beberman
+<br>Phyllis Elaine (Brazelton) Williams
+<br>Joan Kathleen Brighton
+<br>Emer Dean Broadbent
+<br>Cheryl Kay Brodsky
+<br>Susan Joyce (Brown) Guse
+<br>Beth Andrea (Burdick) Cobb
+<br>James Peter Burkholder
+<br>Muhtesem Calislar
+<br>Cheryl (Creighton) Gatz
+<br>Michael John Fung
+<br>John Geanakoplos
+<br>Ruth Genskow
+<br>Timothy Gilles
+<br>Steve Glaser
+<br>Deborah Goodman
+<br>Bruce Hamm
+<br>Cordelia Hinde
+<br>Anne Eileen Hogan
+<br>Russell Miller Hogan
+<br>Lance Gray Holliday
+<br>Eric James Holshouser
+<br>Mimi Horner
+<br>Maureen Jackson
+<br>Kimmel Greg Jones
+<br>Greg Jonathon Kinkley
+<br>Richard Kurt Klein
+<br>Jeanne Enid Knight
+<br>Linda Lizabet (Krausz) James
+<br>Richard James Lazarus
+<br>Alex Marfort
+<br>Mary Marquardt
+<br>Charles U Martel
+<br>Robert Edward McGrath
+<br>Chandra Leslie Muller
+<br>Peggy Diane Ore
+<br>Thomas McMillan Payne
+<br>David Reyes-Guerra
+<br>Stuart Richardson
+<br>Markus Frederick Robinson
+<br>Jennifer (Rohn) Head
+<br>Tod Foster Satterthwaite
+<br>Marianna Scheffelin
+<br>Katherine Melanie Scheidegger
+<br>John Allyn Smith
+<br>Lorrie Ann Stalcup
+<br>Tina Lu (Stein) Croix
+<br>Mary Jessica (Stone)
+<br>Christine (Szabo) Payne
+<br>Michael Terwilliger
+<br>Allen Tien
+<br>Peter Tyack
+<br>Michael Ullmann
+<br>David Walker
+<br>William Mark Weisel
+<br>Ellen Marie Wijsman
+<br>Martin Wolff
+
+
+<p><strong>Class of 1972:</strong>
+
+<br>Evelyn Lim Ang
+<br>Francis Ascoli
+<br>Diana Bair
+<br>Valarie Barr
+<br>James Andrew David Bartle
+<br>Mehrnoosh Batmanghelidj
+<br>Jeffrey Martin Becker
+<br>Lindsay (Branigan) Barry
+<br>Matthew Shin Chang Chen
+<br>Mel Chito
+<br>Greg Collinson
+<br>Karen Ann Marie (Doebel) Tillman
+<br>Susan Claire Doyle
+<br>Andrea Susan Dunn
+<br>Robert Easley
+<br>Matthew Joel Eisen
+<br>Donna Erickson
+<br>Richard Lee Ettensohn
+<br>Allan Galbraith
+<br>Barbara Ashley Goldhor
+<br>Dan Gutowsky
+<br>Jay Hashsbarger
+<br>Jane Ann Hays
+<br>Brian W. Henricks
+<br>Jerry Hermele
+<br>Carol Jean (Holden) Gianfrancheschi
+<br>Gregory Lee Ives
+<br>Nancy Louise (Johannsen) Morrice
+<br>Sibyl (Johnston) Campbell
+<br>Nalini Joshi
+<br>Keith Leighton Kempton
+<br>Dann David Kogan
+<br>Stephen Henry Kurland
+<br>Janet (Leach) Peshkin
+<br>Linda Lee (Lewis) Osteen
+<br>Sherry Lieberthal
+<br>Lawrence Fabian Lo
+<br>Wendy Lu Martin
+<br>Kim Edward Mast
+<br>Ruth Elizaveth (Monkman) Wolff
+<br>Claire Suzanne (Neely) Butler
+<br>Sandra Patterson
+<br>Catherine Dierdre Pines
+<br>Becky Robinson
+<br>Dan Rock
+<br>John Torkild Schousboe
+<br>Gail Sonnenfeld
+<br>Lydia May Soo
+<br>Bob Stillinger
+<br>Carol Jean (Szabo) Hendricks
+<br>Karla Sue Vallance
+<br>Adrienne (Wakat) Abrecht
+<br>Gregory James Walters
+<br>William Mark Weisel
+<br>Peter Wolff
+<br>Angela Woo
+<br>David Reeder Woolley
+<br>Scott Emery Wyatt
+<br>Karen Lynne Yoerger
+<br>Robert Leon Zych
+<br>Wylde Q Chicken
+
+<p><strong>Class of 1973:</strong>
+
+<br>Kathleen Anderson 
+<br>Gary Babcock
+<br>Jeff Badger
+<br>Amber Barnhart
+<br>Ruth Ann (Beberman) Frost
+<br>Leah Beckman
+<br>Luke Bissell
+<br>Dawn Ann (Bodnar) Sutton
+<br>Matthew Brichford
+<br>Michael J Brun
+<br>Lydia Chen
+<br>Philip Ciralsky
+<br>David Curtin
+<br>Kurt DeMoss
+<br>James Dobbs
+<br>Margaret Ann Drickamer
+<br>Kevin David Eichelberger
+<br>Eric Engelman
+<br>Victoria Fung
+<br>Piotr Sanislaw Gorecki
+<br>Sheru (Gould) Hoffman
+<br>Ira Otto Handler
+<br>Kathy Ellen (Hauck) Gately
+<br>Alicia Ann (Henry) Karplus
+<br>Megan Ingle
+<br>Polly Christine (Hertig) Laurelchild
+<br>Mark Krasnow
+<br>Stephen Henry Kurland
+<br>Frederick David Marx
+<br>Eric Edward Mast
+<br>Kenneth Alfonso McClellan
+<br>Alice (McCormick) Abbott
+<br>Amy Metzger
+<br>Amy Louise (Monkman) Abeyta
+<br>Michael Nolan
+<br>Lee Anne (Perlstein) Schiller
+<br>David Glenn Peschkin
+<br>Alice Ravenhall
+<br>Frederick Wood Richardson
+<br>Chris Rock
+<br>David M. Rosen
+<br>Christie (Russell) Watkins
+<br>John Barry Scanlan
+<br>Kendal Maurice Session
+<br>Celia (Shapland) Beberman
+<br>Rachel Sherry Simon
+<br>Desiree (Slimak) Kuri
+<br>Jeff Small 
+<br>Gregory Dane Smith
+<br>Mark Spear
+<br>Benjamin Stake
+<br>Timothy Collins Stafford
+<br>Walter Robert Stewart
+<br>Terry Louise (Stinson) Wilson
+<br>Jennifer Abby Stone
+<br>Florence (Tiberghien) Deprat
+<br>Nancy (Ullmann)-Schneider
+<br>Tessa Jane (Unwin) Bumann
+<br>Mary Elizabeth (Wright) Santi
+
+<p><strong>Class of 1974:</strong>
+
+<br>Christopher Mark Albin
+<br>Rebecca Ewing (Allen) Devore
+<br>Trent Henry Barnhart
+<br>Guy Thomas Blaylock
+<br>Lawrence Michael Brazelton
+<br>Mimi Brodsky
+<br>Angela Monica (Chow) Bates
+<br>Lucy Marie Coble
+<br>Paul Anthony Creighton
+<br>Bettina Anna (Debrunner) Vossbrinck
+<br>Therese Anne DePauw
+<br>Lynn Ellen (Doebel) Bell
+<br>Charles Allan Ettenshon
+<br>David Paul Fumento
+<br>Gerald Blaine Garst, Jr.
+<br>Jennifer Gold
+<br>Armin Haken
+<br>John Christopher Hamm
+<br>Cynthia Maxine Heath
+<br>Bill Herron
+<br>Alexander "Alec" Otto Hilton
+<br>John Francis Hogan
+<br>Sharon "Sherry" Louise (Holden) Winslow
+<br>Brian Huff
+<br>Robin Jackson
+<br>Diane Marie Jenkins
+<br>Emily Claire Johnson
+<br>Ross Johnston
+<br>Kathy Josephsberg
+<br>Yonsook Kang
+<br>Katherine Anne Klock
+<br>Lissa (Lamkin) Broome
+<br>James David Lewman
+<br>Jennifer Louise (McClellan) Pfiester
+<br>Jeff McNish
+<br>Darrell Lynn Miller
+<br>Patricia Elen (Murtha) Stoffregen
+<br>Maureen Ann O'Halleran
+<br>Bruce Pennock
+<br>Sheila Marie (Pirkle) Keane
+<br>Larry Thomas "L.T." Robertson, Jr. 
+<br>Patst Rutledge
+<br>Mark Slate
+<br>Susan Margaret (Smith) Ross
+<br>Donald Aragon Spaeth
+<br>Jefrey Arthur Stephens
+<br>Bath Trupin Campbell
+<br>Michael May-Quang Wei
+<br>Judy Wells
+<br>Janice Williams
+<br>Jennifer Anne (Williams) Brown
+<br>Ellen Ziff
+<br>David Michael Zwarich
+
+<p><strong>Class of 1975:</strong>
+
+<br>David Albin
+<br>Josh Ewing
+<br>Louise (Allen) Shearer
+<br>Ruth Atkin
+<br>John Robert Philip Bartle
+<br>James Edward Bergman
+<br>Mary Elizabeth Bowden
+<br>Susan Burnham
+<br>Benjamin Casad
+<br>Helen Marie "Christina" Corbett
+<br>Anne Diggs
+<br>Mary Victoria "Vicki" Magdalene Frances Patterson Downing
+<br>Thomas Wayne Dworschack
+<br>Fred Joshua Ewing
+<br>Anne Elizabeth Gillies
+<br>Jeanete (Goines) Osler
+<br>Shiela Ann (Grob) Hildebrant
+<br>Jonathan Haile
+<br>Raw Ann (Haltiwanger) Matthews
+<br>Sandra Jean Herron
+<br>Shawn Jay Holliday
+<br>Patrick Kearns
+<br>Della Ming Lin
+<br>James Giles McGrath
+<br>Vicki Patterson
+<br>Towneley Pearson
+<br>Will Wendell Pirkle
+<br>Mark Ernest Plath
+<br>Laura Smith Porter
+<br>Gerhard Wolfgang Raether
+<br>Hal Karl Rothman
+<br>Mark Burrill Rubel 
+<br>Beth Rubin 
+<br>Frederick Roy Schult
+<br>Daniel Shulman
+<br>Ross Wyatt Simpson
+<br>Ramona (Smith) Hut
+<br>David Clark Sprenkle
+<br>Polly Elaine Stecyk
+<br>Lori Anne Stephens
+<br>Lawrence William Stinson, Jr.
+<br>Lorelle Lynn (Uggerby) Jones
+<br>Joel Weichsel
+<br>Monica (Williams) Harris
+<br>Robert Yen
+<br>Fred Young, Jr.
+<br>Jill Marie (Zwoyer) Mulder
+
+<p><strong>Class of 1976:</strong>
+
+<br>Elizabeth Carol "Gail" (Amsbary) Nichols
+<br>Andrew Appel
+<br>Karen Sue (Barnhart) Bush
+<br>Rita Bradley
+<br>Gregory David Baum
+<br>Mary Eleanor (Beberman) Heine
+<br>Lucia Meng-Jye (Chen) Markert
+<br>Vanessa Carter
+<br>Joe Casad
+<br>Christopher Vincent Chow
+<br>Joseph Franklin Coble III
+<br>Martin Paul Doebel
+<br>David Paul Frankel
+<br>Joseph S. Gershen
+<br>Frank Gladney
+<br>Armeen Walker Gould
+<br>Susan Jane Graham
+<br>Eric Norman Gullerud
+<br>Dorothea (Haken) Blostein
+<br>Charles N Hansell
+<br>Bradley Allen Hess
+<br>Christopher Allen Hurt
+<br>Joanna (Kling) Gillespie
+<br>Philip Renatus Krause
+<br>Karen Ann McCollough
+<br>Janet Winifred McGrath
+<br>Eddie Mitchell
+<br>Karen (Mueller) Young
+<br>Michael L Mueller
+<br>Kathleen Mary Regis (Murtha) Yost
+<br>David Nelson
+<br>Abigail "Abby" Neville
+<br>Gail Christine "Beth" Plath
+<br>Eric Bennett Rasmusen
+<br>Katherine Ravenhall
+<br>Ray Lynn Renkin
+<br>Edward Penstone "Ted" Ross
+<br>Jenna Christine Rubin
+<br>Dean Anthony Sherwood
+<br>Mie Snider
+<br>Kate Stewart
+<br>Andrew Richard Stone
+<br>Kristen (Taylor) Brettman
+<br>Francois Tempe
+<br>Katherine Tempe
+<br>Patty Trick
+<br>Nancy Jane Van Valkenburg
+<br>Scott Vallance
+<br>Daniel Watson
+<br>Max Taodu Wei
+<br>Suzanne Irene Wijsman
+<br>Christopher Robin Wilcock
+<br>Veronica Ann Woodhouse
+<br>James Logan Worley
+<br>Thomas Richard Worley
+<br>Joanne Yeh
+<br>Betty Yen
+
+<p><strong>Class of 1977:</strong>
+
+<br>James Alfred Ang
+<br>Sarah Morris Axel
+<br>David Brooks
+<br>James Lee Burnett
+<br>Emily Anmei (Chien) Mahoney
+<br>Kathy Clark
+<br>Christian Hans Debrunner
+<br>Stephen Mladen Dunatov
+<br>Christian Huff Haile
+<br>Walter Hansell
+<br>Scott Henderson
+<br>Charles Bernard Jacobs
+<br>Carla Miriam Lieberman
+<br>Oren Richard Lieberman
+<br>Gad Meir
+<br>Doug Mohn
+<br>Philippa Jhean Norman
+<br>Kevin Eugene Nortrup
+<br>Julie Peshkin
+<br>Julie Leigh Pfeffer
+<br>Jonathan David Pines
+<br>Jill Pirkle
+<br>Mary (Rasmusen) Beale
+<br>Lindsay Reichmann
+<br>Marc Eliot Reid
+<br>Dinah W. Y. Sah
+<br>Vicki Jo Scott
+<br>Kathi Sherbert
+<br>Paul Stevenson
+<br>Kristin Uggerby
+<br>Marcia Elizabeth Williams
+<br>Paul Young
+
+<p><strong>Class of 1978:</strong>
+
+<br>Laurel Frances Appel
+<br>Richard Blaylock
+<br>Amanda Margaret Bowhill
+<br>Nancy (Brotherson) Barricklo
+<br>Art Buckler
+<br>Jacqui Childress
+<br>Dov Cole
+<br>David Dennis
+<br>David Andrew Glockner
+<br>Stephen Glockner
+<br>Jason Paul Greenberg
+<br>Lippold Haken
+<br>Claire Marie (Hannon) Deal
+<br>Scott Henderson
+<br>Thomas Krause
+<br>Gerhard Lueschen
+<br>Michael Marder
+<br>Jim Mayeda
+<br>Linda Kay (Pace) Hinkle
+<br>Alison Jeanne Rieber
+<br>Robert Lie Yuan Sah
+<br>Diedre (Schupp) Matthews
+<br>Peter Steinberg
+<br>Paul Edwin Stevenson
+<br>Marie Elaine (Williams) Bellet
+<br>Mark Zvilus
+
+<p><strong>Class of 1979:</strong>
+
+<br>Raffi Peter Babakhanian
+<br>Karen Alice (Baum) Jessee
+<br>Dan Matthew Bruner
+<br>Peter Fox Burkholder
+<br>Leslie (Chandler) Brody
+<br>Anthony A Chien
+<br>Alexandrea "Alex" Claire (Davis)-Shaw
+<br>Carletta Donaldson
+<br>Katherine (Eades) Grill
+<br>Rosana Francescato
+<br>Yael Frankel
+<br>Jane Deborah Gladney
+<br>Susan Dee (Green) Taylor
+<br>Nels Gullerud
+<br>Peter Kolodziej
+<br>Lucia Lin
+<br>William Carroll Purves
+<br>Rohini Palit
+<br>Lindsay P Reichmann
+<br>Mary Ann Schran
+<br>Michael Peter Stecyk
+<br>Jane Stevenson
+<br>Lucy Joyce (Temperley) Metzger
+<br>Lehlasceli Tlou
+<br>John Mark Williams
+<br>Mary Grace Williams
+<br>Eric Young
+
+<p><strong>Class of 1980:</strong>
+
+<br>Elizabeth J “Lisa” (Badger) Stewart
+<br>Alicia Banks
+<br>Lea Bradley
+<br>Ed Chen
+<br>Andrew Andai Chien
+<br>Margot (Chow) McClaughry
+<br>James Gerard Deppe
+<br>Caroline Phelps Edwards
+<br>Mark Friedman
+<br>Stephen Gray
+<br>Hayit Greenspan
+<br>Keith Griffet
+<br>Kristine Carla Gunsalus
+<br>Laura (Howard) Arnett
+<br>Suzanne Elise (Kanet) Zelle
+<br>Eugene C Kao
+<br>Milos Kokotovic
+<br>Lorene Komorita
+<br>Karen Krummel
+<br>Sonja Langsjoen
+<br>Eric Loeb
+<br>John Mage
+<br>Bruce Maggs
+<br>Amy (Molnar) Hawkins
+<br>Gloria Lee (Netti) Roubal
+<br>Toshikazu Nishida
+<br>David William Norman
+<br>Paul Everett Parker, Jr.
+<br>John Gott Pirkle
+<br>Rebecca (Riley) Hill
+<br>Charles Schleicher
+<br>Daniel Allen Schult
+<br>Cynthia Sherbert
+<br>Karen Anitra “Duck” Sherwood
+<br>Kazuko Susuki
+<br>Nicholas David Cecil Temperley
+<br>Elizabeth (Uroff) Colt
+<br>Pat Washington
+<br>Diane (Yang) Hatcher
+<br>Eli Zangvi
+<br>Martin Zahurance
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

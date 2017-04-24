@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Alumni Staff</div>
+				<div id="section-content">
+<img class="headshot-img" src="/images/alumni/Marianne%20Downey%20RESIZED.jpg">
+<h2>Marianne Downey CFRE - Director of Advancement</h2>
+<p>Marianne Downey <a href="mailto: downey1@illinois.edu ">(downey1)</a> 
+came to Uni in October 2010 after previously serving as the Director of Advancement at the University of Illinois College of Law and at Cathedral High School, a private high school in Indianapolis. 
+Marianne has an MA in Teacher Leadership, Education Leadership at University of Illinois Springfield, and a B.S. in Business at Indiana University - Kelley School of Business. 
+She earned a Certificate in Fund Raising Management at the Indiana University, Center on Philanthropy Fund Raising School. 
+Marianne first qualified for Certified Fund Raising Executive (CFRE) status in 1997 and has successfully recertified through 2016. Marianne serves on the campus Chief Advancement Officer (CAO) meetings led by the Vice Chancellor of Institutional Advancement and attends the school Administration and Executive Committee meetings.
+She reports at the Parent Faculty Organization PFO meetings each month from August through May of each year. 
+She is responsible for organizing the Advancement Committee and the Advisory Board meetings. 
+She leads the Advancement Team including the Assistant Director of Advancement, Kymberly Burkhead-Dalton, the Advancement Office Support Associate, Corissa Clark and the Communications and Publications Coordinator Carol Lombardi. 
+Marianne is the Membership Chair on the Board of Directors for the Association of Fundraising Professionals of East Central Illinois (AFPECI) through December 31, 2014. 
+She also serves on the Mayor of Urbana's Neighborhood Safety Task Force.</p>
+
+
+<img class="headshot-img" src="/images/alumni/joshua_hall.jpg">
+<h2>Joshua Hall — Assistant Director of Advancement</h2>
+<p>Joshua Hall <a href="mailto: hall48@illinois.edu ">(hall48)</a> 
+ is a lifetime member of the Urbana-Champaign community.  He has earned both his BS and MS degrees from the University of Illinois.  Joshua worked for the UI Department of Intercollegiate Athletics summer camps and clinics and the ticket office.  Before coming to Uni High, he was the Director of Operations and Sales at Elite Entertainment.</p>
+
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

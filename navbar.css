@@ -6,8 +6,6 @@
     font-size: 0.875rem;
     
     color: #E87722;
-    background-color: #FFFFFF;
-    background-color: rgba( 255, 255, 255, 0.9 );
 }
 
 #uni-name {
@@ -83,6 +81,6 @@ img.uni-mark {
 }
 
 .fix-navbar {
-    position: fixed;
-    width: 100%; /* Doesn't work without this, not quite sure why */
+	position: fixed;
+	width: 100%; /* Doesn't work without this, not quite sure why */
 }

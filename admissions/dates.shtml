@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Admissions Deadlines</div>
+				<div id="section-content">
+					<h2>Subfreshmen</h2>
+					<table border = "1" cellpadding ="2" cellspacing = "0">
+							<tr>
+							<td>2016-17 Informational Meetings - 7 p.m, Uni 210</td>
+							<td>October 5, November 9, January 11, and February 8</td>
+							</tr>
+							
+							<tr>
+							<td>SSAT Tests Dates for Subfreshmen</td>
+							<td>October 15, November 12, December 10, January 7, and February 11</td>
+							</tr>
+							
+							<tr>
+							<td>Application Deadline</td>
+							<td>February 22, 2017</td>
+							</tr>
+							
+							<tr>
+							<td>Admission Decisions Mailed to Students</td>
+							<td>April 18, 2017</td>
+							</tr>
+							
+							<tr>
+							<td>Acceptance Decisions Must Be Returned to Uni</td>
+							<td>May 8, 2017</td>
+							</tr>
+					</table>
+					<p><strong><u>IT IS THE RESPONSIBILITY OF THE APPLICANT TO CONFIRM THAT THE APPLICATION IS COMPLETE AND RECEIVED BY UNIVERSITY OF ILLINOIS LABORATORY HIGH
+					 SCHOOL BY THE DEADLINE.</u> </strong> <br> </p>
+					 
+					 <p><h2>High School</h2><p>
+					 <table border = "1" cellpadding ="2" cellspacing = "0">
+							<tr>
+							<td>2016-17 Informational Meetings - 7 p.m, Uni 210</td>
+							<td>October 5, November 9, January 11, and February 8</td>
+							</tr>
+							
+							<tr>
+							<td>SSAT Tests Dates for High School Applicants</td>
+							<td>October 15, November 12, December 10, January 7, February 11, and March 4</td>
+							</tr>
+							
+							<tr>
+							<td>Application Deadline</td>
+							<td>March 15, 2017</td>
+							</tr>
+							
+							<tr>
+							<td>Admission Decisions Mailed to Students</td>
+							<td> May 2, 2017</td>
+							</tr>
+							
+							<tr>
+							<td>Acceptance Decisions Must Be Returned to Uni</td>
+							<td>May 12, 2017</td>
+							</tr>
+					</table>
+					<p><strong><u>IT IS THE RESPONSIBILITY OF THE APPLICANT TO CONFIRM THAT THE APPLICATION IS COMPLETE AND RECEIVED BY UNIVERSITY OF ILLINOIS LABORATORY HIGH
+					 SCHOOL BY THE DEADLINE.</u> </strong><br></p>
+					 <hr>
+
+					<h2>If you have any questions, please contact:</h2>
+					<p>Gwyn Ortiz
+					<br>University Laboratory High School
+					<br>1212 W. Springfield Ave
+					<br>Urbana, IL 61801
+					<br>217-333-2870 
+					<br>geortiz@illinois.edu
+				</div>
+			</div>
+			<!--#include file="admissionsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

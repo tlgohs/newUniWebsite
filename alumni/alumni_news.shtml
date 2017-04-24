@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Alumni News</div>
+				<div id="section-content">
+					<p>Below is a listing of recent alumni notes/updates submitted to the Uni High Alumni Department.</p>
+<br>
+<h2> Recent Updates </h2>
+<ul><li> 2014 Fall Engineering Class enjoys media frenzy: <a href="http://www.istem.illinois.edu/news/windmaze.html"> About Design Project</a> /<a href="http://www.istem.illinois.edu/news/Orpheum.airmaze.html"> About the Exhibit</a> </li>
+ <li>2015 Artist ACE Award Winner: <a href="https://www.facebook.com/40North?fref=photo">Click for more information about the ACE Awards</a></li>
+ <li>News-Gazette: <a href="http://www.news-gazette.com/news/local/2014-11-24/uni-high-grad-becomes-only-illinoisan-earn-prestigious-honor.html">Uni Grad Rachel Harmon only Illinoian to be named Rhodes scholar</a> </li> 
+<li> News-Gazette: <a href="http://www.news-gazette.com/news/local/2014-12-04/presidential-project-was-bust.html">Presidential project was a bust</a> </li> 
+<li> News-Gazette: <a href="http://www.news-gazette.com/news/local/2014-12-05/updated-urbana-native-hopkins-works-orion-spacecraft-project.html">Uni Grad Josh Hopkins Work on Orion Space Launch</a> </li> 
+<li> News-Gazette: <a href="http://www.news-gazette.com/arts-entertainment/local/2014-12-11/notes-worthy-colin-althaus-tara-terra.html">Colin Althaus of Tara Terra</a> </li>
+<li> News-Gazette: <a href="http://www.news-gazette.com/news/local/2016-08-20/nine-area-students-named-ui-chancellors-scholars.html">4 Uni students named UI Chancellor's Scholars</a> </li>
+<li> News-Gazette: <a href="http://www.news-gazette.com/living/2016-08-24/neighbors-recognizing-accomplishments-throughout-our-communities.html">2 Uni alumni begin training at SIU medical school</a> </li> </ul>
+<h3> Staff </h3>
+<p>Former Uni High Teacher Audrey Wells (taught English and founded the Film Study class at Uni from 1983 to 2001) has co-authored, along with Perry Morris and Joseph Muskin the book:<i>The Art Theatre: Playing Movies for 100 Years.</i>The book celebrates the Art Theatre in downtown Champaign IL that celebrated its centennial November 12, 2013</p>
+<p>Former Uni principal and math professor Dr. Robert Davis brought and led the Madison Project, an innovative curriculum for teaching mathematics, to Webster in the 1960's. This website provides access to digitized videos created from the original inservice films produced by the Madison Project, as well as information on the curriculum.</p>
+<h3> Class of 2011 </h3>
+<p>In spring of 2011, Argonne materials scientist Jeff Greeley won a DOE Early Career Research Award to study the chemical and physical processes at the molecular boundaries between solid electrodes and liquid electrolytes.</span></p>
+<h3> Class of 2010 </h3>
+<p> Katie Buzard, class of 2010 is signing the lead role in the <a href="http://www.nj.com/times-entertainment/index.ssf/2014/01/princeton_university_to_presen.html">Princeton University production of Monteverdi's Poppea</a>.</span> </p>
+<h3> Class of 2009 </h3>
+<p> Rachel Hyman, class of 2009, is involved in Edit Huddle, a startup that was one of the winners of the Chicago Startup Weekend competition. </p>
+<h3> Class of 2008 </h3>
+<p> Alisa Rantanen, of the class of 2008, graduated from the University of Notre Dame with a major in Interior Design. She was honored at the Industrial Designers Society of America (IDSA) International Conference in Chicago as one of the top five graduating industrial designers in the nation. </p>
+
+</p>
+<h3> Class of 2007</h3>
+<p> Jonathon Baron '07 elected to Phi Beta Kappa at the University of Chicago </p>
+
+<h3> Class of 2006</h3>
+<p> Melissa "Mo" Kedeki, class of 2006, featured in a CBS report on women in technology beginning at 2:15<a href="http://www.cbsnews.com/videos/facebook-exec-women-needed-in-tech-field/"> Video</a></p>
+<h3> Class of 2004</h3>
+<p>Mark Savignac, of the class of 2004, has been hired as a Supreme Court Clerk for Justice Stephen G. Breyer.</p>
+<h3> Class of 2000</h3>
+<p> Uni Class of 2000 grad, Phillip M. Rowell II, has been named Core Services solution architect for Cerner Corp. PTY Limited, the Australian division of Cerner Corp. He will be responsible for expert domain knowledge, implementation approach consultation and process design for the Queensland Health Authority’s Electronic Medical Record Program.  Phillip, his wife Jennifer and daughter Lily will be based in Brisbane, Australia.</p>
+<h3>Class of 1999</h3>
+<p><a href="http://www.marketplace.org/topics/tech/jobs-legacy/ceo-jobs-was-able-read-people">On NPR’s Marketplace Jeremy Hobson ’99 interviewed Reed Martin ’99, a former Apple employee, about Steve Jobs stepping down as CEO of  Apple.</a> Producer Helen Estabrook, from the class of 1999, was <a href="http://www.gettyimages.com/detail/news-photo/producer-helen-estabrook-attends-the-premiere-of-whiplash-news-photo/463137317"> seen at the premiere "Whiplash"</a></p>
+
+<h3> Class of 1994 & Class of 2000</h3>
+<p><a href="http://www.dharlawllp.com/who-we-are/vikas-s-dhar">Vikas</a>(Graduated 1994) and <a href="http://www.dharlawllp.com/who-we-are/vilas-dhar">Vilas</a> (Graduated 2000) Dhar have started a law firm described as a "Social enterprise" and "Coworking pioneer" by <a href="http://www.forbes.com/sites/annefield/2013/09/22/not-an-oxymoron-a-socially-conscious-law-firm/"> Forbes Magazine</a> They aim to use the profits they obtain from traditional paid laywering to do Pro Bono (not for profit) work, as opposed to only taking on Pro Bono cases under the laws that require lawyers to take on a minimum amount of Pro Bono cases every year.</p>
+
+<h3> Class of 1991</h3>
+<p>Jamie L. Bennett, of the class of 1991, has been announced as the new executive director of ArtPlace.</p>
+
+<h3> Class of 1988</h3>
+<p>USC ICT research team headed by Uni High Class of ’88 grad, Paul Debevec,  provided original testing for the zero gravity special effects in the new film Gravity. <a href="http://www.fxguide.com/featured/gravity/">http://www.fxguide.com/featured/gravity/</a></p>
+
+<h3>Class of 1986</h3>
+
+
+<p>Nina Paley, of the class of 1986, was declared the 2015 winner of the Artist ACR Award. <a href="https://www.facebook.com/40North?fref=photo">Click for more information about the ACE Awards</a></p>
+
+<p>Daniel Shapiro, a Champaign native, who graduated from Uni High in 1986 was nominated by President Obama and sworn in by Secretary of State Hillary Clinton on July 8, 2011 as the 19th United States Ambassador to Israel. <a href="http://www.nytimes.com/2011/03/10/world/middleeast/10diplomacy.html?_r=0">Here is an additional article about him</a>  </p>
+<p> Rahul Pandharipande, of the class of 1986, now a mathematician at the Swiss Federal Institute of Technology in Zürich, won the 2013.<a href="http://en.wikipedia.org/wiki/Clay_Research_Award"> Clay Research Award</a>  </p>   
+
+<h3>Class of 1984</h3>
+<p> Arnold Rudnick, of the class of 1984, has written a book called Little Green, which is currently the the fifteenth-ranked children's book on Amazon.</p>
+
+<h3> Class of 1982</h3>
+<p>Michael Halberstam, of the class of 1982, has raised $22 million to build a new theater for the Writers' Theater, of which he is the Artistic Director, in Glencoe, Illinois.</p>
+
+<h3> Class of 1975</h3>
+<p> <a href="http://40north.org/programs/ace-awards/2011-award-winners">Mark Rubel, Class of 1975, and past Uni Parent Hiram Paley were awarded honors at the 2011 ACE Awards by the 40N/88West organization.</a></p>
+
+<h3> Class of 1973</h3>
+<p> Frederick Marx's film, "Rites of Passage: Mentoring the Future", is now in production.<a href="https://www.youtube.com/watch?v=FKp2Hq7GYHc&feature=youtu.be">Teaser</a></p>
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

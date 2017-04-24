@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Non-Discrimination Policy</div>
+				<div id="section-content">
+					<div id = "policy">It is the policy of the University of Illinois not to engage in discrimination or harassment against any person 
+because of race, color, religion, sex, national origin, ancestry, age, marital status, disability, sexual orientation, unfavorable 
+discharge from the military, or status as a disabled veteran or veteran of the Vietnam era and to comply with all federal and state
+ nondiscrimination, equal opportunity and affirmative action laws, orders, and regulations. This nondiscrimination policy applies 
+ to admissions, employment, access to and treatment in the University programs and activities. Complaints of invidious discrimination 
+ prohibited by University policy are to be resolved within existing University procedures.
+<p>
+ For additional information or assistance on equal opportunity and access policies, as well as other University policies or information 
+ on federal and state civil right laws, please contact: Heidi Johnson, Assistant Chancellor and Director, Office of Equal Opportunity 
+ and Access, 100 A Swanlund Administration Building MC-304, 601 E. John Street, Champaign, IL 61820, (217) 333-0885.</div>
+				</div>
+			</div>
+			<!--#include file="admissionsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

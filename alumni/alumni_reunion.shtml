@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Alumni Reunions</div>
+				<div id="two-images"><img src="/images/alumni/butlerandfriends.jpg"><img src="/images/alumni/siblings.jpg"></div>
+				<div id="section-content">
+					<p>The University High School Alumni Department is here to help you make your reunion a success.  Whether you’re returning for Alumni Reunion Weekend or events in between, we're happy to help you renew friendships, rekindle memories, and reconnect you with Uni High. 
+If you are interested in coordinating a reunion or think it is time to get a group together, please let us know.</p>
+
+<p> Click here to see photos from the <a href="85reunion.shtml">Class of 1985 Reunion</a>.
+</p>
+<h3> UPCOMING REUNIONS</h3>
+<ul>
+
+
+<li>Reunion Dinners (’67, ’77, ‘87, all ’50s) Jeremy Hobson '99 emcee. Planned for April 6-8 2017</li>
+
+<li>The Classes of 1950 through 1959 are planning a grand reunion in April 2017 –  <a href="mailto:LornaGraff@zeitlin.com">Lorna Graff</a>, <a href="mailto:marciarudin@aol.com">Marcia Rudin</a>  and   <a href="mailto:aardvark@illinois.edu">Steve Sanderson</a></li>
+ 
+<li>Class of 1965 Reunion June 3,4 & 5 at Timberline Lodge atop Hood Mountain in Oregon. <a href="mailto:mimiadam3@gmail.com">Miriam “Mimi” (Ringer) Adam</a> and Roger Kerlin 360-927-2469.</li>
+
+
+ 
+
+<li>Class of 1967 Reunion planned for April 2017.  <a href="mailto:wineguy3@swbell.net">Dan Brodsky'67 </a> </li>
+
+<li>Class of 1986 Reunion planned. (date to be announced)  <a href="mailto:brentlyles@gmail.com">Brent Lyles '86 </a> </li>
+
+<li>The Class of 2006 Reunion is being planned by <a href="mailto:julie.chen06@gmail.com">Lula Chen</a> dates TBA</li>
+
+<li>The Class of 1996 Reunion is being planned by <a href="mailto:jamesauler@gmail.com">James Auler</a> Dates TBA</li>
+</ul>
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

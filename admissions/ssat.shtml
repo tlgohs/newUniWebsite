@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">The SSAT</div>
+				<div id="section-content">
+					<h2>What is the SSAT?</h2>
+	<Ul>
+		<li>The SSAT is the examination Uni uses to help assess an applicant's verbal, quantitative, reading, and writing aptitude which will help predict the applicant's ability to do the work at Uni. Registration forms for the SSAT are online at <a href="http://www.ssat.org">http://www.ssat.org</a>.
+		<li>The SSAT is <u>NOT</u> the determining factor in considering selection for admissions. All parts of the application are taken into consideration.</li>
+		<li>Applicants for the SUBFRESHMAN class must take the <u>middle level</u> of the SSAT. <strong><em><u>SSAT scores taken before the 6th grade will not be considered.</u></em></strong>.</li>
+		<li>Applicants for grades 9-11 must take the <u>upper level</u> of the SSAT. Test dates for HIGH SCHOOL admission are October 15, November 12, December 10, January 7, February 11, and March 4.</li> 
+		<li>SSAT offers a study guide (<strong><em>Preparing and Applying</em></strong>) for prospective applicants. The guide includes a full-length practice test, review tips and exercises, sample answer sheets, and test-scoring instructions. You can order this guide when you register for the test or use the order form of the SSAT Student Registration Guide. The cost is $37.</li>
+		<li> When registering for the SSAT, make sure that you request your scores be sent to University Laboratory High School (code number 7820). Uni will not accept unofficial score reports from the applicant.</li>
+</ul>
+
+	<h2>Test Dates</h2>
+	<Ul><li>Subfreshman Applicants: are October 15, November 12, December 10, January 7, and February 11. </li>
+		<li> 9th - 11th applicants: are October 15, November 12, December 10, January 7, February 11, and March 4. </li></ul>
+	<h2>Test Fees</h2>
+	<Ul><li>The test fee is $127. Sign up after the original registration deadline is an additional $45. Rush registration is an additional $85.
+		</li>
+	<li>Fee waivers are available for eligible families. To determine if the applicant is eligible for a fee waiver for the SSAT, 
+	email Dr. Jeanette Nuckolls at nuckolij@illinois.edu, (e.g. those individuals who qualify for free/reduced lunch).</li>
+	<li>When registering for the SSAT, make sure that you request your scores be sent to University Laboratory High School (code number 7820). 
+	Uni will not accept unofficial score reports from the applicant.</li></ul>
+
+	<h2> Special Accommodations </h2>
+	<Ul><li>For additional information about the SSAT, testing disability accommodations, or Sabbath Sunday accommodations, contact Dr. Jeanette Nuckolls, nuckolij@illinois.edu.</li></ul>
+	<h2>What SSAT score is needed to be admitted to Uni?</h2>
+
+	<Ul><li>There is no set standard or minimum score that must be achieved on the SSAT to be considered for admittance to Uni. The SSAT score is just one component 
+	of the entire application package that is reviewed. </li></ul>
+				</div>
+			</div>
+			<!--#include file="admissionsSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

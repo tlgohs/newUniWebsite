@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="/alumni/third-level.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Make a Gift to Uni</div>
+				<div id="section-content">
+					<h1>Make a Gift to Uni</h1>
+<p>You are about to leave this site. You will be transferred to the University of Illinois Foundation site where you can make your gift safely and securely. Start by entering the amount you wish to donate to each of the following Uni High funds.&nbsp; Federal corporate tax ID number: 37-6006007</p>
+<p><h3>Dear Uni High Alumni Parents & Friends:</h3>
+
+
+As the holiday season approaches, consider making a gift from your IRA the University of Illinois Foundation designated for UI Laboratory High School. With your help we can continue to support tomorrow's leaders and innovators.
+
+Simply contact Director of Advancement, Marianne Downey at 217-244-8586 or at  <a href="mailto:downey1@illinois.edu">downey1@illinois.edu</a>
+<p>
+The Details
+<ul><li>You must be 70½ or older.</li>
+<li>You may transfer up to $100,000 from your IRA directly to the University of Illinois Foundation designated for UI Laboratory High School.</li>
+<li>If you have not yet taken your required minimum distribution for 2016, your gift can satisfy all or part of that requirement.</li>
+<li>You pay no income tax on the gift. The transfer generates neither taxable income nor a tax deduction, so you benefit even if you do not itemize your tax deductions.</li></ul>
+ 
+If you are at least 59½ but not yet 70½ you can make a charitable gift from an IRA during your lifetime, without penalty. If you take distributions from your IRA—even if paid directly to the University of Illinois Foundation designated for UI Laboratory High School — you'll have to report the distribution as taxable income on your tax return in the year of distribution. If you itemize your deductions, you can take an income tax charitable deduction for the amount of your gift.<p>
+
+<strong>Time Is Running Out—Act Now!</strong>
+For your gift to qualify in 2016, your gift must be completed by Dec. 31, 2016.<p>
+
+Contact Director of Advancement, Marianne Downey at 217-244-8586 or at <a href="mailto:downey1@illinois.edu">downey1@illinois.edu</a> to learn more about the many ways you can make a difference at Uni High this season with a gift before the end of the year.<p>
+
+<p>
+<p>Hover over a fund for a description</p>
+
+<hr>
+	<div id="giveform"><ul>
+		<form action="  https://www.uif.uillinois.edu/gifts/PaymentPageTransfer.aspx" method="post" name="FrontPage_Form1" onsubmit="return My_Form_Validator(this)">
+		<input name="DEPARTMENT" type="hidden" value="University Laboratory High School"> 			
+		<input name="DEPARTMENT_EMAIL" type="hidden" value="principal@uni.illinois.edu,hall48@illinois.edu,downey1@illinois.edu"> 
+		<input name="TRACKING_CODE" type="hidden" value="10061"> 
+		<input name="ALLOW_EDITS" type="hidden" value="N"> 
+		<input name="COMPLETED_URL" type="hidden" value="http://www.uni.illinois.edu"> 
+			<input name="CHANGE_DATA_URL" type="hidden" value="http://www.uni.uiuc.edu/support-uni">
+			<table border="0" cellpadding="0" cellspacing="0" id="give">
+				<tbody>
+					<tr>
+								
+<td class="ammount" scope="col" width="140">$<input class="field" language="javascript" name="GIFT_AMOUNT1" onchange="return amountchange()" size="10" value="0.00"></td>
+
+<td class="descrip" scope="col" width="560"><a class="thickbox" href="#TB_inline?height=100&amp;width=320&amp;inlineId=fund1" title="Current use funds provided by parents of students at University Laboratory High School. These funds are unrestricted and are to be used by the Director at his/her discretion"><b>1. Parent Education Fund</b></a>
+	<br>						
+Current use funds provided by parents of students at University Laboratory High School. These funds are unrestricted and are to be used by the Director at his/her discretion.
+</td>
+</tr>
+	<tr><td><br></td></tr>		
+				
+					<tr>
+						<td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT2" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=320&amp;inlineId=fund2" title="Current use funds provided by alumni, friends and others to be used at the discretion of the Director"><b>2. Annual Fund </b></a>
+							<br>Current use funds provided by alumni, friends and others to be used at the discretion of the Director.
+						</td>
+					</tr>
+						<tr><td><br></td></tr>		
+					<tr>
+						<td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT3" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=320&amp;inlineId=fund3" title="The net income from the Uni High Endowment Fund provides support to special projects designed to enrich the teaching programs and enhance the quality of instruction at the University Laboratory High School, University of Illinois at Urbana-Champaign"><b>3. Endowment Fund </b></a>
+							<br>The net income from the Uni High Endowment Fund provides support to special projects designed to enrich the teaching programs and enhance the quality of instruction at the University Laboratory High School, University of Illinois at Urbana-Champaign.
+						</td>
+					</tr>
+						<tr><td><br></td></tr>		
+					<tr>
+						<td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT4" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=520&amp;inlineId=fund4" title="Gifts to this endowed fund provide financial support that would not be met by the budget set forth by the school for faculty salaries"><b>4. John E.Finch, M.D. Faculty Support Fund</b></a>&nbsp;(endowment)
+							<br>Gifts to this endowed fund provide financial support that would not be met by the budget set forth by the school for faculty salaries.
+						</td>
+					</tr>
+						<tr><td><br></td></tr>		
+					<tr>
+						<td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT5" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=520&amp;inlineId=fund5" title="This fund provides stipends to enhance the salaries of full-time teachers and counselors who have two or more years of service at University Laboratory High School at the University of Illinois at Urbana-Champaign"><b>5. Hedeman Faculty Salary Fund</b></a>&nbsp;(endowment)
+							<br>This fund provides stipends to enhance the salaries of full-time teachers and counselors who have two or more years of service at University Laboratory High School at the University of Illinois at Urbana-Champaign.
+						</td>
+					</tr>
+						<tr><td><br></td></tr>		
+					<tr>
+						<td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT6" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=320&amp;inlineId=fund6" title="Class of 1984 Leo Millar Memorial Fund provides funds to improve the present facility. These gifts could be given as current use gifts or can be placed in a named endowment ($25,000 or more)"><b>6. Class of 1984 Leo Millar Memorial Fund</b></a>
+							<br>Class of 1984 Leo Millar Memorial Fund provides funds to improve the present facility. These gifts could be given as current use gifts or can be placed in a named endowment ($25,000 or more).
+						</td>
+					</tr>
+						<tr><td><br></td></tr>		
+					<tr></tr>
+				
+						<td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT7" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=320&amp;inlineId=fund7" title="The Worldwide Four-Square Invitational Conference (Uni High alumni 1976 ~ 1986) desires to provide faculty an annual award for innovation in teaching their curriculum. On an annual basis, applications will be made available to the faculty in the Spring Semester, thus allowing funds to be used in the fall of the following year for the new curriculum. Awards are not paid to the grantee (since this would impact taxation) but for supplies/services to effect the innovative teaching."><b>7. 4-Square Reunion Fund</b></a>
+							<br>The Worldwide Four-Square Invitational Conference (Uni High alumni 1976 ~ 1986) desires to provide faculty an annual award for innovation in teaching their curriculum. On an annual basis, applications will be made available to the faculty in the Spring Semester, thus allowing funds to be used in the fall of the following year for the new curriculum. Awards are not paid to the grantee (since this would impact taxation) but for supplies/services to effect the innovative teaching.
+						</td>
+					</tr>
+						<tr><td><br></td></tr>		
+                    	<tr class="last">
+                    <td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT8" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=320&amp;inlineId=fund7" title="Innovations in Learning is a five year fundraising initiative for active learning spaces in the school, and for creating prototype classrooms of the future."><b>8. Innovations in Learning Fund</b></a>
+							<br>Innovations in Learning is a five year fundraising initiative for active learning spaces in the school, and for creating prototype classrooms of the future.
+						</td>
+					</tr>
+						<tr><td><br></td></tr>		
+						
+						<tr class="last">
+                    <td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT9" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=320&amp;inlineId=fund7" title="The Barbara Lazarus ’63 Memorial Fund to encourage, facilitate and support the study by girls at the secondary school level of science, technology, engineering and math (STEM). The goal of those who have initiated the fund, is that the school will use the fund for scholarships, stipends, programs, and research projects or grants that will meet the fund’s goals."><b>9. Barbara Lazarus ’63 Memorial Fund</b></a>
+							
+														<br>The Barbara Lazarus ’63 Memorial Fund to encourage, facilitate and support the study by girls at the secondary school level of science, technology, engineering and math (STEM). The goal of those who have initiated the fund, is that the school will use the fund for scholarships, stipends, programs, and research projects or grants that will meet the fund’s goals.
+													
+							
+							
+						</td>
+					</tr>
+								<tr><td><br></td></tr>	
+						
+						<tr class="last">
+                    <td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT10" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=320&amp;inlineId=fund7" title="The Uni High Class of 1973 is currently an undesignated fund, although the designation of this fund will be determined at the 45th Class Reunion.  Classmates are hopeful this fund can generate over $25,000 by 2018 to officially name an endowment in honor of their class. "><b>10. Uni High Class of 1973 Endowment</b></a>
+							
+														<br>The Uni High Class of 1973 is currently an undesignated fund, although the designation of this fund will be determined at the 45th Class Reunion.  Classmates are hopeful this fund can generate over $25,000 by 2018 to officially name an endowment in honor of their class. 
+													
+							
+							
+						</td>
+					</tr>
+								<tr><td><br></td></tr>	
+						
+						
+						
+						
+						
+						
+					                    	<!--<tr class="last">
+                    <td class="ammount" scope="col">$<input class="field" language="javascript" name="GIFT_AMOUNT89" onchange="return amountchange()" size="10" value="0.00"></td>
+						<td class="descrip" scope="col"><a class="thickbox" href="#TB_inline?height=100&amp;width=320&amp;inlineId=fund7" title="For those wishing to donate toward the 2016 Gala Fund but not attend can do so here.  A ticket price for an attendee of the Gala is $100."><b>9. 2015 Chicago All-Class Rooftop Reunion</b></a>
+							<br>Ticket price for an attendee of the Chicago Rooftop Reception is $100.
+						</td>
+					</tr>-->
+				</tbody>
+			</table>
+	<input name="FUND1" type="hidden" value="11334260/The Uni High Parent Education Fund">
+	<input name="FUND2" type="hidden" value="11334262/The Uni High Annual Fund">
+	<input name="FUND3" type="hidden" value="11775121/The Uni High Endowment Fund">
+	<input name="FUND4" type="hidden" value="11770953/The John E. Finch, M.D. University Laboratory High School Faculty Support Fund">
+	<input name="FUND5" type="hidden" value="11772263/The Uni High Hedeman Faculty Salary Endowment">
+	<input name="FUND6" type="hidden" value="11337134/Uni High - Class of 1984 Leo Millar Memorial Fund">
+	<input name="FUND7" type="hidden" value="11336078/4-Square Reunion Fund">
+	<input name="FUND8" type="hidden" value="11338164/Uni High Innovations in Learning Fund"> 
+		<input name="FUND9" type="hidden" value="11337915/Barbara Lazarus ’63 Memorial Fund">
+				<input name="FUND10" type="hidden" value="11338011/Uni High Class of 1973 Endowment">
+	<!--<input name="FUND9" type="hidden" value="774329/Uni High Chicago Rooftop Reception"> -->
+			<center><input alt="CONTINUE DONATION" class="button" name="image" onmouseout="this.src = 'images/continue_over.gif';" onmouseover="this.src = 'images/continue_over.gif';" src="images/continue_over.gif" style="border-width: 0px; border-style: solid; width: 170px; height: 41px; " type="image" value="submitname"></center>
+			<!--Continu donation moved from here-->
+		</form>
+
+</div>
+<!--Moved from location just above-->
+
+<p>Another way to give is to mail in your personal check.&nbsp; Please make the check out to the University of Illinois Foundation.
+Write name of the fund you wish to give to in the memo line.&nbsp; Mail the check to:</p>
+	<p> Marianne Downey, CFRE<br>
+	Director of Advancement<br>
+	1212 W. Springfield Avenue<br>
+	Urbana, IL 61801</p>
+<hr>
+<p>If you have questions or are in need of help when preparing to make a donation or a multi-year (up to five years) pledge, please contact:<br>
+<br>
+	Marianne Downey, CFRE<br>
+	Director of Advancement<br>
+	UNIVERSITY LABORATORY HIGH SCHOOL<br>
+	1212 West Springfield Avenue<br>
+	Urbana, IL 61801<br>
+	<a href="mailto:downey1@illinois.edu">downey1@illinois.edu</a><br>
+	office:&nbsp; 217.244.8586&nbsp; fax: 217.333.4138</p>
+    <br>
+    Josh Hall<br>
+    Assistant Director of Advancement<br>
+    UNIVERSITY LABORATORY HIGH SCHOOL<br>
+    1212 W. Springfield Avenue MC-254<br>
+    Urbana, IL 61801<br>
+    phone: 217.244.1368, cell: 217.621.2863, fax: 333.4138<br>
+    <a href="mailto:hall48@illinois.edu">hall48@illinois.edu</a><br>
+				</div>
+			</div>
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

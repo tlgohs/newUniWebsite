@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+		<script>
+			menuSpot=3;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Uni Graduating Classes 1922-1930</div>
+				<div id="section-content">
+					<p><strong>Class of 1922:</strong>
+					<br>Catherine Barr
+					<br>Eleanor Bogart
+					<br>Tom Brelsford
+					<br>Dorothy Brooks
+					<br>Helen Duffy
+					<br>Josephine Eden
+					<br>Irene Edwards
+					<br>Genevieve Gere
+					<br>Martha Harker
+					<br>Bernice Huddleston
+					<br>Erwin Latowsky
+					<br>Roberta Moore
+					<br>George Rex
+					<br>Gladys Shutt
+					<br>Julian Taylor
+
+					<p><strong>Class of 1923:</strong>
+
+					<p><strong>Class of 1924:</strong>
+
+					<br>Edward D. Barrett
+					<br>Helen B. Chamberlain
+
+					<p><strong>Class of 1925:</strong>
+
+					<br>Mabel Comer
+					<br>Mary MacKay Kelso
+					<br>Virginia M. Kimbell
+					<br>Eleanor P. Parmelee
+					<br>Dorothy Filbey Ross
+					<br>Charles A. Spears
+					<br>Norman A. Watson
+					<br>Dorothy F. Weaver
+
+					<p><strong>Class of 1926:</strong>
+
+					<br>Mary E. Blayney
+					<br>Alicia N. Easley
+					<br>Vernon T. Jr. Ferris
+					<br>Eugene Everett Trust Howe
+					<br>Thomas H. Malloy
+					<br>Sylvia B. Parmelee
+					<br>George Rice
+					<br>H. Warrick Squires
+					<br>Minnie E. Willey
+
+					<p><strong>Class of 1927:</strong>
+
+					<br>Morris Johnson
+					<br>Mary L. Peck
+					<br>Louise L. Reuss
+					<br>Richard D. Thomason
+
+					<p><strong>Class of 1928:</strong>
+
+					<br>Lois Shelford Bennett
+					<br>Edward G. Bourne
+					<br>Louise Cameron
+					<br>Irwin A. Cochrun
+					<br>Dorothy R. Riley
+					<br>Linda Fitz-Gerald Root
+					<br>Elizabeth H. Rusk
+					<br>John R. Spears
+					<br>Margaret Johnson Wallen
+					<br>William L. Waxler
+					<br>Frances L. Wintner
+
+					<p><strong>Class of 1929:</strong>
+
+					<br>Leslie R. Chandler
+					<br>John V. Clements
+					<br>Major Marriott
+					<br>Georgia Overhulser
+					<br>John V. Shelford
+					<br>Clarence A. Estate Thompson
+
+					<p><strong>Class of 1930:</strong>
+
+					<br>Robert P. (RET) Bacon
+					<br>Margaret W. Byergo
+					<br>Marajen Stevick Chinigo
+					<br>Eleta H. Dallenbach
+					<br>Jean B. DeWolf
+					<br>John W. DeWolf
+					<br>Robert A. Gopel
+					<br>Katharine C. Gopel
+					<br>Virginia Haworth
+					<br>Catherine E. Estate Lemna
+					<br>John H. Rothgeb
+					<br>Barbara J. Schroeder
+					<br>Elizabeth W. Silet
+					<br>Preston H. Tuttle
+					<br>Robert B. Watson
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

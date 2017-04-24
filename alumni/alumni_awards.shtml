@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+		<script>
+			menuSpot=7;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Alumni Awards</div>
+				<div id="section-content">
+					<p>The <a href="/about_uni/beberman.shtml">Max Beberman Award</a> is given out annually to an alumna/us of Uni High. The form to nominate someone for it can be found <a href="https://illinois.edu/fb/sec/9702405">here</a>.</p>
+					<ul>
+						<li><a href="beberman1985-1990.shtml">Max Beberman Award winners 1985-1990</a></li>
+						<li><a href="beberman1991-2000.shtml">Max Beberman Award winners 1991-2000</a></li>
+						<li><a href="beberman2001-2010.shtml">Max Beberman Award winners 2001-2010</a></li>
+						<li><a href="beberman2011-present.shtml">Max Beberman Award winners 2011-present</a></li>
+					</ul>
+					<p>The <a href="http://wyldeq.net">Wylde Q. Chicken Spontaneous Generation Award</a> is given annually to a Uni High student who "colors outside the lines". It is sponsored by the Uni graduating class of 1972.</p>
+					<ul>
+						<li><a href="http://wyldeq.net/winners.htm">Wylde Q. Chicken Award winners</a></li>
+					</ul>
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

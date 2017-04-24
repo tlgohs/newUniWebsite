@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+		<script>
+			menuSpot=3;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Uni Graduating Classes 1931-1940</div>
+				<div id="section-content">
+					<p><strong>Class of 1931:</strong>
+
+<br>John M. Anderson
+<br>Jane L. Bitter
+<br>Virginia Ellen Downs Boren
+<br>William W. Coffeen
+<br>Edith L. Cutler
+<br>Dorothy Dolly Durand
+<br>Charlotte H. Enger
+<br>Walter M. Enger
+<br>Richard B. Ensign
+<br>Barbara M. Grote
+<br>Marialice Grupp
+<br>Virginia H. Hotchkin
+<br>Martha R. Huff
+<br>Mary Margaret Klingel
+<br>Alma M. Moore
+<br>Rexford Jr. Newcomb
+<br>Nita Pearson
+<br>Mary K. Peer
+<br>William E. Rapp
+<br>E. Alberta Wiltjer
+
+<p><strong>Class of 1932:</strong>
+
+<br>Robert J. Buswell
+<br>Gilberta Cook
+
+<p><strong>Class of 1933:</strong>
+
+<br>Vivian T. Bell
+<br>Charles W. Bidwell
+<br>Donald E. Boudreau
+<br>John R. Edmonds
+<br>Virginia Palfrey Trust Forsyth
+<br>Edgar S. Jr. Furniss
+<br>Carlyn Gottschalk
+<br>Willburt D. Ham
+<br>Irma L. Harmeson
+<br>Harry H. Heddins
+<br>Annamarie K. Honnold
+<br>Martha C. Houston
+<br>Margaret A. Larson
+<br>Arthur L. Lewis
+<br>Mary E. Little
+<br>Richard R. Little
+<br>Richard R. Little
+<br>Catherine M. Malloy
+<br>Alice H. Myers
+<br>Doris P. Oehler
+<br>Christine J. Reinke-White
+<br>Charles W. Schlatter
+<br>Rosalya F. Schmidt
+<br>Anne M. Shumate
+<br>Gerald C. Jr. Smith
+<br>Barbara F. Wilson
+<br>Joseph S. Wooters
+
+<p><strong>Class of 1934:</strong>
+
+<br>William R. Barr
+<br>Charlotte H. Bruner
+<br>Stanley A. Chapman
+<br>Mary Ann Clark
+<br>Catherine L. Goutiere
+<br>Paul H. Jones
+<br>Melville T. Jr. Kennedy
+<br>Margaret Sarah Mabie
+<br>Virginia F. Peterson
+<br>Dorothy Jane Prosser
+<br>James M. Robertson
+<br>Margaret Kunz Ruhe
+<br>Edith W. Solfisburg
+<br>Katherine S. Strong
+<br>Ellen S. Swartz
+<br>Elmer P. Teter
+<br>Margaret Walter
+<br>Paul D. Wilson
+<br>Mary Yarnell
+
+<p><strong>Class of 1935:</strong>
+
+<br>Thomas E. Berger
+<br>Ruth H. Burlison
+<br>Sue F. Carrithers
+<br>Betty Jean Curtis Chapin
+<br>Elizabeth W. Colburn
+<br>Archie J. Deutschman
+<br>Dorothy T. DeWolf
+<br>Frank T. DeWolf
+<br>Doloris J. Dwyer
+<br>Philip M. Jr. Faucett
+<br>Nathan V. Filbey
+<br>William F. Hutchinson
+<br>William F. Lytle
+<br>Florence E. Michod
+<br>Richard M. Noyes
+<br>Catherine C. Riegel
+<br>Mary W. Skeppstrom
+<br>James Tobin
+<br>Janice H. White
+<br>Roger W. Williams
+<br>Charles Ellingson Zeleny
+
+<p><strong>Class of 1936:</strong>
+
+<br>Elinor Barr
+<br>Robert N. Ensign
+<br>Merle G. Hamburg
+<br>Doris H. Hedrick
+<br>Charlotte Herman Kerr
+<br>Eleanor A. Maass
+<br>Minnie Faucett Martin
+<br>Norman D. Raman
+<br>Sherman K. Reed
+<br>M. D. R. Riddell
+<br>Jane Raymond Sansregret
+<br>Marjorie P. Sauzedde
+<br>Thomas Clark Shedd
+<br>Frances Quirke Washburn
+<br>Bettie G. Wathall
+<br>Alma E. White
+
+<p><strong>Class of 1937:</strong>
+
+<br>Elisabeth G. Baldwin
+<br>Louise S. Caps
+<br>Robert A. Deutschman
+<br>John M. Dorsey
+<br>Elizabeth L. Faucett
+<br>Mary C. Fitch
+<br>Eva Harlow
+<br>Anna J. Hedge
+<br>Charles L. Hershbarger
+<br>Horace Kennedy
+<br>Mary E. Lakey
+<br>George T. Lessaris
+<br>Luciene Martin
+<br>Dorothy S. Mills
+<br>Josephine Spence Lehmann Miser
+<br>David F. Mulliken
+<br>Emily R. Mulliken
+<br>Charles I. O'Dell
+<br>Myra L. Secoy
+<br>Jane M. Seddon
+<br>Mary K. Sellers
+<br>Martha Stumm
+<br>Mary-Alice Sutherland
+<br>Jack Swartz
+<br>Lois A. Wensch
+<br>Paul G. Wilson
+
+<p><strong>Class of 1938:</strong>
+
+<br>Hal E. Bilyeu
+<br>Edward J. Bussman
+<br>Margaret Rose Childers
+<br>Robert V. Clevenger
+<br>Nina M. Cole
+<br>Joseph P. Dailey
+<br>Bernice Dillman
+<br>Martha J. Herzler
+<br>Ruby R. Holaday
+<br>Dorothy A. Huntington
+<br>Phoebe Miller
+<br>T. A. Munson
+<br>Dorothy M. O'Bryan
+<br>Jean Parrish
+<br>Stephen Maxfield Parrish
+<br>Ruth E. Tormohlen
+
+<p><strong>Class of 1939:</strong>
+
+<br>Barbara Arnason
+<br>Marie F. Baggett
+<br>Carolyn C. Baird
+<br>Isabel C. Borgatta
+<br>Elanor P. Burge
+<br>Jane R. Eastman
+<br>Robert A. Edgar
+<br>Ethel N. Fergusson
+<br>Margaret C. Fink
+<br>William H. Fisher
+<br>Priscilla Fletcher
+<br>Helen C. Hay
+<br>John M. Hunter
+<br>Paul S. Johnson
+<br>Anastasia J. Kerasotes
+<br>Mary Lou Little
+<br>Jose H. Lowry
+<br>Mildred J. Lukens
+<br>Jeanne D. May
+<br>Eudora A. McBride
+<br>Frances J. McCarthy
+<br>Harriet Rose Newton
+<br>Mary A. Paton Vogt
+<br>Robert E. Pettit
+<br>Donna L. Rost
+<br>Mary V. Blaudow Schneider
+<br>Carl A. Selby
+<br>Milton C. Shedd
+<br>Harry L. Swartz
+<br>William A. Tomaras
+<br>Barbara Benton Wiley
+
+<p><strong>Class of 1940:</strong>
+
+<br>Philip W. Anderson
+<br>Wayne E. Armstrong
+<br>Geo W. Brine
+<br>Ann M. Cromwell
+<br>Robert C. DeLong
+<br>Ethel M. Demaio
+<br>Earl F. Finder
+<br>James F. Goodman
+<br>Jay Gould
+<br>Nancy W. Judson
+<br>H. P. Noyes
+<br>Charles Pickerill
+<br>Peter J. Scarseth
+<br>John R. Schnebly
+<br>Marjorie G. Seaman
+<br>Richard R. Stouffer
+<br>H. Ruth Tidball
+<br>Rubyeep Troutman
+<br>Dorothy A. Van Nest
+<br>Eugene E. Van Vranken
+<br>Spearo G. Variames
+<br>John P. Waterfield
+<br>Margaret L. Weaver
+<br>W. G. Winkelmann
+<br>Mary G. Woods
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

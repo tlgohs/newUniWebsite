@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+		<script>
+			menuSpot=3;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Uni Graduating Classes 1941-1950</div>
+				<div id="section-content">
+					<p><strong>Class of 1941:</strong>
+
+<br>F. Dwyer Murphy Jr
+<br>William J. Werstler Jr.
+<br>Ruth L. Baldwin
+<br>Wayne E. Bell
+<br>Erwin R. Brigham
+<br>Ruth C. Brown
+<br>James William Bullock
+<br>Barbara Boulware Camp
+<br>Stephen Cleary
+<br>Stephen Cleaver
+<br>Mary S. Davidson
+<br>Mary Squires Day
+<br>Joanne Lang Dyall
+<br>Warren F. Goodell
+<br>Erna W. Greene
+<br>Celia Karr
+<br>David Eugene Mac Millan
+<br>Martha Ortiz
+<br>Mary F. Pfeifer
+<br>Evelyn Savage
+<br>Louise P. Shoemaker
+<br>Myron J. Sholem
+<br>Eugene Stern
+<br>Mary J. Wall
+<br>Forrest E. Wilson
+
+<p><strong>Class of 1942:</strong>
+
+<br>James H. Gallivan
+<br>Karl Alfred Kubitz
+<br>Bruce H. Baily
+<br>Ben Baldwin Jr.
+<br>John G. Dillavou
+<br>Carol K. Dunbar
+<br>William G. Dunbar
+<br>C. W. Engelhardt
+<br>George E. French
+<br>Jane Brigham Gamble
+<br>Robert D. Graham
+<br>Wayland C. Griffith
+<br>James F. Harland
+<br>Kathleen Heinisch
+<br>Helen Hersbarger
+<br>Betty L. Holt
+<br>Alonzo Linn Hunter
+<br>William S. Johnson
+<br>William G. Jr. Kammlade
+<br>Patricia V. Klein
+<br>Betty Latham
+<br>Janice Maynard
+<br>Helen Palmer Mazzitelli
+<br>Jean Medford
+<br>Mary A. Melick
+<br>Bette Nigg
+<br>Nancy C. Nims
+<br>Constance M. Peterson
+<br>Thomas E. Jr. Phipps
+<br>Jane Jordan Reddy
+<br>Lewis L. Robbins
+<br>Rowena E. Strong
+<br>Phyllis D. Tinkey
+<br>E. Walker VanLaningham
+<br>Barbara M. Whitmore
+<br>Charles M. Whitmore Jr.
+<br>Carrol D. Wilson
+
+<p><strong>Class of 1943:</strong>
+
+<br>William H. Brigham
+<br>Mary E. Burns
+<br>Charlotte C. Clayton
+<br>Christopher Faye Jr.
+<br>Barbara L. Frison
+<br>Gerald D. Jr. Gernon
+<br>Anne Noble Gher
+<br>Jean Roland Gillespie
+<br>Shirley H. Harder
+<br>William J. Helms
+<br>Boyd A. Henry
+<br>Madelyn L. Hofling
+<br>Ann L. Jenkins
+<br>Barbara J. Jordan
+<br>Judith M. Lundin
+<br>Ronald G. Mitchell
+<br>Laura B. Moffet
+<br>William A. Oliver Jr.
+<br>Glenn L. Percival
+<br>Frances A. Potts
+<br>Mary Louise Radebaugh
+<br>Dorothy J. Reid
+<br>Mary W. Reimers
+<br>Arlene R. Riesen
+<br>Richard W. Ruehe
+<br>Howard M. Sachar
+<br>Mary H. Shaw
+<br>Roger G. Tobin
+<br>Grace F. Watt
+<br>Beulah B. Watts
+<br>Virgil Appling Willms
+<br>Margaret Wood
+
+<p><strong>Class of 1944:</strong>
+
+<br>John R. Carlson
+<br>Alice W. Johnson
+<br>Robert L. Stouffer
+<br>Helen Anthony
+<br>Thomas R. Armstrong
+<br>Barbara J. Britt
+<br>Joseph M. Butsch
+<br>Suzanne Appelle Cavette
+<br>R. Dean Collins
+<br>Charlotte E. Crowe
+<br>Dorothy A. Crowell
+<br>Dorothy C. Crowell
+<br>Stewart Derry Daniels Jr.	
+<br>David M. Ellis
+<br>Alice B. Fox
+<br>Keith D. Freeman
+<br>Barbara Goodell Fuller
+<br>Paul A. Hartman
+<br>Philip E. Hartman
+<br>Eugene L. Jacobs
+<br>Nancy C. Maurer
+<br>Betty Minyard
+<br>Katherine Nickelson
+<br>Gene V. Percival
+<br>Margaret M. Provost
+<br>Ruth R. Rains
+<br>Richard L. Rapp
+<br>Shirley J. Roberts
+<br>Jan B. Roosa
+<br>Joan K. Schwartz
+<br>Betty L. Sheldon
+<br>Stanford H. Sholem
+<br>Barbara M. Weatherly
+<br>Jim Werstler
+<br>Richard H. Willis
+<br>Jeanne F. Wood
+<br>Grace W. Woods
+<br>Rollin W. Workman
+
+<p><strong>Class of 1945:</strong>
+
+<br>Charlotte M. Ambrose
+<br>Joseph J. Ambrose
+<br>Catherine C. Busch
+<br>James G. Card
+<br>Charlotte A. Charters
+<br>Clinton E. Granger
+<br>Charles M. Gray
+<br>Martha D. Hall
+<br>Henry F. Hamilton
+<br>Barbara Jean M. Heck
+<br>Davis A. Helton
+<br>Barbara J. Hicks
+<br>Frances Willis Hotchkiss
+<br>Barbara D. Ingram
+<br>Jeanne M. Jackson
+<br>Willard L. Jackson
+<br>Frances Brigham Johnson
+<br>Harlan W. Johnson
+<br>J. Eugene Kane
+<br>Jewel M. Kurland
+<br>Peter T. Lessaris
+<br>Roberta Bloom Lindstrand
+<br>Doris E. Malley
+<br>Martha May
+<br>Robin Mayer
+<br>Peter W. Moyer
+<br>Delores Overmeyer
+<br>Elizabeth H. Pasti
+<br>Harriet S. Pfister
+<br>Artie L. Reeves
+<br>William Schoonmaker
+<br>Jean M. Smith
+<br>Merle Stauffer
+<br>Shirley Wallace
+<br>K. D. Weitzel
+
+<p><strong>Class of 1946:</strong>
+
+<br>Miriam Alberg
+<br>Ross T. Bell
+<br>Edward L. Deam
+<br>Mary L. Ellis
+<br>Robert G. Fessler
+<br>Anne K. Hoffman
+<br>Mary Hutchinson
+<br>Barbara G. Jackson
+<br>Helen J. Jamison
+<br>Mary Helen Kane
+<br>Alexis J. Katsinas
+<br>Ann Lawless
+<br>Alan Louis Libman
+<br>Ruth E. McQuaid
+<br>Elinor Nadherny
+<br>Martha D. Severt
+<br>Virginia U. St. John
+<br>Bus Wagner
+<br>T. Geitel Winakor
+
+<p><strong>Class of 1947:</strong>
+
+<br>William T. Allen
+<br>Theodore I Anderson
+<br>John R. Bray
+<br>Carol H. Brigham
+<br>Margot T. Fanger
+<br>Rochelle L. Field
+<br>Ellen Ann Gernon
+<br>Margaret A. Glenn
+<br>Alice J. Hazell
+<br>Nancy G. Huey
+<br>Gerald P. Johnson
+<br>John D. Karraker
+<br>Sue Rovelstad Lawless
+<br>Joan G. Lohmann
+<br>Betty Marsh
+<br>Thomas E. Moore
+<br>Gilda G. Moss
+<br>Donald E. Moyer Jr.
+<br>Richard M. Noel
+<br>Terence T. Quirke Jr.
+<br>Ida H. Scott
+<br>Patricia A. Shepard
+<br>Norman H. Smith
+<br>Thomas K. Smith
+<br>Audrey J. Spak
+<br>Estella M. Templin
+<br>Margaret A. Veach
+<br>Patricia Walker
+<br>Wilma C. Wells
+<br>Kathryn S. Willms
+<br>Burton I. Wolfman
+<br>Lou Ann Bailey Workman
+<br>Nathan L. Workman
+
+<p><strong>Class of 1948:</strong>
+
+<br>Delavenna Kersten Ahart
+<br>Alice Anthony
+<br>John C. Bailar III
+<br>Judith Barnes
+<br>Martha H. Brookes
+<br>Barbara J. Brothers
+<br>Stanley Eugene Bundy
+<br>Melissa D. Chambers
+<br>James L. Copeland
+<br>Irene W. Courtney
+<br>Marilyn Curtis
+<br>Shirley J. Dillon
+<br>Donald C. Dodds Jr.
+<br>Leonard C. Doyle
+<br>Millicent Duffy
+<br>Audrey A. Ernest
+<br>John H. Harry
+<br>John B. Hoagland
+<br>Nancy Hubbard
+<br>Nancy A. Jamnik
+<br>Emory L. Kemp
+<br>William M. Kuhne
+<br>Martha P. May
+<br>Glen McCourt
+<br>Mary Jackson Monson
+<br>Eleanor E. Moore
+<br>Harryette Moore
+<br>Catherine Neal
+<br>Gloria A. Patton
+<br>Ann F. Reynolds
+<br>Carolyn C. Richards
+<br>Robert Schoonmaker
+<br>Harold W. Scott Jr.
+<br>Hamilton O. Smith
+<br>Robert Foster Sonderskov
+<br>Cordelia Sanborn Spicer
+<br>Joanne R. Stewart
+<br>Yvonne D. Thompson
+<br>Clyde R. Titus
+<br>Robert H. Trost
+<br>Marcia L. Wheeler
+<br>Robert E. Wingard
+
+<p><strong>Class of 1949:</strong>
+
+<br>Virginia J. Ayers
+<br>Miriam L. Baker
+<br>Miriam S. Baker
+<br>Donald Baldwin
+<br>Thomasina Bena
+<br>Robert Buley
+<br>Helen L. Carpenter
+<br>Deborah Codl
+<br>Roberta R. Coffin
+<br>James B. De Haven
+<br>James R. Delaney
+<br>David L. Dietemann
+<br>Donald C. Dietemann
+<br>Jay Dodd
+<br>Lucretia M. Durrett
+<br>Mary Ruth Elfe
+<br>Frank H. Finch Jr.
+<br>Margaret Finch
+<br>Annette Frey
+<br>William R. Goodheart
+<br>Lois J. Hershbarger
+<br>Jack W. Jr. Jareo
+<br>Charles H. Keener
+<br>Larry D. Kettelkamp
+<br>Melvin L. LeBaugh
+<br>Mary W. Liay
+<br>James Little
+<br>Russell Miles
+<br>M. Jean Pearce
+<br>Richard F. Potthoff
+<br>Robert M. Stafford
+<br>Mary H. Suker
+<br>Diamando Tomaras
+<br>Aldena L. Walden
+<br>Leland Warmoth
+<br>Therese Truitt Whitcomb
+
+<p><strong>Class of 1950:</strong>
+
+<br>Anne H. Bartlett
+<br>Janet Marilyn (Bean) Laundry
+<br>Mary Virginia (Bennett) Owens
+<br>Hertha Bowman
+<br>James E. Branch
+<br>David Holmes Brawner
+<br>James Neuhaus Bray
+<br>Gary A. Brown
+<br>Ann Catherine (Buckley) Griffith
+<br>Hereward Cattell
+<br>Gordon R. Comings
+<br>Carol Finch (Cone) Rose
+<br>Carol Jean Cook
+<br>Jo Alice Davis
+<br>Mary Frances (Emly) Graham
+<br>Gretta May (Erickson) Janssen
+<br>Robert Kendall Fahnstock
+<br>Sheila Virginia (Flanagan) Paulsen
+<br>Pegge La Vern (Flanigan) Taylor
+<br>Carol Jean Hayes
+<br>Marian Jean (Hutchinson) Warren
+<br>Thomas D. Lambert
+<br>Thelma (Lewis) Bowers
+<br>Ronald Dean Maginn
+<br>Sarah Margaret (McAllister) Lumpp
+<br>Robert W. McIntyre
+<br>Gayle Meyers
+<br>Walter A. Meyers, Sr.
+<br>Kenneth Roy Mount
+<br>Donald Clay Neville
+<br>Charles "Tod" Montgomery Oliver
+<br>Gale Riondra McDade
+<br>John Prichett
+<br>Charles K. Rockwood
+<br>John Kelly Rogers, Jr.
+<br>Jane Adams (Roos) Neville
+<br>Charles Alexander Ross
+<br>Elaine Anne (Scott) Snowden
+<br>Nancy (Sifferd) Lambert
+<br>Sandra Grant (Smith) Goodheart
+<br>Eleanor (Stoddard) Seibold
+<br>Davis Kent Tucker
+<br>Jack Warner
+<br>Albert George Willms
+<br>Peter Windesheim
+<br>Melissa Jo Ann (Wingard) Curtis
+<br>Harriet Anne Winters
+<br>Willova Wise
+<br>Elaine Jane (Yeatter) Wolter
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

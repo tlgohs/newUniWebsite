@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+		<script>
+			menuSpot=7;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Max Beberman Award Winners 2011-present</div>
+				<div id="section-content">
+					<h1>2011 Beberman Award Winner: Dr. John Finch</h1>
+					<p>During John's time at Uni he was in the Mixed Chorus, Boy's Ensemble and the Madrigals. John played on the basketball and tennis teams and was the manager on the football team. That's right, they had six man football at Uni High in the 1950s! John served on the Student Council and was Vice President and President of his class.
+					Upon graduating from Uni, John was accepted at Harvard, but being only 16, he decided to attend his pre-medical studies closer to home at the University of Illinois. Three years later John was accepted at Washington University Medical School in St. Louis, Missouri. John enjoyed his Pediatric Residency at the University of Oregon then volunteered to serve in the U.S. Air Force at the beginning of the Viet Nam War.
+					Once he completed his service in the Air Force, John went into private practice in Pediatric Medicine. His practice was quite successful and after only a few years John was offered a fellowship in Radiology at the Mayo Clinic in Rochester, Minnesota. John practiced Diagnostic Radiology in Florida for years including a stint as Chief of Staff at Doctors Hospital. John is a fellow of the American Academy of Pediatrics, and he is a member of the American College of Radiology, and the American Medical Association.
+					Remarkably, John found time to give to his community as a past president of the Sarasota Chapter of the American Cancer Society and as a member of the organization's state board of directors.
+					During his retirement John has become a world traveler who has visited each of the 7 continents. He has applied his penchant for life-long learning to studying, as he puts it, "the many cultures of our global family."
+					After all of these years, John remains loyal to his Illini roots as a member of the University of Illinois Presidents Council Pentad Circle. John is a longtime supporter of Uni High and he hosts frequent reunions for his class in Florida. He has already begun plans for celebrating the Class of '52 Sixty Year Reunion!
+					John Finch embarked on his relationship with University Laboratory High School and his fellow Uni alumni sixty years ago, yet his friendships endure to this day. John is the ultimate, loyal Uni alumnus. His legacy serves as a beacon for Uni's newest graduates.</p>
+					<h1>2012 Beberman Award Winner: Glenn M. Blair Jr.</h1>
+					<p>Following Leal Grade School, Glenn entered the Sub-Freshman class at Uni in the fall of 1947.  He was elected President of the Class.  During his time at Uni, he was Captain of both the Basketball and Tennis teams, qualifying for the State Tennis Tournament in his senior year.  He was a member of Madrigals, a trombonist in the Orchestra and performed in the yearly Gilbert and Sullivan operettas… singing the lead tenor role his senior year.
+					Glenn is a graduate of the University of Illinois College of Commerce and holds a Juris Doctorate from the University of Illinois School of Law where he was honored as a Distinguished Alumni.  Upon completing the Illinois Bar Exam, he practiced military law for two years and then joined Standard Oil of Ohio where he progressed through marketing, planning, and distribution positions, including two years with British Petroleum in London. He retired early as Vice President Human Resources for Sohio Oil (now a part of British Petroleum) to teach. He completed the Harvard Business School Human Resource Manager's Summer Course and the International Human Resource Executive’s Program in London. Following a year as Visiting Professor of Management at Ohio Northern University, Glenn joined Baldwin-Wallace College.
+					In addition to teaching Management, Human Resources and Law courses within the business division of Baldwin-Wallace, Glenn taught in the Honors Division as well as the campus-wide Freshman Experience program.
+					He was an involved member of the faculty serving in numerous capacities including: Co-Chair of the College Faculty, Director of the Executive MBA, Chair of the Curriculum Committee, Advisor to Omicron Delta Kappa, and Member of the Executive Committee as well as Presidential and Academic Dean Search Committees.
+					Glenn has the unique distinction of being the only Business Division faculty member to have received both the Bechberger Award for work with students and the Strosacker Award for teaching excellence. 
+					Following his retirement from teaching, Glenn was called back to serve for a semester as Interim Director of Career Services.  On December 16, 2008, at age 73, for the first time since delivering papers in his teens, Glenn was fully retired.
+					Glenn’s primary high school interests, sports and music, have continued.  He sang in the Cleveland Orchestra Chorus under George Szell and Robert Shaw and twice performed in Carnegie Hall; maintained his trombone interest with the Bay Village Community Band and every decade or so performed in Community Theater.  He was a member of the Board of Trustees for the Great Lakes Theater Festival, Medina County Performing Arts Foundation, Musical Theater Education Program as well as numerous other civic and community activities. He and his daughter, Jennifer, have attended Ohio Light Opera productions together every summer for 38 years. 
+					He authored a thinly veiled novel about academic life, The Azgrew Chronicles, and continues to speak on and off campus on a variety of subjects.  He is a professional model, member of SAG-AFTRA, appearing in many print and television commercials as well as a master’s athlete in both tennis and track and field.  He is the 2005 National Senior Olympics High Jump gold medalist for his age group.
+					Glenn and his wife of 49 years, Mim, live on 20 acres of hills and woods in Medina, Ohio. </p>
+					<h1>2013 Beberman Award Winner: Nancy Roberts</h1>
+					<p>Nancy Roberts is a Professor of Defense Analysis in the Graduate School of Operational and Information Sciences at the Naval Postgraduate School in Monterey. Dr. Roberts received a PhD from Stanford University, a MA and BA from the University of Illinois, and a Diplome Annuel from the Cours de Civilization Francaise at the Sorbonne. Her previous faculty appointments have been at the Graduate School of Business at the Naval Postgraduate School, the Carlson School of Management at the University of Minnesota, and the Graduate School of Business at Stanford University as a visiting associate professor. She has published extensively in the areas of public entrepreneurship and innovation, strategic management and planning, leadership, stakeholder collaboration, complex networks, dialogue and deliberation. Her current research focuses on “wicked problems” such as the tracking and disrupting of terror networks and the organizational challenges of post-conflict reconstruction. She is the co-author of Transforming Public Policy: Dynamics of Public Entrepreneurship and Innovation (1996) and editor of two books—The Transformative Power of Dialogue (2002) and Direct Citizen Participation (2007). Dr. Roberts is also an Associate Editor of PAR, and serves on the editorial boards of Public Management, The American Review of Public Administration, and International Public Management Review. In her previous position as Co-Director of the CORE Lab, she created and developed Defense Analysis courses—Tracking and Disrupting Terror Networks and Visual Analytics. Currently she leads research teams in the investigation of the geospatial, temporal, and relational dimensions of terrorist networks and the development of strategies to counter them.</p>
+					<h1>2014 Beberman Award Winner: Shirley Marco Kulwin</h1>
+					<h1>2015 Beberman Award Winner: W. Ford Doolittle</h1>
+					<p>In 2014 Doolittle was awarded the Herzberg Gold Medal for Science and Engineering, the top award given by the Natural Sciences and Engineering Research Council of Canada.  He was a Guggenheim Fellow and is a member of American Academy of Microbiology, a Fellow of the Royal Society of Canada, a member of the US National Academy of Sciences, an Institute Fellow of CIFAR and a Foreign Member of the Norwegian Academy of Science and Letters.
+					Doolittle has been at Dalhousie University in Nova Scotia since 1971.  The Urbana native attended local schools and graduated from Uni High in 1959. He earned a BA in Biochemical Science from Harvard College in 1963 and a PhD in Biological Science from Stanford University in 1969 with a focus on bacterial genetics. He joined the Department of Biochemistry and Molecular Biology at Dalhousie in 1971 and has been there ever since. He is now Professor Emeritus, but still working full time. 
+					For 20 years he was the Director of the Program in Evolutionary Biology of the Canadian Institute for Advanced Research (CIFAR), and for seven, a CRC Chair. Doolittle received a Bachelor of Fine Arts from the Nova Scotia College of Art and Design in 2013.</p>
+					<h1>2016 Beberman Award Winner: Alexander Rabinowitch</h1>
+					<p>Alexander Rabinowitch is named the 2016 Max Beberman Distinguished Alumni Award by the University of Illinois Laboratory High School.  He is a Uni High graduate from the class of 1952.
+					Professor Emeritus of History, Indiana University, Bloomington, where he taught from 1968 until 1999, and Affiliated Research Scholar, St. Petersburg Institute of History, Russian Academy of Sciences since 2013.
+					Rabinowitch received his B.A. at Knox College, 1956; M.A. at the University of Chicago, 1961; and Ph.D. at Indiana University, 1965. He is recognized internationally as a leading expert on the Bolsheviks, the Russian Revolution of 1917, and the Russian civil war.
+					Upon publication, his best-known book, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd (1976), was widely acclaimed by Western scholars as a major breakthrough in study of the Russian revolution.
+					He has been a Senior Fellow of the Harriman Institute, Columbia University; the Institute for Advanced Study, Princeton; and the Hoover Institution, Stanford, and was elected a member of the Council on Foreign Relations.</p>
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

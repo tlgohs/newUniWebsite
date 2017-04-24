@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+		<script>
+			menuSpot=3;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Uni Graduating Classes 1981-1990</div>
+				<div id="section-content">
+					<p><strong>Class of 1981:</strong>
+<br>Lutz Ackerman
+<br>Jonathan Atkin
+<br>Peter H Appel
+<br>Nan Maro Babakhanian
+<br>John Barricklo
+<br>Steven Charles Berkson
+<br>Brian Brinkerhoff
+<br> David Joseph Brown
+<br>Nancy Kristen (Brown) Schult
+<br>Richard James Edward Brown Campione
+<br>Holly Bullamore
+<br>Howard Crombie
+<br>Paul Geoffery Davis
+<br>Louis DiBello
+<br>Mike Dorning
+<br>Michael George Friedman
+<br>John Frederick Gleichman
+<br>Agnes (Haken) Debrunner
+<br>Hariprasad Rao
+<br>Vivanti Jain
+<br>Jenny Jendrasiak
+<br>Beverly (Joy) Dickinson
+<br>Alexander Kolodziej
+<br>Peter Krause
+<br>Derek Kumar
+<br>Jack Leiby
+<br>Jim LaFave
+<br>Michael Benjamin Levy
+<br>Winifred (Lin) Soufi
+<br>Albert Liu
+<br>Ann Hwei-Wen (Liu) Fryer
+<br>Theodore Aleyn Merritt
+<br>Masao Nishida
+<br>Joshua Paley
+<br>Joshua C Parker
+<br>Philip Thomas Parker
+<br>Amy MacDougall (Pearson) Ball
+<br>James Howell Peltz
+<br>Theodore Rehn Purves
+<br>Stephen Rader
+<br>Garth Raeber
+<br>+Hariprasad Rao
+<br>Chimene Alise Robbins
+<br>Allen Robertson
+<br>John Rosenthal
+<br>Ilana Rubenstein Carolyn Rundquist
+<br>Colette Sanders
+<br>Steven Michael Schran
+<br>Julia Edith Schult
+<br>Charles Lee Sentman
+<br>Jean Sentman 
+<br>Elizabeth Ann (Shinall) Miller
+<br>Jacob Tristram Stake
+<br>Jules Wolf Stenzel
+<br>Andrea (Talley) Brennan
+<br>James Talley
+<br>Paul A Travis
+<br>Margaret Grace (Williams) Wisowaty
+<br>Brian Zimmerman
+<br>Anna Ginta Zvilius
+
+
+<p><strong>Class of 1982:</strong><br>
+Karen Ackerman
+<br>Chris Anderson
+<br>Darius Archer
+<br>Donald Harrison Barnhart
+<br>Kirsten Berggren
+<br>Leslie Bettridge
+<br>Jessica Marianne (Bordua) DeMay
+<br>Elizabeth Silvia “Betsy” (Brotherson) Wells
+<br>Ellen Bruno
+<br>Steve Ankuo Chien
+<br>Kate Choldin
+<br>Mary (Choldin) Tax
+<br>Robert Copeland
+<br>Elizabeth “Lisi” (Kent) Edwards
+<br>Clayton Foster
+<br>Rachel Miriam Friedberg
+<br>Angela Christine Louise (Friedman) Smith
+<br>David S Futrelle
+<br>Theodore Wirth Gray
+<br>Heather Marie Greenberg
+<br>Michael Welsford Halberstam
+<br>Peter Joseph Hanratty
+<br>Tim Hopen
+<br>Marjorie Ai-Shun (Huang) Young
+<br>Thomas Tsang-Hwa Huang
+<br>Sara Rebecca Hymowitz
+<br>Julie Gerette Janusz
+<br>Maria Annabelle (Jong) Jobs
+<br>Lisa Suzanne (Kaler) Zak
+<br>Don Kotin
+<br>Scott Alan Levy
+<br>Isaac Lieberman
+<br>Albert Liu
+<br>Lemeul Mequi
+<br>Marc M Meyer
+<br>Eric Minor
+<br>Holly S Molnar
+<br>Yukio Nishida
+<br>Adrienne Anne (Osborne) Winner
+<br>Dawn Cassandra Parker
+<br>Kenneth Craig Parker
+<br>Ragan Petrie
+<br>William Andrew Propst
+<br>Heidi Rockwood
+<br>Carolyn Eve Shapiro
+<br>Judith Debs (Simon) Garrett
+<br>Teresa Sloan
+<br>Jullie Steazel
+<br>Fred Steinberg
+<br>Abby Stottlar
+<br>RebeccaAyn (Uggerby) Weicherding
+<br>Pamela Louise Vevera
+<br>Nathan Violas
+<br>Edward “Ned” Watts
+<br>Fred Burton Worley
+<br>Briana Yates
+<br>Lucho Zuimeda
+<br>Barry Zahurance
+
+
+<p><strong>Class of 1983:</strong><br>
+<br>Lynn Akars
+<br>Allison Anderson
+<br>Mindy (Averbuch) Blmenthal
+<br>John Brewer
+<br>Jennifer Marie Bright
+<br>Brenda Sue (Brinkerhoff) Faul
+<br>James Daniel Brown
+<br>Shawn Condiff
+<br>Marana Chow 
+<br>David Darling
+<br>Christopher Clyde DeCardy
+<br>Opher Donchin
+<br>Stephen Ekker
+<br>Jackie Faimean
+<br>Victoria Lynn Getis
+<br>Claire Jacqueline (Guback) Huisman
+<br>Chuck Lsdale
+<br>Ajay Jain
+<br>Angela Lynne (Johnson) Nolan
+<br>Paull H Johnson
+<br>Meena Kang
+<br>Joseph Hosu Kim
+<br>Heidi Krahling
+<br>Laurie (Landers) Goldman
+<br>Gila Levy
+<br>Christopher Scott Lopez
+<br>Shigeki “Shagg” Makino
+<br>Julie Amber McMillan
+<br>Lucia Mazzolai
+<br>Lisa Miller
+<br>Jason Mills
+<br>Kathryn Ann (Mills) Schooley
+<br>Jeffrey Orrok
+<br>Elizabeth Sara “Liz” Paley 
+<br>Yolanda Parker
+<br>Valli Michelle (Plog) Stewart
+<br>GasparPorta
+<br>Aleya (Rahman) Champlin
+<br>Michelle Renee Rondon
+<br>Monica Rondon
+<br>Ian Scharf
+<br>Brian Shaw
+<br>Maria Siegel
+<br>Sheryl Lynn Stecyk
+<br>Andrew K Stewart
+<br>Carol Francis (Sudman) Webb
+<br>Amy (Swarr) Hill
+<br>Andrea (Talley) Brennan  (special student)
+<br>Edward Talley, Jr.
+<br>Dan Teitelbaum
+<br>Cherie Anne Travis
+<br>Clarita Uchendu
+<br>William Franklin Walker
+<br>Stephanie (Wengert) Watts
+<br>Charles Kenyon West
+<br>Mary Magdalene “Maggie” (Williams) Bound
+<br>Naomi Wortis
+<br>Alan Yang
+
+
+<p><strong>Class of 1984:</strong><br>
+<br>Michael Bailey
+<br>Sarah Elizabeth Baldwin
+<br>Michael Blossom
+<br>Michael Boni
+<br>Derek Chen
+<br>Eugenia Chow
+<br>Tracey Cohen
+<br>Katherine Csizmadia
+<br>Becky (Davidson) Hausamann
+<br>Mary Elizabeth Katherine (Doebel) Ekker
+<br>Theodore Eckert
+<br>Mark Allen Eckler
+<br>Mark Elder
+<br>Sean Ennis
+<br>Nathaniel Solon Finney
+<br>Pat Gabridge
+<br>Gail Linda (Gamble) Blaauw
+<br>Missy Ganus
+<br>Eric George Giles
+<br>Sonja Hardin
+<br>Christopher Authur Heckman
+<br>Sarah Catherine (Hendrick) Jourdain
+<br>Cassie Hoffman
+<br>Diana Beth (Hoover) Samarasan
+<br>Paul Jensen
+<br>William Jockusch
+<br>Michelle Elizabeth Jolly
+<br>Tracy Allan Jones
+<br>Jonathon Kagle
+<br>Jordan Kellman
+<br>Matthew Eliot Kolodziej
+<br>Jana Kramer
+<br>Eva Creel (Lancaster) Orozco
+<br>Gregory Laughlin
+<br>Alice (Lee) Charon
+<br>Peter Forbes McDowell
+<br>William Albert MacMillan
+<br>Alison Marlow
+<br>Leo Shaeg Millar
+<br>Stephanie Moy
+<br>Jennifer Oglesbee
+<br>David Paul
+<br>Jonathan Pelz
+<br>Erica Stephanie Prussing
+<br>Alison (Rader) Mason
+<br>Tricia Ransom
+<br>Arnold Howard Rudnick
+<br>David Secrest
+<br>John Sweitzer
+<br>Sylvia Mary (Temperley) Khan
+<br>Julieta Tord
+<br>Javier Andres Uribe
+<br>Jonathan Pieter van Es
+<br>J Todd Walker
+<br>Susan Winter
+<br>Theodore Roberts “Bobs” Winter
+<br>Alexander Wong
+<br>Kathy Wyer
+<br>Paul Zimmer
+
+<p><strong>Class of 1985:</strong><br>
+<br>Cheri Anaclerio
+<br>Windy Linn Applequist
+<br>Kay Boyer
+<br>Iris Shun-Ru (Chang) Douglas
+<br>Erin Marie Clausing
+<br>John Hector Cochrane
+<br>Edward Lawrence Curran IV
+<br>Simon H Damberger
+<br>Akira Date
+<br>Diana Delheimer
+<br>Lisa Enders
+<br>Kelly Raymond Fitz
+<br>Colin Garrett 
+<br>Yasmin Gavish
+<br>John Gorhard
+<br>Elizabeth Gray 
+<br>Leah (Grossman) Zagreus
+<br>Larry Hamlet
+<br>Armgard Haken
+<br>Ursula Sabine (Hess) Calef
+<br>Michael Avery Hochman
+<br>Micheal Edward Johnson
+<br>Thomas Brent Jordon
+<br>Kate (Kasserman) Krause
+<br>Brian King
+<br>Matthew Frederick Krummel
+<br>Britta Langsjoen
+<br>Thomas W Leslie
+<br>Alice Cheng Liu
+<br>Katherine Marks
+<br>David Giles McCord
+<br>Dan McGlathery
+<br>Suzanne Mushrush
+<br>Amy Orfield
+<br>Lisa Peters
+<br>John Petrillo
+<br>Nicolas F M Porta
+<br>Elen Roklina
+<br>Mary Elizabeth Salzmann
+<br>Adam Schmitt
+<br>Ella C (Schoenberg) Herz
+<br>Suzanne Kay Schoeneweiss
+<br>Herbert Schonken
+<br>Wayne Kevin Schwaiger
+<br>Kimberly (Seitz) Parker
+<br>Anne (Shapira) Richman
+<br>Alison Lorraine Shaw
+<br>Emma Cristina (Solaun) Adelman
+<br>Nina Bryson Allen Stratton
+<br>John Snyder
+<br>Paul Snyder
+<br>Rebecca Jane Swarr
+<br>Laurence Duane Thompson
+<br>Kurt Michael Tuohy
+<br>Robin van Es
+<br>Alix Elizabeth Mary Wengert
+<br>Richard Gabriel Williams
+<br>Sarah Anne (Williams) Sherrer
+<br>Ronald Woan
+<br>Rachel Wortis
+<br>Elaine (Yang) Pan
+<br>Arnon Zangvil
+
+<p><strong>Class of 1986:</strong><br>
+<br>Lisa Averbuch
+<br>Peter Barrett
+<br>Stephen Bodnar
+<br>Monique LaMae (Brown) Schoenhage
+<br>Melinda Chen
+<br>Denise Dorning
+<br>Carol Ruth Elder
+<br>Jonathan Faiman
+<br>Sheila Ann (Findley) Olson
+<br>Brad Fish
+<br>Lisa Lauren (Frankenbeg) Leshne
+<br>Nathan Frederick Gardner
+<br>Katherine C Hinely
+<br>Sarena Allyn (Huemann) McComas
+<br>Jessica Hymowitz
+<br>Michael Jacobson
+<br>Elizabeth Lucy Jockusch
+<br>Sanjuro Jogdeo
+<br>David C Johnson
+<br>Laura Jones
+<br>Daniel Hyonsu Kim
+<br>Kucy Mee Yun (Kim) Park
+<br>Daniel Joseph Kolodziej
+<br>Richard Brent Lyles
+<br>Laura Sue Mabry
+<br>Barbara Ellen (Maclay) Cameron
+<br>Teddy MacDonald
+<br>Katherine Jane (Marino) Hoskinson
+<br>Kevin Maxson
+<br>Sophia Lynn Neely
+<br>Eric Randolph Norton
+<br>Nina Paley
+<br>Rahul Pandharipandi
+<br>Arthur John Patten
+<br>Thomas Robert Pickett, Jr.
+<br>Kevin Michael Pondy
+<br>Samantha Rae Ramagopal
+<br>Andrew Tomas Reisner
+<br>Jennifer Grace (Rugg) Bloome
+<br>Daniel Benjamin Shapiro
+<br>Lionel Shapiro
+<br>Jamsheed Shorish
+<br>Debra Lynn (Siekman) Mertinka
+<br>Kathryn Alexis Socha
+<br>Michael Anthony Steigmann
+<br>David Teitelbaum
+<br>Linda Ailene Travis
+<br>Sandeep Kumar Tripathy
+<br>John Ullom
+<br>Catherine Vetter
+<br>John Hamilton Walker
+<br>Alfredo Webber
+<br>Gregory W Wheeler
+<br>Richard Ching-Yu Yeh
+
+<br>Foreign students:
+<br>Teddy MacDonald
+<br>Astrid Nieman
+
+
+<p><strong>Class of 1987:</strong><br>
+<br>Meena Michelle Balgopal
+<br>Shai Ben-Zvi
+<br>Prasanta Kumar Bhowmik
+<br>Courtney Jocelyn (Bishoff) Olson
+<br>Rick Burkhardt
+<br>Michael Shunkai Chang
+<br>Anthony Xhi-Hwa Chen
+<br>Cynthia Chen
+<br>Cynthia H Chou
+<br>Kimberly Anne Clausin
+<br>Leah Creaue
+<br>Miriam Davidson
+<br>Sharon Lee Dornoff
+<br>Rebecca Jane (Eades) Willrich
+<br>Steephen Eric Findley
+<br>Anna Francesca (Friedman) Edlund
+<br>Joseph Marshal Futrelle
+<br>Anne Patterson (Getis) Tibbetts
+<br>Edward Eugene Giles
+<br>William “Jason” Gillespie
+<br>Claudio Gratton
+<br>Brian Hackler
+<br>David Young Sun Han
+<br>Kathy (Harmon) Ledo
+<br>Brian Andreas Holloway
+<br>Gregory Tsan-Kao Huang
+<br>Largolee “Lark” Yulan (Huang)-Storms
+<br>Brian Glen Huck
+<br>Lee Imrey
+<br>Shamat Kachru
+<br>Julie Kay Kimmel
+<br>Eric Gregory Krock
+<br>Iris Kurman
+<br>Sara Lee
+<br>Kathleen Dori Liu
+<br>Robert C Liu
+<br>Maureen Ellen (McCord) Litwhiler
+<br>Elizabeth Marie (Miericke) Greaves
+<br>Lisa Marie (Norton) Young
+<br>Felix Sebastian (Orlong) Gallo
+<br>Lisa K (Palmer) Lang
+<br>Eugene Carroll Peppers
+<br>Felisitas Reindi
+<br>Celia Elaine Rothenberg
+<br>Stephen Runkle
+<br>Tina Beth (Schoeneweiss) Yoder
+<br>Beth (Schomer) Miller
+<br>Kristin Lauren (Seibold) Harkins
+<br>Albert Soong
+<br>Eric Stiles
+<br>Jullie Christine (Swadener) King
+<br>Marc Emile Talbot
+<br>Rebecca Diane Truelove
+<br>Brian Whetten
+<br>Jason Whitmarsh
+<br>Fordon Winner 
+
+<p><strong>Class of 1988:</strong><br>
+<br>William Beecher Baker
+<br>Barbara Bendahl
+<br>Kanchan Bhowmik
+<br>Robert Stephen Brewer
+<br>Sarah Joanne Bright
+<br>Kenneth R Brownfield
+<br>Andrew Eugene Chow
+<br>Thomas Choy
+<br>Marianne Ccizmadia
+<br>Paul Debevec
+<br>Jeffrey Joseph Denen
+<br>Paull Motley Dickinson
+<br>Amelia Phoebe  Eades
+<br>Shannon Noelle Barry Flood
+<br>Rachel Hardenbrook Gushee
+<br>Sarah La Barre Gushee
+<br>Mary S Harkness
+<br>Sazanne Henson
+<br>Karl Heinz Hess
+<br>Aaron Simeon Heumann
+<br>Daniel Benjamin Jacobson
+<br>Rebecca Ann Jockusch
+<br>Ellen (Johnson) Oh
+<br>Dandi Kaplan
+<br>Timothy James Kauffman
+<br>Marion  Anita Knight
+<br>Silvia Renate Knust
+<br>Colin Koteles
+<br>Melina Claire Larson
+<br>Lisa (Mabry) Eichler
+<br>GaeronMcClure
+<br>Meg Miericke
+<br>Mira Gail Millar
+<br>Laurel Erin Mitteenthal
+<br>Seetha Ursula Monrad
+<br>HeatherMorgan-Butler
+<br>Mary Katherine Mullally
+<br>John Robert Neaderhiser
+<br>Todd Nelson
+<br>Christopher Dean Nicholas
+<br>Stepehn Franklin Norton
+<br>Emily Lynn Osborn
+<br>Mark Angelo Paci
+<br>Naomi Parkhurst
+<br>Beth Anne Rempe
+<br>Nicholas Whittsitt Rinehart
+<br>Matthew Wesley Seitz
+<br>Jeff Sigtllman
+<br>Erika Swenson
+<br>Katherine Claire Szoke
+<br>Peter Chi-Tzong Wen
+<br>Nine Kathryn Wickens
+<br>Gordon Winner
+<br>Micah Yairi
+<br>Amanda Young
+
+
+<p><strong>Class of 1989:</strong><br>
+<br>Michael Wayne Armstrong
+<br>Yasmini Bhagwat
+<br>Chad Allen Brinkley
+<br>Odine Michay Brown
+<br>Rachel Buckmaster
+<br>Mark William Cahill
+<br>Andrew Cardman
+<br>Matthew C Childress
+<br>Sarah Jean Crawford
+<br>Kevin Curran
+<br>George Michael Evans
+<br>Andrew Dean Foland
+<br>Paul Franklin
+<br>Edna Sarah Friedberg
+<br>Joel Garcia
+<br>Heather Garrett
+<br>Arne Stewart Gullerud
+<br>Bethany Youngae Han
+<br>Stuart Mitchell Hanson
+<br>Pacia Harper
+<br>Ryan C Hedgepeth
+<br>Deborah Ann Hicks
+<br>Inga Hoffman
+<br>Deborah Joyce (Katzenellenbogen) Newhouse
+<br>Sueanne Kim
+<br>Kristin DeeAnn (Knaus) Satterlee
+<br>Stephanie AlexandraV eres (Kovacs) Cohen
+<br>Dana Ann (Kumar) Ryan
+<br>Lulu Kurman
+<br>Manjoo Lee
+<br>Ruth Ellen (Levy) Rau
+<br>Aaron John Loeb
+<br>James S Lynne
+<br>Scott Machtley
+<br>Paul Ferdnand Marty
+<br>Kalpana Matur
+<br>Stefan Jaime Medina
+<br>John Allen Meyers
+<br>Tamara Milbourn
+<br>Meredith Eden Minear
+<br>James Moberly
+<br>Marsha Gayle (Mohr) Bergmeier
+<br>Nellie Nanda
+<br>Mark Allan Neely
+<br>Alexandra M Newman
+<br>Milton Eli Otto, Jr.
+<br>Alan Overgren
+<br>Lynne Louise (Peck) Theis
+<br>Leah Sarah (Reingold) Gordon
+<br>Sanjiv Dilip Sarwate
+<br>Tamar Ann Shapiro
+<br>Vinny Krishan Singh
+<br>Laura Elizabeth Steigmann
+<br>Charlene Sweeney
+<br>Chanhsavat John Sylavong
+<br>Paul Francis Talbot
+<br>Jennifer Susan Thaler
+<br>Maryka Elizabeth Tamu (Trent) Baraka
+<br>Angela Tsay
+<br>Joel Ullom
+<br>Theodore Weinbaum
+<br>Angeline Wong
+
+
+
+
+<p><strong>Class of 1990:</strong>
+<br>John Bailey<br>
+Dolly (Banerjee) Roy<br>
+Rosie Barnes<br>
+Elizabeth Rochat Barrette<br>
+Monica (Bacishi) Huang<br>
+Frederick “Fritz” Leslie Burkhardt<br>
+Carolyn Elizabeth (Burr) Metzler<br>
+Vera Joanna Burton<br>
+Sean Byrne<br>
+Will Capel<br>
+Sean Cochrane<br>
+Mark J Cowan<br>
+Kevin Michael Curran<br>
+Juliette Natalie Dade<br>
+Desiree Davis<br>
+R Christopher Davis<br>
+Janet Ann Dornhoff<br>
+Bill Eisenstein<br>
+Ana Fradkin<br>
+Theodore Francis<br>
+Genevieve Futrelle<br>
+Fabio Gratton<br>
+Jeffrey Alan Hendrickson<br>
+Michael Lee Jacobs<br>
+Robert Watt Jamison III<br>
+Robert Clinton Johnson<br>
+Alexandra Marie (Johnston) Saab<br>
+Douglas Thomas Jolly<br>
+Caroline Yoon-Jung (Kim) Robinson<br>
+Robert Yi Soo Kim<br>
+Guy Klemens<br>
+Ellen Knight<br>
+Andrea Elaine Leap<br>
+Angie Hyounji Lee<br>
+Jane Lee<br>
+Helena Lin<br>
+Troy Darius Lozar<br>
+Sarah Elizabeth (Miller) Moore<br>
+Jenny Hye-Jin (Moon) Sung<br>
+Sonja Gabriella Moser<br>
+Patricia Rose Mullally<br>
+J Benjamin Murphy<br>
+Mickey Nanda<br>
+David Norman<br>
+Pari Pandharipande<br>
+Kevin Joseph Prior<br>
+Tale Ravndal<br>
+Alec Reisner<br>
+Sivan Ritz<br>
+Kie M (Ross) Zuran<br>
+Hugo Sorkin<br>
+Bonnie Elizabeth Stephens<br>
+Aaron David Stigberg<br>
+Alecia Marie (Terando) Rawlins<br>
+Neena Tripathy<br>
+Tasha Ruth van Es<br>
+Ellen Miriam Wheeler<br>
+Karen Allison Wickens<br>
+Kelly Michele (Wieme) Thomson<br>
+Frank M Winter<br>
+Kevin Wong<br>
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

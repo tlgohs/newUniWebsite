@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+    </head>
+
+<body>
+<div id="content">
+	<!--#include virtual="/navbar.html" -->
+	<div id="content-left">
+		<div id="section-title">Admissions</div>
+		<div id="image"><img src="/images/admissions/3dprint.jpg"></div>
+		<div class="section-content">
+			<p>University Laboratory High School – or “Uni” as it is better known – is one of the great public high schools in
+			the United States. It began in 1876 as a college preparatory school for the University of Illinois. In 1910 it was
+			additionally charged to be a laboratory school for the study of applied methods of teaching. As such, Uni
+			provides a balanced educational program for intellectual, creative, social, and physical development.
+			Uni High is a public school; however, as a unit within the University of Illinois at Urbana-Champaign, Uni is
+			not supported by local property tax dollars. As a result, Uni must receive support from other sources. The State
+			Board of Education provides the greatest portion of funds through legislative funding guidelines passed in 1983.
+			The University of Illinois provides building maintenance, utilities, some salary support, and other services.
+			Since Uni does not receive local property tax dollars, parents are asked to make a donation to help support the
+			annual budget. Currently, private donations provide 30% of Uni High’s budget. Voluntary financial support
+			from parents ensures that the experiences of today’s students match those of our remarkable graduates.</P>
+
+			<p><strong>Information About Uni</strong><br>
+			Uni offers a five-year <u>accelerated</u> high school curriculum that begins with the subfreshman year - a combination
+			of the seventh and eighth grades. Requirements are the following:
+			<ul>
+			<li>Five years of English;</li>
+			<li>Two consecutive years of French, German, Japanese, Latin, or Spanish;</li>
+			<li>Four years of mathematics, science, and social studies;</li>
+			<li>Five years of fitness conditioning in physical education;</li>
+			<li>One and a half years of arts (including the subfreshman interrelated arts program that includes art,
+			drama, and music);</li>
+			<li>One year of computer science (including the subfreshman interdisciplinary Computer Literacy course);
+			and</li>
+			<li>Required health course; and</li>
+			<li>Completion of Consumer Education on-line course.</li></ul>
+
+			<p>Uni students have the opportunity to select other courses to add depth and breadth to their requirements. For example, during the senior year, the Senior Project, as an elective course, affords students the opportunity for self-directed learning on campus or in the community.
+			Additionally, Uni students who are at least 15 years old and have earned a “B” average may enroll concurrently
+			in University of Illinois courses. Uni students are also eligible to work on independent study projects with
+			UIUC professors and to take courses concurrently at Parkland College. Ninety-nine percent of Uni students
+			attend four-year colleges or universities across the U.S. Several graduates each year defer admission to a four-year
+			institution in order to study abroad, travel or volunteer.</p>
+
+			<p>Uni students also participate in a wide variety of school activities, and students may start new clubs related to
+			their special interests after securing faculty sponsorship and Student Council approval. Membership in clubs is
+			open to all students. Students assist the school through elected service on the Student Council and the Student-
+			Faculty Advisory Committee. The arts and athletic programs at Uni are among the most extensive in the country
+			for schools of similar size. The athletic program practices a “no-cut” policy that allows any student to
+			participate in competitive athletics. The fine arts programs in music, drama, and art offer similar opportunities
+			for students of various levels of talent. More than 66 percent of the students at Uni play on interscholastic
+			teams, and more than 70 percent of the students at Uni participate in fine arts activities. During the year, Uni
+			students sponsor several school-wide programs. For example in February, during Agora Week, Uni students,
+			parents, teachers, alumni and community experts have the opportunity to take or teach classes that represent the
+			broad interests of the Uni community. This allows students to introduce themselves to new topics and
+			experiences.</p>
+			<h1>Admission</h1>
+			<p>Uni High invites all academically talented students whose parents will be living in the State of Illinois to apply.
+			<p>All current sixth and seventh graders whose parents will be living in the State of Illinois as of the first day of
+			school are eligible to apply. An application fee of $30 is assessed for each applicant. An application <em>Fee
+			Waiver Form</em> is included in the application packet for those who are eligible for reduced or free textbooks/lunch.
+			Students must be at least 11 years old on the first day of classes. Students who are enrolled in 8th grade should
+			apply for 9th grade admission. <strong>Applications for admission to grades 9-11 are considered only on a space-available
+			basis.</strong></p>
+			<p>
+			Admission to Uni is highly competitive. An admissions committee reviews applications on a name-blind basis
+			and makes recommendations to the Director of Uni. Each year, Uni accepts
+			approximately 65 students into its subfreshman class.</p>
+			<p>The Admissions Committee considers the following criteria when making its decision:</p>
+			<ul>
+			<li> Demonstration of a superior school record;</li> 
+			<li> Evidence of strong academic motivation;</li> 
+			<li> Secondary School Admission Test results;</li> 
+			<li> Evidence of outstanding creativity, leadership, initiative, or interests;</li> 
+			<li> Evidence of writing ability based on the SSAT writing sample;</li> 
+			<li> Information on the application provided by the applicant;</li> 
+			<li> Two teacher letters of recommendation (at least one of which must be from a teacher of English, Math, Social Studies, Science and Foreign Languages).  Can be from a current teacher and a teacher from the previous year, OR from two teachers of the current year. The Admissions Committee will only consider two letters of recommendation. Please submit only two.</li> </ul>
+			<p>Uni strives to maintain a reasonable balance of girls and boys in the subfreshman class. Uni strives to build a class of incoming students that is inclusive and representative of the surrounding communities. Admissions decisions are made without regard to home school district, familial relationships or any affiliation with the University of Illinois. Admission is for August entry only. <strong>Admission decisions are final. There is no appeal
+			process.</strong></p>
+			<p>
+			<h2> Uni Costs </h2> 
+			<p> Uni is a public school and does not charge tuition. Expenses include student fees (approximately $1070-1610 per year) and books and supplies (approximately $500 per year). Financial assistance to pay part or all of the cost of fees and books is available for families who can demonstrate financial need.  Payment plans are available to all families.</p>
+			<p>
+			<h2>Admissions Process</h2>
+			<ul>
+			<li>Please download the application forms directly from the Uni website: <a href="http://www.uni.illinois.edu/admissions/admissions_packet.shtml">http://www.uni.illinois.edu/admissions/admissions_packet.shtml</a>.</li>
+			<li>If you do not have access to a computer, you may contact Gwyn Ortiz, 217-244-4791 for assistance.</li>
+			<li>Use the release form in the admission packet to direct the applicant's current school to send official school records to Uni. Records <strong><u>must</u></strong> be released directly by the school to Uni. We will not accept any school records provided by an applicant.</li>
+			<li>Ask two teachers, who have met with the student on a daily basis within the past two academic years, to complete the recommendation forms for admission to Uni. We will only accept two recommendations. At least one recommendation must be from a teacher of the current year.</li>
+			<li>Take the Secondary School Admission Test (SSAT). (See SSAT page for more information.)</li>
+			<li>Submit completed application with $30 application fee by the published deadline. A Fee Waiver Form is attached for those families who cannot afford the application processing fee.</li>
+			<li>The completed application may be delivered to Uni High in person, or may be mailed to University Laboratory High School, ATTN: Admissions Committee, 1212 W. Springfield Avenue, Urbana, IL 61801.</li>
+		</div>
+	</div>
+	<!--#include file="admissionsSidebar.html"-->
+</div>
+<!--#include virtual="/footer.html"-->
+</body>
+
+</html>

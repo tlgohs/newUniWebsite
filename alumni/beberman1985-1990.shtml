@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+		<script>
+			menuSpot=7;
+		</script>
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Max Beberman Award Winners 1985-1990</div>
+				<div id="section-content">
+					<h1>1985 Beberman Award Winner: Benjamin Bailar</h1>
+					<p>Benjamin Bailar was Dean of the School of Business at Rice University as well as a former vice president and member of the board of the U.S. Gypsum Company in Chicago. In addition, he was named the 61st Postmaster General of the United States in February 1975. In 1970, the Postal Service was created as a semi-independent establishment of the executive branch of the government under an eleven-member Board of Governors. The purpose of the reorganization was to bring a more business-oriented administration to the huge federal postal system. As both the Postmaster General, and previously as the Deputy Postmaster General, Bailar sat on this board. With his background in finance and management, Bailar attempted to place the postal service on a strong economic base. His major responsibility was to administer this semi-independent government corporation so that it could support itself on revenues from mail users. Bailar was especially concerned with the quality of mail service and postal costs. One significant cost was labor, and Bailar negotiated a contract which averted a strike by the unionized postal employees in July 1975.</p>
+					
+					<h1>1986 Beberman Award Winner: Richard M. Noyes</h1>
+					<p>The late Richard M. Noyes was a chemistry professor at the University of Oregon. He was elected to the National Academy of Sciences in 1977 and the American Academy of Arts and Sciences in 1989. Noyes pioneered studies of oscillating chemical reactions, including the world-renowned "Oregonator" system. He was a graduate of Harvard and the California Institute of Technology. He also was heavily involved with the Sierra Club and worked to conserve natural resources. His major and continuing efforts involved influencing Northwest land use decisions.</p>
+
+					<h1>1987 Beberman Award Winner: Victoria Garrett</h1>
+					<p>Victoria Garrett, wife of Julius C. Burke, graduated with honors from the College of Wooster and then New York's Manhattan School of Music. Upon graduation, she joined the New York City Opera at Lincoln Center. She has taught voice at Bethel College, a four-year liberal arts college in Mishawaka, Ind., has sung with the Indiana Opera North company in South Bend, Ind., and now is a fine arts instructor and artist-in-residence at Bethel College.</p>
+
+					<h1>1988 Beberman Award Winner: Mary Murphy Schroder</h1>
+					<p>The Honorable Mary Murphy Schroeder is now Chief Judge of the Ninth Circuit, by far the largest circuit in the country, with a full complement of 28 judges. It handles about 20 percent of all of the appeals in the federal court system. She moved from the Arizona State Court of Appeals to the U.S. Court of Appeals in October 1979. Judge Schroeder received her J.D. from the University of Chicago and has been a visiting instructor at the Arizona State University Law school, where she received that law school's distinguished achievement award. She is an adjunct lecturer at Duke University. Judge Schroeder is active in several associations, including the National Association of Women Judges (president, 1998-9), the American Judicature Society and the National Association of Women Lawyers. Judge Schroeder also has been a member of the ABA Standing Committee on Federal Judicial Improvements.</p>
+
+					<h1>1989 Beberman Award Winner: George Frampton Jr.</h1>
+					<p>From 1986 to 1993, Frampton served as President of The Wilderness Society, a non-profit organization devoted to preserving wilderness and wildlife. From 1976 to 1985, he was a partner in the law firm of Rogovin, Stern & Huge of Washington, D.C. Also from 1979 to 1980, he was Deputy Director and Chief of Staff for the Nuclear Regulatory Commission's Investigation into the Three Mile Island Nuclear Accident. Frampton served as Assistant Special Prosecutor, Watergate Special Prosecution Force, from 1973 to 1975. Frampton was a Fellow at the Center for Law and Social Policy from 1972 to 1973. In addition, Mr. Frampton clerked for the Honorable Harry A. Blackmun, United States Supreme Court, during the Court's 1971 to 1972 session.
+Frampton received his B.A. in Physics and Philosophy, cum laude from Yale College, his M.S., with distinction, from the London School of Economics, and his J.D., magna cum laude from Harvard Law School. Previously he had served as law clerk to Supreme Court Justice Harry H. Blackmun, Special Counsel to the State of Alaska to investigate allegations of misconduct of the governor and his chief of staff, and co-authored a book on Watergate.</p>
+
+					<h1>1990 Beberman Award Winner: Marjorie G. Bardeen</h1>
+					<p>A manager of the Fermi National Accelerator Laboratory Education Office and a member of the Friends of FermiLab Board of Directors, a nonprofit corporation which exists to develop and conduct pre-college education programs at FermiLab, Bardeen has been the Principal Investigator of four National Science Foundation grants to Friends of FermiLab and has been the co-PI of an NSF grant that supports a collaboration of 10 federal Department of Energy national laboratories that conduct teacher enhancement and leadership institutes under the National Teacher Enhancement Program. She previously taught in the TAG program at the Handley Junior High School in Glen Ellyn, was the President of the Glenbard High School District Board of Education and was vice-president and program director of the Friends of FermiLab Association. Her husband, William A. Bardeen, Uni Class of 1958, was head of the Theoretical Physics Department at FermiLab.</p>
+
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

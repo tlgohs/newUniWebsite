@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Class Agents</div>
+				<div id="section-content">
+					<p>We still need Uni alumni class agents to help us reach out to each class. 
+The following list is all of our current class agents. 
+All other graduation years still need a volunteer. 
+If you would like to be a class agent for your class please email <a href="mailto:downey1@illinois.edu">Marianne Downey</a> or call her at 217-417-4305.</p>
+
+<p>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 75%;">
+  <td>1950</td>
+  <td>Mary Graham</td>
+  <td>zmgraham@sbcglobal.net</td>
+ </tr>
+ <tr>
+  <td>1951</td>
+  <td>Joe Casserly</td>
+  <td>joecasserly@juno.com</td>
+ </tr>
+ <tr>
+  <td>1952</td>
+  <td>David Bauer</td>
+  <td>bauerdavid@sbcglobal.net</td>
+ </tr>
+ <tr>
+  <td>1953</td>
+  <td>Chris Payne</td>
+  <td>crpayne30@hotmail.com</td>
+ </tr>
+ <tr>
+  <td>1954</td>
+  <td>Rolland Kelley</td>
+  <td>rwk10371@comcast.net</td>
+ </tr>
+ <tr>
+  <td>1955</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1956</td>
+  <td>Lorna Graff</td>
+  <td>lorna.graff@zeitlinrealtors.com</td>
+ </tr>
+ <tr>
+  <td>1957</td>
+  <td>Steve Sanderson</td>
+  <td>aardvark@illinois.edu</td>
+ </tr>
+ <tr>
+  <td>1958</td>
+  <td>Marcia Rudin</td>
+  <td>marciarudin@aol.com</td>
+ </tr>
+ <tr>
+  <td>1959</td>
+  <td>Joe Miles</td>
+  <td>joe@math.uiuc.edu</td>
+ </tr>
+ <tr>
+  <td>1960</td>
+  <td>John Schacht</td>
+  <td>john-schacht@uiowa.edu</td>
+ </tr>
+ <tr>
+  <td>1961</td>
+  <td>Norma Parker</td>
+  <td>normajean5@aol.com</td>
+ </tr>
+ <tr>
+  <td>1962</td>
+  <td>Ruth Wax Becker</td>
+  <td>ruthrbecker@gmail.com</td>
+ </tr>
+ <tr>
+  <td>1963</td>
+  <td>Katherine Kolb</td>
+  <td>kolbkatherine@gmail.com</td>
+ </tr>
+ <tr>
+  <td>1964</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1965</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1966</td>
+  <td>Tom Koehler</td>
+  <td>tkoehler@illinois.edu</td>
+ </tr>
+ <tr>
+  <td>1967</td>
+  <td>Dan Brodsky</td>
+  <td>wineguy3@swbell.net</td>
+ </tr>
+ <tr>
+  <td>1968</td>
+  <td>Mary Ann Lazarus</td>
+  <td>maryannlazarus2@gmail.com<span>&nbsp;</span></td>
+ </tr>
+ <tr>
+   <td>1968 
+   <td>Connie Hilton</td>
+   <td>connie.hilton2@gmail.com<span>&nbsp;</span></td>
+ </tr>
+  <tr>
+   <td>1968 
+   <td>Jan Rathbun Horowitz</td>
+   <td>jan1166@aol.com<span>&nbsp;</span></td>
+ </tr>
+ <tr>
+  <td>1969</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1970</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1971</td>
+  <td>Christine Payne</td>
+  <td>crpayne30@hotmail.com</td>
+ </tr>
+ <tr>
+  <td>1972</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1973</td>
+  <td>Walt Stewart</td>
+  <td>stewart@wrsalaw.com</td>
+ </tr>
+ <tr>
+  <td>1974</td>
+  <td>Irene Strohbeen</td>
+  <td>irstrohbeen@new.rr.com</td>
+ </tr>
+ <tr>
+  <td>1975</td>
+  <td>Mark Rubel</td>
+  <td>mark@pogostudio.net</td>
+ </tr>
+ <tr>
+  <td>1976</td>
+  <td>Karen Bush</td>
+  <td>ks-bush@illinois.edu</td>
+ </tr>
+ <tr>
+  <td>1977</td>
+  <td>Sarah Axel</td>
+  <td>sma27sma@comcast.net</td>
+ </tr>
+ <tr>
+  <td>1978</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>1979</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1980</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1981</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1982</td>
+  <td>Lisi Edwards</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>1983</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1984</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1985</td>
+  <td>Ursula Calef</td>
+  <td>hessursula@yahoo.com</td>
+ </tr>
+ <tr>
+  <td>1986</td>
+  <td>Brent Kyles</td>
+  <td>brentkyles@gmail.com</td>
+ </tr>
+ <tr>
+  <td>1987</td>
+  <td>Tony Chen</td>
+  <td>achen2222@yahoo.com</td>
+
+ </tr>
+ <td> </td>
+   <td>Courtney Olson</td>
+  <td>colson1987@gmail.com</td>
+
+ </tr>
+ <tr>
+  <td>&nbsp;</td>
+  <td>Miriam Davidson</td>
+  <td>miriamshare@yahoo.com</td>
+ </tr>
+ <tr>
+  <td>1988</td>
+  <td>John Hauser</td>
+  <td>jhauser@sbcglobal.net</td>
+ </tr>
+ <tr>
+  <td>1989</td>
+  <td>Leah Reingold</td>
+  <td>leah@alumni.caltec.edu</td>
+ </tr>
+ <tr>
+  <td>1990</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1991</td>
+  <td>Emily Svendsen</td>
+  <td>emkersven@gmail.com</td>
+ </tr>
+ <tr>
+  <td>1992</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1993</td>
+  <td>Erin Wilcox</td>
+  <td>erw314@gmail.com</td>
+ </tr>
+ <tr>
+  <td>1994</td>
+  <td>Morgan B Finch Johnston</td>
+  <td>mbjohnston@gmail.com</td>
+ </tr>
+ <tr>
+  <td>1995</td>
+  <td>Elizabeth Asako Kinase-Legg<span>ett</span></td>
+  <td>asakokl@yahoo.com</td>
+ </tr>
+ <tr>
+  <td>1996</td>
+  <td>Matt Modica</td>
+  <td>mmodica84@yahoo.com</td>
+ </tr>
+ <tr>
+  <td>1997</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>1998</td>
+  <td>Rebecca Bartlett</td>
+  <td>rebeccaebartlett@gmail.com<span>&nbsp;</span></td>
+ </tr>
+ <tr>
+  <td>1999</td>
+  <td>Jeff Helfrich</td>
+  <td>jeffhelfrich@gmail.com</td>
+ </tr>
+ <tr>
+  <td>2000</td>
+  <td>Beatrice Burton</td>
+  <td>beatrice.burton@gmail.com</td>
+ </tr>
+ <tr>
+  <td>2001</td>
+  <td>Matt Woodbury</td>
+  <td>mmwoodbury@gmail.com</td>
+ </tr>
+ <tr>
+  <td>2002</td>
+  <td>Nicola Bunick</td>
+  <td>nicola.a.bunick@gmail.com</td>
+ </tr>
+ <tr>
+  <td>2003</td>
+  <td>Hannah Kardon</td>
+  <td>kardon.hannah@gmail.com</td>
+ </tr>
+ <tr>
+  <td>2004</td>
+  <td>Michael Greenstone</td>
+  <td>greenstone1987@gmail.com</td>
+ </tr>
+ <tr>
+  <td>2005</td>
+  <td>Casey Roth</td>
+  <td>caseyroth09@gmail.com</td>
+ </tr>
+ <tr>
+  <td>2006</td>
+  <td>Angelina Liang</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2007</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2008</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2009</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2010</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2011</td>
+  <td>Jenny Cooke</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2012</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2013</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2014</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2015</td>
+  <td>Donna Xia</td>
+  <td>donnaxia617@gmail.com</td>
+ </tr>
+ <tr>
+  <td>2016</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+</table>
+				</div>
+			</div>
+			<!--#include file="alumniSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
