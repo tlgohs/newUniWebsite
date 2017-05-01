@@ -1,118 +1,88 @@
-.navbar {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    font-size: 0;
-    list-style-type: none;
-    color: white;
+#quicklinks {
+    display: flex;
+    height: 2rem;
+    padding: 0 15%;
+    
+    font-size: 0.875rem;
+    
+    color: #E87722;
+    background-color: #FFFFFF;
+    background-color: rgba( 255, 255, 255, 0.9 );
+}
+
+#uni-name {
+    flex: 1;
+}
+
+#quicklinks a {
+    line-height: 2rem;
+    
+    color: #E87722;
+}
+
+#quicklinks a:hover {
+    text-decoration: underline;
+}
+
+#quicklinks span::after {
+    content: " | ";
+    white-space: pre; /* the trailing space will be collapsed unless this is set to pre */
+}
+
+#quicklinks span:last-child:after {
+    content: "";
+}
+
+#main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4em;
+    padding: 0 15%;
+    
     background-color: #E87722;
     background-color: rgba(232, 119, 34, 0.9);
 }
 
-.dropbtn {
-    display: inline-block;
-    width: 10em;
-    padding: 1.5em 0;
+#main-nav a {
+    flex: 1;
+    height: 4em;
+    
     text-align: center;
-    text-decoration: none;
-    font-size: 16px;
+    line-height: 4em;
+    
     color: white;
-}
-
-.navbar a {
+    
     -webkit-transition: background-color 0.3s ease;
     -moz-transition: background-color 0.3s ease;
     -o-transition: background-color 0.3s ease;
     transition: background-color 0.3s ease;
 }
 
-.navbar a:hover {
+#main-nav a:hover {
     background-color: #E87722;
 }
 
-.navbar li {
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    min-width: 10em;
-    /* background-color: #E87722; */
-    background-color: rgba(232, 119, 34, 0.9);
-    font-size: 16px;
-}
-
-.dropdown-content a {
-    font-size: 16px;
-    color: white;
-    padding: 0.75em 1em;
+nav a {
     text-decoration: none;
-    display: block;
-    text-align: left;
 }
 
-.dropdown:hover .dropdown-content {
-    display: block;
+div.uni-mark {
+    padding: 0 5%;
 }
 
-.navbar img {
-    font-size: 16px;
+img.uni-mark {
+    display: block;
     height: 7em;
-    position: absolute;
-    border: 1px solid white;
-    margin: -4em 4em 0 4em;
+    outline: solid 1px white;
+    outline-offset: -1px;
+    
     -webkit-box-shadow: 0px 0px 50px 4px rgba(0,0,0,0.25);
     -moz-box-shadow: 0px 0px 50px 4px rgba(0,0,0,0.25);
     box-shadow: 0px 0px 50px 4px rgba(0,0,0,0.25);
 }
 
-.navbar .spacer {
-    font-size: 16px;
-    display: inline-block;
-    width: 15em;
-}
-
-#small-header-background {
-    background-color: white;
-    background-color: rgba( 255, 255, 255, 0.9 )
-}
-
-#small-header {
-    margin: auto;
-    width: 75em;
-}
-
-#small-header, #small-header a {
-    color: #E87722;
-    text-decoration: none;
-}
-
-#small-header a:hover {
-    text-decoration: underline;
-}
-
-#name {
-    display: inline-block;
-    margin: .75em 0;
-    font-size: 0.9em;
-}
-
-.quicklinks {
-    margin: .75em 0;
-    float: right;
-    font-size: 0.9em;
-}
-
-.quicklinks li {
-    display: inline-block;
-}
-
-.quicklinks li::after {
-    content: " |";
-}
-
-.quicklinks li:last-child:after {
-    content: "";
+.fix-navbar {
+    position: fixed;
+    width: 100%; /* Doesn't work without this, not quite sure why */
 }
