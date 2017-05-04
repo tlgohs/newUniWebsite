@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+		<link rel="stylesheet" href="third-level.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+			<div id="content-left">
+				<div id="section-title">Uni High Master Calendar</div>
+				<div id="section-content">
+					<h2>Bell Schedule (Mon, Wed, Fri)</h2>
+<ul>
+   <li> 1st Period 8:00 - 8:45</li>
+   <li> 2nd Period 8:50 - 9:35</li>
+    <li>3rd Period 9:40 -10:25</li>
+    <li>4th Period 10:30 -11:15</li>
+    <li>Lunch 11:15 - 11:45</li>
+   <li> 5th Period 11:50 - 12:35</li>
+   <li> 6th Period 12:40 - 1:25</li>
+   <li> UNI PERIOD 1:25-2:10</li>
+   <li> 7th Period 2:15 - 3:00</li>
+   <li> 8th Period 3:05 - 3:50</li>
+</ul><hr>
+<h2>Bell Schedule (Tues & Thurs)</h2>
+<ul>
+    <li>1st Period 8:00 - 8:45</li>
+   <li> 2nd Period 8:50 - 9:35</li>
+   <li> 3rd Period 9:40 -10:25</li>
+   <li> 4th Period 10:30 -11:15</li>
+   <li> Lunch 11:15 - 11:45</li>
+   <li> 5th Period 11:50 - 12:35</li>
+   <li> 6th Period 12:40 - 1:25</li>
+   <li> 7th Period 1:30 - 2:15</li>
+   <li> 8th Period 2:20 - 3:05</li>
+</ul><hr>
+
+<h2>Yearbook Picture Day Schedule</h2>
+<ul>
+   <li> 1st Period 8:00 - 8:45 Subbies</li>
+ <li>2nd Period 8:50 - 9:35 Juniors</li>
+ <li>UNI PERIOD 9:35 – 10:20 (Any extra Juniors, Faculty or Freshman and Sophomores who want to get done early)</li>
+ <li>3rd Period 10:25 -11:10 Sophomores </li>
+ <li>Lunch 11:10 - 11:40</li>
+ <li>4th Period 11:45 -12:30 Freshman</li>
+ <li>5th Period 12:35 - 1:20</li>
+ <li>6th Period 1:25 - 2:10</li>
+ <li>7th Period 2:15 - 3:00</li>
+ <li>8th Period 3:05 - 3:50</li>
+</ul><hr>
+
+
+
+<h2>Senior Auction</h2>
+<ul>
+     <li>1st Period 8:00 - 8:45</li>
+    <li> 2nd Period 8:50 - 9:35</li>
+    <li> 3rd Period 9:40 -10:25</li>
+    <li> 4th Period 10:30 -11:15</li>
+   <li>  Lunch 11:15 - 11:45 (senior set up)</li>
+    <li> 5th Period 11:50 - 12:35</li>
+    <li> 6th Period 12:40 - 1:25</li>
+    <li> UNI PERIOD 1:25-2:10- Senior Auction Uni Gym</li>
+   <li>  7th Period 2:15 - 3:00</li>
+    <li> 8th Period 3:05 - 3:50</li>
+</ul><hr>
+<h2>Spirit Week Assembly Bell Schedule</h2>
+<ul>
+   <li> 1st Period 8:00 - 8:40</li>
+   <li> 2nd Period 8:45 - 9:25</li>
+   <li> 3rd Period 9:30 -10:10</li>
+    <li>4th Period 10:15 - 10:55</li>
+  <li>  5th Period 11:00 - 11:40</li>
+   <li> Lunch 11:40 - 12:10</li>
+   <li> 6th Period 12:15 - 12:55</li>
+   <li> 7th Period 1:00 - 1:40</li>
+   <li> 8th Period 1:45 - 2:25</li>
+   <li> UNI PERIOD ASSEMBLY 2:35-3:50</li>
+</ul><hr>
+<h2>Awards Ceremony</h2>
+<ul>
+   <li>  1st period 8 - 8:40</li>
+   <li>  2nd Period 8:45 - 9:25</li>
+   <li>  3rd Period 9:30 - 10:10</li>
+   <li>  4th Period 10:15 - 11:00</li>
+  <li>   Lunch 11:00 - 11:30</li>
+  <li>   5th Period 11:35 - 12:15</li>
+   <li>  6th Period 12:20 - 1:00</li>
+   <li>  Awards Assembly 1:10 - 2:20</li>
+   <li>  7th Period 2:25 - 3:05</li>
+   <li>  8th Period 3:10 - 3:50</li>
+</ul><hr>
+<h2>Weather Related 1PM Dismissal</h2>
+<ul>
+  <li>  1st 8:00 - 8:30</li>
+   <li> 2nd 9:35 - 9:05</li>
+   <li> 3rd 9:10 - 9:40</li>
+    <li>4th 9:45 - 10:15</li>
+    <li>5th 10:20 - 10:50</li>
+    <li>6th 10:55 - 11:25</li>
+    <li>7th 11:30 - 12:00</li>
+    <li>8th 12:05 - 12:35</li>
+    <li>Lunch 12:35 - 1:00 Dismissal</li>
+</ul><hr>
+<h2>Weather Related Late Start</h2>
+<ul>
+   <li> 1st Period 10:00 - 10:35</li>
+   <li> 2nd Period 10:40 - 11:15</li>
+   <li> 3rd Period 11:20 - 11:55</li>
+   <li> Lunch 11:55 - 12:30</li>
+   <li> 4th Period 12:35 - 1:10</li>
+   <li> 5th Period 1:15 - 1:50</li>
+   <li> 6th Period 1:55 - 2:30</li>
+   <li> 7th Period 2:35 - 3:10</li>
+   <li> 8th Period 3:15 - 3:50</li>
+</ul><hr>
+<h2>Early dismissal days - 11:55</h2>
+<ul>
+  <li>  1st Period 8:00 - 8:25</li>
+  <li>  2nd Period 8:30 - 8:55</li>
+  <li>  3rd Period 9:00 - 9:25</li>
+   <li> 4th Period 9:30 - 9:55</li>
+   <li> 5th Period 10:00 - 10:25</li>
+   <li> 6th Period 10:30 - 10:55</li>
+   <li> 7th Period 11:00 - 11:25</li>
+   <li> 8th Period 11:30 - 11:55</li>
+</ul><hr>
+<h2>Opening Day Assembly Schedule</h2>
+<ul>
+  <li>  Assembly 8:00 - 8:40</li>
+   <li> 1st Period 8:45 - 9:30</li>
+   <li> 2nd Period 9:35 - 10:20</li>
+   <li> 3rd Period 10:25 - 11:10</li>
+    <li>Lunch 11:10 - 11:40</li>
+   <li> 4th Period 11:45 - 12:30</li>
+   <li> 5th Period 12:35 - 1:20</li>
+   <li> 6th Period 1:25 - 2:10</li>
+    <li>7th Period 2:15 - 3:00</li>
+    <li>8th Period 3:05 - 3:50</li>
+</ul>
+<hr>
+<h2>Spring Alumni Agora Days Schedule</h2>
+<ul>
+  <li>1st 8:00 to 8:25</li>
+<li>2nd 8:30 to 8:55</li>
+<li>3rd 9:00 to 9:25</li>
+<li>4th 9:30 to 9:55</li>
+<li>5th 10:00 to 10:25</li>
+<li>6th 10:30 to 10:55</li>
+<li>Lunch 10:55 to 11:30</li>
+<li>7th 11:35 to 12:00</li>
+<li>8th 12:05 to 12:30</li>
+<li>Alumni Agora Session 1 12:40 to 1:25</li>
+<li>Alumni Agora Session 2 1:35 to 2:20</li>
+<li>Alumni Agora Session 3 2:30 to 3:15</li>
+</ul>
+<hr>
+<h2>Yearbook Distribution Day</h2>
+<ul>
+<li>1st Period 8:00 - 8:45</li>
+<li>2nd Period 8:50 - 9:35</li>
+<li>3rd Period 9:40 -10:25</li>
+<li>4th Period 10:30 -11:15</li>
+<li>Lunch 11:15 - 11:45</li>
+<li>5th Period 11:50 - 12:35</li>
+<li>6th Period 12:40 - 1:25</li>
+<li>7th Period 1:30 - 2:15</li>
+<li>8th Period 2:20 - 3:05</li>
+<li>3:05 Distribute Yearbooks</li>
+</ul>
+				</div>
+			</div>
+			<!--#include file="calendarSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
