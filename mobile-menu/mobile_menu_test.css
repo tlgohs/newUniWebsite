@@ -1,153 +1,153 @@
 body {
-	background-color: #051774;
-	color: white;
-	font-family: sans-serif;
+    background-color: #051774;
+    color: white;
+    font-family: sans-serif;
 }
 
 .mobile-menu {
-	background-color: #d16d2a;
-	position: fixed;
-	width: 70%;
-	height: 100%;
-	right: -75%;
-	top: 0px;
-	color: white;
-	transition: 0.224s;
-	box-shadow: -10px 0px 50px black;
+    background-color: #d16d2a;
+    position: fixed;
+    width: 70%;
+    height: 100%;
+    right: -75%;
+    top: 0px;
+    color: white;
+    transition: 0.224s;
+    box-shadow: -10px 0px 50px black;
 }
 
 .mobile-menu > ul {
-	list-style: none;
-	padding: 3px;
-	margin: 0px;
+    list-style: none;
+    padding: 3px;
+    margin: 0px;
 }
 
 .mobile-menu > ul > li , .mobile-submenu > li {
-	padding: 8px;
-	margin: 2px;
-	width: auto;
-	height: auto;
-	font-size: 3vh;
-	border-bottom: 2px solid #c15d1a;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-left: 20px;
+    padding: 8px;
+    margin: 2px;
+    width: auto;
+    height: auto;
+    font-size: 3vh;
+    border-bottom: 2px solid #c15d1a;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 20px;
 }
 
 .mobile-submenu > li:not(:nth-child(2)) {
-	padding-left: 70px;
-	font-size: 2.5vh;
-	font-weight: lighter;
+    padding-left: 70px;
+    font-size: 2.5vh;
+    font-weight: lighter;
 }
 
 .mobile-menu > ul > li:hover , .mobile-submenu > li:hover:not(:nth-child(2)) {
-	background-color: #e87722;
+    background-color: #e87722;
 }
 
 .mobile-menu > ul > li > a , .mobile-submenu > li:not(:nth-child(2)) > a, .mobile-menu-icon-container > a {
-	width: 100%;
-	text-decoration: none;
-	color: white;
+    width: 100%;
+    text-decoration: none;
+    color: white;
 }
 
 .mobile-submenu > li:not(:nth-child(2)):not(:first-child) > a {
-	color: #eeeeee;
+    color: #eeeeee;
 }
 
 .mobile-submenu {
-	position: fixed;
-	right: -70%;
-	list-style: none;
-	width: 70%;
-	background-color: #d16d2a;
-	height: 100%;
-	padding: 0px;
-	margin: 0px;
-	top: 0px;
-	transition: 0.224s;
+    position: fixed;
+    right: -70%;
+    list-style: none;
+    width: 70%;
+    background-color: #d16d2a;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    top: 0px;
+    transition: 0.224s;
 }
 
 .mobile-submenu > li:first-child {
-	background-color: #c15d1a;
-	font-weight: lighter;
-	padding-left: 20px;
+    background-color: #c15d1a;
+    font-weight: lighter;
+    padding-left: 20px;
 }
 
 .mobile-submenu > li:nth-child(2) > a {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 .mobile-submenu > li:nth-child(2) {
-	border-bottom: 0px;
+    border-bottom: 0px;
 }
 
 #submenu-container {
-	list-style-type: none;
+    list-style-type: none;
 }
 
 .mobile-menu > ul > li:first-child {
-	height: 6vh;
-	padding-left: 8px;
+    height: 6vh;
+    padding-left: 8px;
 }
 
 .mobile-menu-icon {
-	height: 5vh;
-	display: inline;
-	width: 15% !important;
-	text-align: center;
-	line-height: 100%;
-	font-size: 5vh;
-	padding-top: 0px;
-	color: white;
-	font-weight: bolder;
+    height: 5vh;
+    display: inline;
+    width: 15% !important;
+    text-align: center;
+    line-height: 100%;
+    font-size: 5vh;
+    padding-top: 0px;
+    color: white;
+    font-weight: bolder;
 }
 
 .mobile-menu-icon > img {
-	height: 100%;
+    height: 100%;
 }
 
 .float-right {
-	float: right;
+    float: right;
 }
 
 .float-left {
-	float: left;
+    float: left;
 }
 
 .mobile-menu-right-icon > img {
-	height: 100%;
-	outline: 1px solid white;
-	outline-offset: -1px;
+    height: 100%;
+    outline: 1px solid white;
+    outline-offset: -1px;
 }
 
 .mobile-menu-icon-container {
-	width: 100%;
-	padding: 0px;
-	margin: 0px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
 }
 
 .mobile-menu > ul > li:not(:first-child) > a:after {
-	content: "\25ba";
-	float: right;
-	color: #c15d1a;
+    content: "\25ba";
+    float: right;
+    color: #c15d1a;
 }
 
 .mobile-submenu > li:first-child > a:before {
-	content: "\25c4";
-	padding-right: 10px;
+    content: "\25c4";
+    padding-right: 10px;
 }
 
 .mobile-quicklinks > ul > li {
-	font-size: 2vh;
-	padding-bottom: 3px;
+    font-size: 2vh;
+    padding-bottom: 3px;
 }
 
 .mobile-quicklinks > ul > li > a {
-	text-decoration: none;
-	color: #ddd;
+    text-decoration: none;
+    color: #ddd;
 }
 
 .mobile-quicklinks > ul {
-	padding-left: 0px;
-	list-style-type: none;
+    padding-left: 0px;
+    list-style-type: none;
 }
