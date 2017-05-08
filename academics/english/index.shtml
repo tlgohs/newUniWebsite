@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">English</div>
+                <div id="section-content">
+				<p>University High's English program is a sequential five-year study of literature, writing, public speaking, and media. The curriculum begins with a three year core sequence focused on broad geographic, cultural, and historical themes, then moves into a final two years made up of four semesters of required but choice-oriented courses. These semester-long classes center on a variety of specific themes and topics that build on foundations laid in the first three years of English classes and are open to both juniors and seniors. In addition to the five-year program, the English department offers electives: Creative Writing, Journalism, Current Topics in Social Justice, and Gender Studies.
+</p>
+<p>In all of our core courses, literary selections are either classics (ancient and modern) or contemporary selections of high literary merit. Every year, students study works in a variety of literary forms: prose fiction (novels, short stories), non-fiction (essays, autobiographies, and memoirs), drama, poetry, and film. Teachers take care in selecting literature appropriate to the developmental level of students and works that complement other offerings in terms of theme, historical time period, and cultural diversity. Students acquire not only knowledge and understanding of literature but also the tools to critically analyze new texts in a variety of forms and genres.
+
+</p>
+<p>Writing is a central focus of the English department curriculum. The English faculty approaches writing as a process--one that is creative and work intensive, initially messy but evolving toward ever greater levels of focus. We teach students to aspire toward an end product that is detailed, unified, and coherent. We emphasize content and clarity over length. Most importantly, we encourage writing that expresses a fresh, individual voice. We stress the fundamentals – structure, mechanics, research, documentation, and citation – as crucial steps toward developing a distinctive and original voice and articulating an individual point of view. At each level of the curriculum we emphasize purpose, audience, thesis, invention, organization, drafting, providing support, seeking feedback, and intensive revision.
+
+</p>
+<p>In the course of our five-year curriculum, students will gain an awareness of their own strengths as writers and the flexibility to write successfully in a wide variety of contexts, from composing a concise, well supported essay for the SAT or AP exam to crafting an incisive piece of literary criticism, a persuasive letter to the editor, or a compelling report of scientific findings. Students will graduate with the understanding that they have something worthwhile to say and the skills to say it with authority and panache.
+
+</p>
+				</div>
+            </div>
+            <!--#include virtual="/academics/english/englishSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>University Laboratory High School</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" integrity="sha256-t2/7smZfgrST4FS1DT0bs/KotCM74XlcqZN5Vu7xlrw=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="/navbar.css">
+        <link rel="stylesheet" href="/footer.css">
+        <link rel="stylesheet" href="/academics/academics.css">
+    </head>
+    <body>
+        <div id="content">
+            <!--#include virtual="/navbar.html" -->
+            <div id="content-left">
+                <div id="section-title">English Faculty</div>
+                <div id="section-content">
+					<p><b>Phillip Ernstmeyer </b><a href="mailto:pernstm2@illinois.edu"> (pernstm2) </a>
+teaches Sophomore English. He received his B.A. in English from the University of Nebraska at Kearney and his M.A. and Ph.D. in English from the University of Illinois at Urbana-Champaign. He is assistant director for the Writing Center, and supervisor for Philosophy Club, Political Activism Club, Spoken Word Club, and Bollywood Club. </p>
+
+<p><b>Carol Lombardi</b> <a href="mailto:clombard@illinois.edu"> (clombard) </a>
+teaches two sections of Journalism, is the Gargoyle advisor and works for the Advancement Office. She earned a B.A. from the State University of New York at Oswego and an M.S. from the University of Illinois. </p>
+
+<p><b>Elizabeth Majerus</b> <a href="mailto:emajerus@illinois.edu"> (emajerus) </a>is the Executive Teacher in the department of English. She teaches The Nineteenth-Century Novel, Non-Fiction Writing, Poetry, Native-American and Chicano Literature, and Creative Writing. She earned her B.A. in English and Integrated Liberal Studies at the University of Wisconsin at Madison, and her M.A. and Ph.D. in English Literature from the University of Illinois at Urbana-Champaign. 
+</p>
+<p>The blogs for her classes are the following:
+<ul><li> Poetry: <a href= "http://unipoetryclass.blogspot.com/ ">http://unipoetryclass.blogspot.com</a> 
+<li>Non-Fiction Writing:  <a href= "http://emajerus.blogspot.com/"> http://emajerus.blogspot.com</a> 
+<li>Native-American and Chicano Literature: <a href= "http://na-chicano-lit.blogspot.com/ ">http://na-chicano-lit.blogspot.com</a>
+<li>Nineteenth-Century Novel: <a href="http://nineteenth-century-novel-uni.blogspot.com/">http://nineteenth-century-novel-uni.blogspot.com</a></p></li></ul></p>
+
+<p><b>Matt Mitchell</b> <a href="mailto:mtmitch@illinois.edu"> (mtmitch) </a>
+teaches African American Literature, the Hero's Journey, and the Coming-of-Age Novel. He earned his B.A. in English at Rutgers University in 1994 and his M.A. in English at the University of Illinois in 1997. He also teaches the Twentieth-Century Novel, the Short Story, and History as Fiction. His current class blogs are: <a href="https://www.blogger.com/profile/17745167749128309461">https://www.blogger.com/profile/17745167749128309461</a>.</p>
+
+<p><b>Steve Rayburn</b> <a href="mailto:srayburn@illinois.edu"> (srayburn) </a> is a Teaching Associate in English. He holds a B.A. in English from Lambuth University, a M.A. in English and American Literature from Ohio University, and completed doctoral course work at The University of Mississippi. Currently he teaches Freshman English and a Junior/Senior Seminar. He is also the sponsor of the Current Events Club and serves as a faculty representative on PFO.</p>
+<p><b>Kathleen Rodems</b><a href="mailto:krodems@illinois.edu"> (krodems) </a>
+teaches Subfreshman English along with Gender Studies and Non-Fiction Writing. She earned her B.A. at the University of Illinois at Springfield and her M.A. at Eastern Illinois University.  </p>
+				</div>
+            </div>
+            <!--#include virtual="/academics/english/englishSidebar.html" -->
+        </div>
+        
+        <!--#include virtual="/footer.html" -->
+    </body>
+</html>
