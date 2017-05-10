@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="40" width="40" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1000 1000">
+ <g transform="translate(0 -52.362)" stroke="#1E417B" stroke-width="38.038">
+  <path stroke-linejoin="round" d="m19.019 913.34h961.96v-721.96h-961.96z" fill-rule="evenodd" fill="#fff"/>
+  <g fill="none">
+   <path stroke-linejoin="round" d="m19.019 299.68 480.98 342.93 480.98-342.93"/>
+   <path d="m19.019 913.34 345.7-360.98"/>
+   <path d="m980.98 913.34-345.7-360.98"/>
+  </g>
+ </g>
+</svg>
